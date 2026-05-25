@@ -14,4 +14,6 @@ Then open `http://127.0.0.1:8765/`.
 
 ## GitHub Pages
 
-This repo is ready for GitHub Pages from the `main` branch root.
+Live site: https://rkjat65.github.io/upsc_prelims/
+
+GitHub Pages is configured from the `gh-pages` branch root.
