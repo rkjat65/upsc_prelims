@@ -1,0 +1,314 @@
+<!doctype html>
+<html lang="en">
+  <head>
+    <meta charset="utf-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1" />
+    <title>UPSC Prelims PYQ Intelligence Dashboard</title>
+    <link rel="preconnect" href="https://cdn.plot.ly" />
+    <link rel="stylesheet" href="./styles.css" />
+  </head>
+  <body>
+    <div class="app-shell">
+      <aside class="sidebar" aria-label="Dashboard navigation">
+        <div class="brand">
+          <span class="brand-mark">GG</span>
+          <div>
+            <strong>GyanGram</strong>
+            <span>PYQ Intelligence</span>
+          </div>
+        </div>
+        <nav>
+          <a href="#overview">Overview</a>
+          <a href="#subject">Subject Intelligence</a>
+          <a href="#report-insights">Report Insights</a>
+          <a href="#syllabus">Syllabus Heatmap</a>
+          <a href="#codex">Codex Analysis</a>
+          <a href="#explorer">Question Explorer</a>
+          <a href="#report">Report</a>
+        </nav>
+        <div class="source-note">
+          <span>Sources</span>
+          <p>2011-2025 PYQ Master, Master Syllabus, and enriched 2026 Set A.</p>
+        </div>
+      </aside>
+
+      <main>
+        <section id="overview" class="hero-section">
+          <div class="hero-copy">
+            <p class="eyebrow">UPSC Prelims 2011-2026</p>
+            <h1>PYQ pattern intelligence linked to the GyanGram syllabus graph.</h1>
+            <p>
+              Explore subject shifts, topic recurrence, untapped syllabus zones, and
+              the 2026 paper through an audit-ready analytical layer.
+            </p>
+          </div>
+          <div class="hero-actions">
+            <button class="primary-action" id="downloadReport">Export report</button>
+            <button class="ghost-action" id="resetFilters">Reset filters</button>
+          </div>
+        </section>
+
+        <section class="kpi-grid" aria-label="Key metrics">
+          <article>
+            <span>Total PYQs</span>
+            <strong id="kpiTotal">--</strong>
+            <small>2011-2026 combined</small>
+          </article>
+          <article>
+            <span>2026 Questions</span>
+            <strong id="kpi2026">--</strong>
+            <small>mapped to syllabus</small>
+          </article>
+          <article>
+            <span>2026 Topics</span>
+            <strong id="kpiTopics">--</strong>
+            <small>unique topic IDs</small>
+          </article>
+          <article>
+            <span>Rare Signals</span>
+            <strong id="kpiRare">--</strong>
+            <small>low-history or new nodes</small>
+          </article>
+        </section>
+
+        <section class="controls" aria-label="Filters">
+          <label>
+            Subject
+            <select id="subjectFilter"></select>
+          </label>
+          <label>
+            Mapping confidence
+            <select id="confidenceFilter"></select>
+          </label>
+          <label>
+            Topic signal
+            <select id="signalFilter"></select>
+          </label>
+          <label class="search-control">
+            Search question, topic, unit
+            <input id="searchBox" type="search" placeholder="Type to filter 2026 map" />
+          </label>
+        </section>
+
+        <section id="subject" class="grid two">
+          <article class="panel span-2">
+            <div class="panel-head">
+              <div>
+                <p class="eyebrow">Subject pressure</p>
+                <h2>2026 vs historical weight</h2>
+              </div>
+              <span class="chip">Delta and index view</span>
+            </div>
+            <div id="subjectBar" class="chart tall"></div>
+          </article>
+
+          <article class="panel">
+            <div class="panel-head">
+              <div>
+                <p class="eyebrow">Timeline</p>
+                <h2>Subject trend by year</h2>
+              </div>
+            </div>
+            <div id="trendLine" class="chart"></div>
+          </article>
+
+          <article class="panel">
+            <div class="panel-head">
+              <div>
+                <p class="eyebrow">2026 composition</p>
+                <h2>Subject mix</h2>
+              </div>
+            </div>
+            <div id="subjectDonut" class="chart"></div>
+          </article>
+        </section>
+
+        <section id="report-insights" class="grid two">
+          <article class="panel span-2 report-hero">
+            <div>
+              <p class="eyebrow">Incorporated report thesis</p>
+              <h2 id="reportHeadline">The Paper that Rewrote the Rules</h2>
+              <p id="reportTldr"></p>
+            </div>
+          </article>
+
+          <article class="panel span-2">
+            <div class="panel-head">
+              <div>
+                <p class="eyebrow">Year-on-year shock</p>
+                <h2>2025 vs 2026 subject realignment</h2>
+              </div>
+              <span class="chip">Report comparison</span>
+            </div>
+            <div id="compare2025Chart" class="chart tall"></div>
+          </article>
+
+          <article class="panel">
+            <div class="panel-head">
+              <div>
+                <p class="eyebrow">Question architecture</p>
+                <h2>Question types in 2026</h2>
+              </div>
+            </div>
+            <div id="typeChart" class="chart"></div>
+          </article>
+
+          <article class="panel">
+            <div class="panel-head">
+              <div>
+                <p class="eyebrow">Static vs current</p>
+                <h2>Current-affairs placement</h2>
+              </div>
+            </div>
+            <div id="currentStaticChart" class="chart"></div>
+          </article>
+
+          <article class="panel span-2">
+            <div class="panel-head">
+              <div>
+                <p class="eyebrow">Narrative shifts</p>
+                <h2>What the HTML report adds to the dashboard</h2>
+              </div>
+            </div>
+            <div id="reportShiftGrid" class="finding-grid"></div>
+          </article>
+
+          <article class="panel span-2">
+            <div class="panel-head">
+              <div>
+                <p class="eyebrow">Format mutations</p>
+                <h2>New question behaviours to train for</h2>
+              </div>
+            </div>
+            <div id="mutationGrid" class="mutation-grid"></div>
+          </article>
+        </section>
+
+        <section id="syllabus" class="grid two">
+          <article class="panel span-2">
+            <div class="panel-head">
+              <div>
+                <p class="eyebrow">Syllabus graph</p>
+                <h2>Unit heatmap: historic depth vs 2026 demand</h2>
+              </div>
+              <span class="chip">Topic-linked view</span>
+            </div>
+            <div id="unitBubble" class="chart tall"></div>
+          </article>
+
+          <article class="panel span-2">
+            <div class="panel-head">
+              <div>
+                <p class="eyebrow">Topic hierarchy</p>
+                <h2>Syllabus treemap by accumulated PYQ weight</h2>
+              </div>
+              <span class="chip">Subject / unit / topic</span>
+            </div>
+            <div id="topicTreemap" class="chart tall"></div>
+          </article>
+
+          <article class="panel">
+            <div class="panel-head">
+              <div>
+                <p class="eyebrow">Signals</p>
+                <h2>2026 topic signal split</h2>
+              </div>
+            </div>
+            <div id="signalBars" class="chart"></div>
+          </article>
+
+          <article class="panel">
+            <div class="panel-head">
+              <div>
+                <p class="eyebrow">Audit quality</p>
+                <h2>Mapping confidence</h2>
+              </div>
+            </div>
+            <div id="confidenceGauge" class="chart"></div>
+          </article>
+
+          <article class="panel span-2">
+            <div class="panel-head">
+              <div>
+                <p class="eyebrow">High leverage topics</p>
+                <h2>Top recurring and 2026-hit syllabus nodes</h2>
+              </div>
+            </div>
+            <div class="table-wrap">
+              <table id="topicTable"></table>
+            </div>
+          </article>
+        </section>
+
+        <section id="codex" class="panel">
+          <div class="panel-head">
+            <div>
+              <p class="eyebrow">Codex analysis layer</p>
+              <h2>What the model surfaces beyond a spreadsheet</h2>
+            </div>
+          </div>
+          <div id="findingGrid" class="finding-grid"></div>
+        </section>
+
+        <section id="explorer" class="panel">
+          <div class="panel-head">
+            <div>
+              <p class="eyebrow">Question drilldown</p>
+              <h2>2026 syllabus-linked explorer</h2>
+            </div>
+            <span id="resultCount" class="chip">0 rows</span>
+          </div>
+          <div class="table-wrap questions">
+            <table id="questionTable"></table>
+          </div>
+        </section>
+
+        <section id="report" class="report-grid">
+          <article class="panel">
+            <div class="panel-head">
+              <div>
+                <p class="eyebrow">Readout</p>
+                <h2>Executive report</h2>
+              </div>
+            </div>
+            <div id="reportBody" class="report-body"></div>
+          </article>
+          <article class="panel">
+            <div class="panel-head">
+              <div>
+                <p class="eyebrow">Coverage agenda</p>
+                <h2>Rare and new 2026 topic hits</h2>
+              </div>
+            </div>
+            <div id="rareList" class="rare-list"></div>
+          </article>
+        </section>
+
+        <section class="report-grid">
+          <article class="panel">
+            <div class="panel-head">
+              <div>
+                <p class="eyebrow">Action plan</p>
+                <h2>2027 preparation agenda from the report</h2>
+              </div>
+            </div>
+            <ol id="prepList" class="prep-list"></ol>
+          </article>
+          <article class="panel">
+            <div class="panel-head">
+              <div>
+                <p class="eyebrow">Caveats</p>
+                <h2>How to read the analysis responsibly</h2>
+              </div>
+            </div>
+            <div id="caveatList" class="caveat-list"></div>
+          </article>
+        </section>
+      </main>
+    </div>
+
+    <script src="https://cdn.plot.ly/plotly-2.35.2.min.js"></script>
+    <script src="./data.js"></script>
+    <script src="./app.js"></script>
+  </body>
+</html>
