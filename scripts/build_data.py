@@ -66,6 +66,51 @@ answer_status_counts = Counter(clean(r.get("Answer Status")) for r in syllabus_m
 changed_answer_rows = [r for r in syllabus_map if clean(r.get("Answer Status")) == "Changed from tentative key"]
 dropped_answer_rows = [r for r in syllabus_map if clean(r.get("Answer Status")) == "Dropped by UPSC"]
 
+pyq_trace_rows = []
+for row in pyq:
+    year = int(row.get("Year") or 0)
+    qnum = int(row.get("Q#") or 0)
+    pyq_trace_rows.append({
+        "Q#": qnum,
+        "Year": year,
+        "Set Question": qnum - 1500 if year == 2026 and qnum > 1500 else "",
+        "Subject": clean(row.get("Subject")) or "Unmapped",
+        "Unit": clean(row.get("Unit")) or "Unmapped",
+        "Topic": clean(row.get("Topic")) or "Unmapped",
+        "Topic ID": clean(row.get("Topic ID")) or "UNMAPPED",
+        "Question": clean(row.get("Full Question")),
+        "Answer": clean(row.get("Correct Answer")),
+        "Difficulty": clean(row.get("Difficulty")) or "Unlabelled",
+    })
+
+topic_summary = {}
+for row in pyq_trace_rows:
+    key = (row["Subject"], row["Unit"], row["Topic"], row["Topic ID"])
+    item = topic_summary.setdefault(key, {
+        "Subject": row["Subject"],
+        "Unit": row["Unit"],
+        "Topic": row["Topic"],
+        "Topic ID": row["Topic ID"],
+        "Total PYQs": 0,
+        "PYQs 2011-2025": 0,
+        "PYQs 2026": 0,
+        "Years": set(),
+    })
+    item["Total PYQs"] += 1
+    if row["Year"] == 2026:
+        item["PYQs 2026"] += 1
+    else:
+        item["PYQs 2011-2025"] += 1
+    item["Years"].add(row["Year"])
+
+topic_summary_rows = []
+for item in topic_summary.values():
+    years = sorted(y for y in item.pop("Years") if y)
+    item["Unique Years"] = len(years)
+    item["Years Asked"] = ", ".join(str(y) for y in years)
+    topic_summary_rows.append(item)
+topic_summary_rows.sort(key=lambda r: (-r["Total PYQs"], r["Subject"], r["Unit"], r["Topic"]))
+
 subject_tops = defaultdict(Counter)
 for row in syllabus_map:
     subject_tops[clean(row.get("Subject"))][clean(row.get("Topic"))] += 1
@@ -224,6 +269,7 @@ payload = {
         "totals": {
             "historicalQuestions": len(pyq),
             "questions2026": len(syllabus_map),
+            "totalPyqs": len(pyq),
             "subjects2026": len({clean(r.get("Subject")) for r in syllabus_map}),
             "topics2026": len({clean(r.get("Topic ID")) for r in syllabus_map}),
             "rare2026": len(rare_2026),
@@ -244,6 +290,8 @@ payload = {
     "heatmap": heatmap,
     "topTopics": top_topics,
     "questions": questions,
+    "pyqTraceRows": pyq_trace_rows,
+    "topicSummaryRows": topic_summary_rows,
     "counts": {
         "historicalSubjects": hist_subject_counts,
         "yearCounts": year_counts,

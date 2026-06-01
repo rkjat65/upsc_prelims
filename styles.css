@@ -314,6 +314,10 @@ button {
   height: 480px;
 }
 
+.chart.xlarge {
+  height: 720px;
+}
+
 .table-wrap {
   width: 100%;
   overflow: auto;
@@ -349,6 +353,89 @@ tr:hover td {
 
 .questions {
   max-height: 640px;
+}
+
+.trace-controls {
+  display: grid;
+  grid-template-columns: 180px 220px 240px minmax(280px, 1fr) auto;
+  gap: 12px;
+  align-items: end;
+}
+
+.trace-controls label {
+  color: var(--muted);
+  font-size: 12px;
+  font-weight: 800;
+  text-transform: uppercase;
+  letter-spacing: 0.06em;
+}
+
+.trace-controls select,
+.trace-controls input {
+  display: block;
+  width: 100%;
+  margin-top: 6px;
+  border: 1px solid #cbd5e1;
+  background: #f8fafc;
+  color: var(--ink);
+  border-radius: 6px;
+  padding: 10px 11px;
+  min-height: 42px;
+}
+
+.trace-meta {
+  margin-top: 16px;
+  display: grid;
+  grid-template-columns: minmax(180px, 0.45fr) minmax(0, 1fr);
+  gap: 14px;
+  align-items: stretch;
+}
+
+#traceCrumb {
+  display: flex;
+  align-items: center;
+  padding: 14px;
+  border: 1px solid var(--line);
+  border-radius: 8px;
+  background: #f8fbff;
+  color: #28527a;
+  font-weight: 800;
+}
+
+.trace-summary {
+  display: grid;
+  grid-template-columns: repeat(4, minmax(0, 1fr));
+  gap: 10px;
+}
+
+.trace-summary article {
+  padding: 12px;
+  border: 1px solid var(--line);
+  border-radius: 8px;
+  background: #fbfdff;
+}
+
+.trace-summary strong,
+.trace-summary span {
+  display: block;
+}
+
+.trace-summary strong {
+  font-size: 24px;
+}
+
+.trace-summary span {
+  color: var(--muted);
+  font-size: 12px;
+  margin-top: 2px;
+}
+
+.trace-topics {
+  max-height: 420px;
+}
+
+.trace-questions {
+  max-height: 720px;
 }
 
 .finding-grid {
@@ -553,10 +640,15 @@ tr:hover td {
   }
 
   .controls,
+  .trace-controls,
   .kpi-grid,
   .finding-grid,
   .mutation-grid {
     grid-template-columns: repeat(2, minmax(0, 1fr));
+  }
+
+  .trace-meta {
+    grid-template-columns: 1fr;
   }
 }
 
@@ -569,9 +661,11 @@ tr:hover td {
   .grid.two,
   .report-grid,
   .controls,
+  .trace-controls,
   .kpi-grid,
   .finding-grid,
-  .mutation-grid {
+  .mutation-grid,
+  .trace-summary {
     grid-template-columns: 1fr;
   }
 
@@ -580,7 +674,8 @@ tr:hover td {
   }
 
   .chart,
-  .chart.tall {
+  .chart.tall,
+  .chart.xlarge {
     height: 360px;
   }
 
