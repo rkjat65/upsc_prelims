@@ -422,14 +422,15 @@ function renderTable(id, headers, rows, rowTemplate) {
 function updateTables() {
   const rows = filteredMap();
   document.getElementById("resultCount").textContent = `${rows.length} rows`;
-  renderTable("questionTable", ["No", "Subject", "Topic", "Signal", "Confidence", "Answer", "Question"], rows, (r) => `
+  renderTable("questionTable", ["No", "Subject", "Topic", "Signal", "Confidence", "Provisional Answer", "Status", "Question"], rows, (r) => `
     <tr>
       <td>${r.No}</td>
       <td>${r.Subject}</td>
       <td><strong>${r.Topic}</strong><br><span>${r.Unit}</span><br><span>${r["Topic ID"]}</span></td>
       <td>${r["Topic Signal"] || "Unsignalled"}</td>
       <td class="${statusClass(r["Mapping Confidence"])}">${r["Mapping Confidence"]}</td>
-      <td>${r["Tentative Answer"]}</td>
+      <td>${r["UPSC Provisional Answer"] || r["Tentative Answer"] || ""}</td>
+      <td>${r["Answer Status"] || ""}</td>
       <td>${r.Question}</td>
     </tr>
   `);
@@ -452,12 +453,14 @@ function renderReports() {
   const leader = DATA.subjectCompare[0];
   const overIndexed = DATA.subjectCompare.filter((r) => number(r["Index vs Avg"]) > 1.5);
   const lowConfidence = DATA.syllabusMap.filter((r) => r["Mapping Confidence"] === "Low").length;
+  const answerKey = DATA.answerKey || {};
   const report = [
+    answerKey.source ? `${answerKey.source}: ${answerKey.changedCount} tentative answers changed and ${answerKey.droppedCount} question was dropped from scoring.` : "",
     `${leader.Subject} leads the 2026 paper with ${leader["2026 Count"]} questions, sharply above its historical average of ${leader["2011-2025 Avg/Yr"]} per year.`,
     `${overIndexed.map((r) => r.Subject).join(", ")} over-index against the 2011-2025 baseline, making them priority revision zones.`,
     `${DATA.meta.totals.rare2026} 2026 questions sit in rare or previously low-history syllabus zones. These should become a dedicated GyanGram coverage queue.`,
     `${lowConfidence} mappings are low-confidence and should be manually reviewed before importing into a production topic graph. This is exactly where the dashboard exposes uncertainty instead of hiding it.`,
-  ];
+  ].filter(Boolean);
   document.getElementById("reportBody").innerHTML = report.map((p) => `<p>${p}</p>`).join("");
 
   document.getElementById("rareList").innerHTML = DATA.rare2026.slice(0, 18).map((r) => `

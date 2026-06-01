@@ -62,6 +62,9 @@ year_counts = Counter(int(r.get("Year")) for r in pyq if r.get("Year"))
 difficulty_counts = Counter(clean(r.get("Difficulty")) or "Unlabelled" for r in pyq)
 confidence_counts = Counter(clean(r.get("Mapping Confidence")) for r in syllabus_map)
 signal_counts_2026 = Counter(clean(r.get("Topic Signal")) or "Unsignalled" for r in syllabus_map)
+answer_status_counts = Counter(clean(r.get("Answer Status")) for r in syllabus_map if clean(r.get("Answer Status")))
+changed_answer_rows = [r for r in syllabus_map if clean(r.get("Answer Status")) == "Changed from tentative key"]
+dropped_answer_rows = [r for r in syllabus_map if clean(r.get("Answer Status")) == "Dropped by UPSC"]
 
 subject_tops = defaultdict(Counter)
 for row in syllabus_map:
@@ -216,6 +219,7 @@ payload = {
             "Gyangram_PYQ_Master_File.xlsx",
             "Gyangram_Syllabus_Master_file.xlsx",
             "UPSC_Prelims_2026_GS_Set_A_Questions.xlsx",
+            "UPSC provisional answer key dated 27-05-2026",
         ],
         "totals": {
             "historicalQuestions": len(pyq),
@@ -223,7 +227,16 @@ payload = {
             "subjects2026": len({clean(r.get("Subject")) for r in syllabus_map}),
             "topics2026": len({clean(r.get("Topic ID")) for r in syllabus_map}),
             "rare2026": len(rare_2026),
+            "dropped2026": len(dropped_answer_rows),
         },
+    },
+    "answerKey": {
+        "source": "UPSC provisional answer key, GS-I CSP Exam 2026, Series A, dated 27-05-2026",
+        "changedCount": len(changed_answer_rows),
+        "changedQuestions": [int(r.get("No")) for r in changed_answer_rows],
+        "droppedCount": len(dropped_answer_rows),
+        "droppedQuestions": [int(r.get("No")) for r in dropped_answer_rows],
+        "statusCounts": answer_status_counts,
     },
     "subjectCompare": subject_compare,
     "subjectTrend": subject_trend,

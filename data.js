@@ -5,14 +5,33 @@ window.DASHBOARD_DATA = {
     "generatedFrom": [
       "Gyangram_PYQ_Master_File.xlsx",
       "Gyangram_Syllabus_Master_file.xlsx",
-      "UPSC_Prelims_2026_GS_Set_A_Questions.xlsx"
+      "UPSC_Prelims_2026_GS_Set_A_Questions.xlsx",
+      "UPSC provisional answer key dated 27-05-2026"
     ],
     "totals": {
-      "historicalQuestions": 1500,
+      "historicalQuestions": 1600,
       "questions2026": 100,
       "subjects2026": 12,
       "topics2026": 83,
-      "rare2026": 46
+      "rare2026": 46,
+      "dropped2026": 1
+    }
+  },
+  "answerKey": {
+    "source": "UPSC provisional answer key, GS-I CSP Exam 2026, Series A, dated 27-05-2026",
+    "changedCount": 2,
+    "changedQuestions": [
+      62,
+      82
+    ],
+    "droppedCount": 1,
+    "droppedQuestions": [
+      64
+    ],
+    "statusCounts": {
+      "Confirmed by UPSC provisional key": 97,
+      "Changed from tentative key": 2,
+      "Dropped by UPSC": 1
     }
   },
   "subjectCompare": [
@@ -530,9 +549,12 @@ window.DASHBOARD_DATA = {
       "Prior Years Asked": null,
       "Mapping Confidence": "Low",
       "Mapping Score": 0.84,
-      "Tentative Answer": "D - Dheera Shankarabharanam",
+      "UPSC Provisional Answer": "D - Dheera Shankarabharanam",
       "Question": "Which one of the following Carnatic music ragas is similar to Raga Bilawal in Hindustani music ?",
-      "Tentative Explanation": "Tentative key marks option D. 'Dheera Shankarabharanam' is treated as the fact/concept that best fits this Art & Culture question; verify with UPSC's final key."
+      "Tentative Explanation": "UPSC provisional answer key, GS-I CSP Exam 2026, Series A, dated 27-05-2026 confirms option D. 'Dheera Shankarabharanam' is treated as the fact/concept that best fits this Art & Culture question; verify with UPSC's final key.",
+      "Previous Tentative Answer": "D - Dheera Shankarabharanam",
+      "Answer Status": "Confirmed by UPSC provisional key",
+      "Answer Source": "UPSC provisional answer key, GS-I CSP Exam 2026, Series A, dated 27-05-2026"
     },
     {
       "No": 2,
@@ -546,9 +568,12 @@ window.DASHBOARD_DATA = {
       "Prior Years Asked": null,
       "Mapping Confidence": "Low",
       "Mapping Score": 0.7,
-      "Tentative Answer": "A - Aiding the flow of remittances from India and maintaining India's creditworthiness",
+      "UPSC Provisional Answer": "A - Aiding the flow of remittances from India and maintaining India's creditworthiness",
       "Question": "The artificially fixed rupee-sterling exchange rate prescribed by the Hilton-Young Commission (1926) was adopted by the British Government for which one of the following reasons ?",
-      "Tentative Explanation": "Tentative key marks option A. This code is treated as the valid set of statements for the Modern History question; verify with UPSC's final key."
+      "Tentative Explanation": "UPSC provisional answer key, GS-I CSP Exam 2026, Series A, dated 27-05-2026 confirms option A. This code is treated as the valid set of statements for the Modern History question; verify with UPSC's final key.",
+      "Previous Tentative Answer": "A - Aiding the flow of remittances from India and maintaining India's creditworthiness",
+      "Answer Status": "Confirmed by UPSC provisional key",
+      "Answer Source": "UPSC provisional answer key, GS-I CSP Exam 2026, Series A, dated 27-05-2026"
     },
     {
       "No": 3,
@@ -562,9 +587,12 @@ window.DASHBOARD_DATA = {
       "Prior Years Asked": "2024",
       "Mapping Confidence": "Medium",
       "Mapping Score": 1.07,
-      "Tentative Answer": "C - Both 1 and 2",
+      "UPSC Provisional Answer": "C - Both 1 and 2",
       "Question": "Consider the following statements : 1. Pali texts contain the first definite references to coins, e.g., kahapana, nikkha, kamsa, and kakanika. 11. The literary evidence from Pali texts is corroborated by archaeological evidence of punch-marked coins from many sites, most of them made of silver. The above statements have been associated with which of the following ? 1. Emergence of urban life 2. Transition to money economy Select the answer using the code given below :",
-      "Tentative Explanation": "Tentative key marks option C. This code is treated as the valid set of statements for the Ancient History question; verify with UPSC's final key."
+      "Tentative Explanation": "UPSC provisional answer key, GS-I CSP Exam 2026, Series A, dated 27-05-2026 confirms option C. This code is treated as the valid set of statements for the Ancient History question; verify with UPSC's final key.",
+      "Previous Tentative Answer": "C - Both 1 and 2",
+      "Answer Status": "Confirmed by UPSC provisional key",
+      "Answer Source": "UPSC provisional answer key, GS-I CSP Exam 2026, Series A, dated 27-05-2026"
     },
     {
       "No": 4,
@@ -578,9 +606,12 @@ window.DASHBOARD_DATA = {
       "Prior Years Asked": "2012, 2013, 2014, 2016, 2017, 2019, 2021, 2022",
       "Mapping Confidence": "Low",
       "Mapping Score": 0.85,
-      "Tentative Answer": "B - 2 and 3",
+      "UPSC Provisional Answer": "B - 2 and 3",
       "Question": "Which of the following temples has/have a Nagara-style shikhara ? 1. Malegitti Shivalaya, Badami 2. Huchimalligudi Temple, Aihole 3. Dashavatara Temple, Deogarh 4. Virupaksha Temple, Pattadakal Select the answer using the code given below :",
-      "Tentative Explanation": "Tentative key marks option B. This code is treated as the valid set of statements for the Art & Culture question; verify with UPSC's final key."
+      "Tentative Explanation": "UPSC provisional answer key, GS-I CSP Exam 2026, Series A, dated 27-05-2026 confirms option B. This code is treated as the valid set of statements for the Art & Culture question; verify with UPSC's final key.",
+      "Previous Tentative Answer": "B - 2 and 3",
+      "Answer Status": "Confirmed by UPSC provisional key",
+      "Answer Source": "UPSC provisional answer key, GS-I CSP Exam 2026, Series A, dated 27-05-2026"
     },
     {
       "No": 5,
@@ -594,9 +625,12 @@ window.DASHBOARD_DATA = {
       "Prior Years Asked": "2012, 2013, 2014, 2017, 2018, 2025",
       "Mapping Confidence": "Low",
       "Mapping Score": 0.64,
-      "Tentative Answer": "B - Yaksha (demi-gods)",
+      "UPSC Provisional Answer": "B - Yaksha (demi-gods)",
       "Question": "Among the four main forms of existence of life recognized in Jainism, which one of the following is not included ?",
-      "Tentative Explanation": "Tentative key marks option B. 'Yaksha (demi-gods)' is treated as the fact/concept that best fits this Art & Culture question; verify with UPSC's final key."
+      "Tentative Explanation": "UPSC provisional answer key, GS-I CSP Exam 2026, Series A, dated 27-05-2026 confirms option B. 'Yaksha (demi-gods)' is treated as the fact/concept that best fits this Art & Culture question; verify with UPSC's final key.",
+      "Previous Tentative Answer": "B - Yaksha (demi-gods)",
+      "Answer Status": "Confirmed by UPSC provisional key",
+      "Answer Source": "UPSC provisional answer key, GS-I CSP Exam 2026, Series A, dated 27-05-2026"
     },
     {
       "No": 6,
@@ -610,9 +644,12 @@ window.DASHBOARD_DATA = {
       "Prior Years Asked": "2015, 2018, 2025",
       "Mapping Confidence": "Low",
       "Mapping Score": 0.2,
-      "Tentative Answer": "A - A joyous folk dance",
+      "UPSC Provisional Answer": "A - A joyous folk dance",
       "Question": "The Hallisalasya painting in the Bagh Caves represents :",
-      "Tentative Explanation": "Tentative key marks option A. 'A joyous folk dance' is treated as the fact/concept that best fits this Art & Culture question; verify with UPSC's final key."
+      "Tentative Explanation": "UPSC provisional answer key, GS-I CSP Exam 2026, Series A, dated 27-05-2026 confirms option A. 'A joyous folk dance' is treated as the fact/concept that best fits this Art & Culture question; verify with UPSC's final key.",
+      "Previous Tentative Answer": "A - A joyous folk dance",
+      "Answer Status": "Confirmed by UPSC provisional key",
+      "Answer Source": "UPSC provisional answer key, GS-I CSP Exam 2026, Series A, dated 27-05-2026"
     },
     {
       "No": 7,
@@ -626,9 +663,12 @@ window.DASHBOARD_DATA = {
       "Prior Years Asked": "2011, 2012, 2013, 2016, 2019, 2020, 2021, 2022, 2023, 2025",
       "Mapping Confidence": "Low",
       "Mapping Score": 0.41,
-      "Tentative Answer": "D - 1, 2 and 3",
+      "UPSC Provisional Answer": "D - 1, 2 and 3",
       "Question": "Consider the following statements relating to the use of the place-value system in India : 1. The earliest epigraphic use of the place-value system in India is found in the Mankani plates from Gujarat (AD 595 - 596). 2. In the ninth century, place-values become general in inscriptions all over India. 3. The place-values have been found in Sanskrit inscriptions in South-east Asia as early as the seventh century. of the statements given above are correct ?",
-      "Tentative Explanation": "Tentative key marks option D. This code is treated as the valid set of statements for the Ancient History question; verify with UPSC's final key."
+      "Tentative Explanation": "UPSC provisional answer key, GS-I CSP Exam 2026, Series A, dated 27-05-2026 confirms option D. This code is treated as the valid set of statements for the Ancient History question; verify with UPSC's final key.",
+      "Previous Tentative Answer": "D - 1, 2 and 3",
+      "Answer Status": "Confirmed by UPSC provisional key",
+      "Answer Source": "UPSC provisional answer key, GS-I CSP Exam 2026, Series A, dated 27-05-2026"
     },
     {
       "No": 8,
@@ -642,9 +682,12 @@ window.DASHBOARD_DATA = {
       "Prior Years Asked": "2024",
       "Mapping Confidence": "Low",
       "Mapping Score": 0.72,
-      "Tentative Answer": "A - 1 and 2 only",
+      "UPSC Provisional Answer": "A - 1 and 2 only",
       "Question": "Consider the following statements about the archaeological findings in Harappan towns : 1. There is wide occurrence of spindle-whorls in the houses but absence of spinning wheels. 11. Weights and measurement scales, complete with graduations have been discovered. 111. There are houses built in large part with baked bricks, around relatively spacious courtyards, with their own wells, bathing platforms, and large rooms. Which of the following inferences can be drawn from the above statements ? 1. Statement I suggests that spinning was a laborious activity done at home. 2. Statement 11 suggests the extent of the scientific knowledge that the Harappans possessed. 3. Statement Ill suggests the emergence of a common property system. Select the answer using the Code given below :",
-      "Tentative Explanation": "Tentative key marks option A. This code is treated as the valid set of statements for the Ancient History question; verify with UPSC's final key."
+      "Tentative Explanation": "UPSC provisional answer key, GS-I CSP Exam 2026, Series A, dated 27-05-2026 confirms option A. This code is treated as the valid set of statements for the Ancient History question; verify with UPSC's final key.",
+      "Previous Tentative Answer": "A - 1 and 2 only",
+      "Answer Status": "Confirmed by UPSC provisional key",
+      "Answer Source": "UPSC provisional answer key, GS-I CSP Exam 2026, Series A, dated 27-05-2026"
     },
     {
       "No": 9,
@@ -658,9 +701,12 @@ window.DASHBOARD_DATA = {
       "Prior Years Asked": null,
       "Mapping Confidence": "Low",
       "Mapping Score": 0.7,
-      "Tentative Answer": "C - The Bardoli Satyagraha was a campaign against the enhancement of land revenue, while the Eka Movement was a protest against excessive extraction of rents.",
+      "UPSC Provisional Answer": "C - The Bardoli Satyagraha was a campaign against the enhancement df land revenue, while the Eka Movement was a protest against excessive extraction of rents.",
       "Question": "Which one of the following statements about the Eka Movement and Bardoli Satyagraha is correct ?",
-      "Tentative Explanation": "Tentative key marks option C. This code is treated as the valid set of statements for the Modern History question; verify with UPSC's final key."
+      "Tentative Explanation": "UPSC provisional answer key, GS-I CSP Exam 2026, Series A, dated 27-05-2026 confirms option C. This code is treated as the valid set of statements for the Modern History question; verify with UPSC's final key.",
+      "Previous Tentative Answer": "C - The Bardoli Satyagraha was a campaign against the enhancement of land revenue, while the Eka Movement was a protest against excessive extraction of rents.",
+      "Answer Status": "Confirmed by UPSC provisional key",
+      "Answer Source": "UPSC provisional answer key, GS-I CSP Exam 2026, Series A, dated 27-05-2026"
     },
     {
       "No": 10,
@@ -674,9 +720,12 @@ window.DASHBOARD_DATA = {
       "Prior Years Asked": "2012, 2017, 2025",
       "Mapping Confidence": "Medium",
       "Mapping Score": 1.36,
-      "Tentative Answer": "C - 1 and 3 only",
+      "UPSC Provisional Answer": "C - 1 and 3 only",
       "Question": "Consider the following statements about the Rigvedic period : 1. Irrigation from wells allowed agriculture to expand away from flood plains and strips on river margins into the present Punjab and Haryana plains having underground water levels reasonably close to the surface. 11. Draught-animal power was employed to draw up water out of the wells. Which of the following information support/supports the above statements ? 1. There is evidence in the Rigveda of the use of ashma chakra (stone pulley wheel) and ahava (strapped wooden pails) to draw up water. 2. Mention has been made in the Rigveda of the use of implements like parashu / kulisha (axe) and datra /sreni (sickle). 3. There is a history of the use of ox, even before the Rigveda, for ploughing the land and pulling the carts. Select the answer using the code given below :",
-      "Tentative Explanation": "Tentative key marks option C. This code is treated as the valid set of statements for the Ancient History question; verify with UPSC's final key."
+      "Tentative Explanation": "UPSC provisional answer key, GS-I CSP Exam 2026, Series A, dated 27-05-2026 confirms option C. This code is treated as the valid set of statements for the Ancient History question; verify with UPSC's final key.",
+      "Previous Tentative Answer": "C - 1 and 3 only",
+      "Answer Status": "Confirmed by UPSC provisional key",
+      "Answer Source": "UPSC provisional answer key, GS-I CSP Exam 2026, Series A, dated 27-05-2026"
     },
     {
       "No": 11,
@@ -690,9 +739,12 @@ window.DASHBOARD_DATA = {
       "Prior Years Asked": "2022, 2024",
       "Mapping Confidence": "Low",
       "Mapping Score": 0.62,
-      "Tentative Answer": "D - 3",
+      "UPSC Provisional Answer": "D - 3",
       "Question": "Consider the following assertion : In the Pleistocene period either the Yamuna once flowed into the Indus, or the Sutlej flowed into the Yamuna and one major tributary of either had shifted from the Ganga to the Indus or vice versa. Which of the following is/are the basis of the above assertion ? 1. The Nadi-Sukta of the Rigveda 2. The explorations of the Sutlej and the Yamuna by Robert Bruce Foote 3. The presence Of the same species of dolphins in both the Indus and the Ganga river systems Select the answer using the code given below :",
-      "Tentative Explanation": "Tentative key marks option D. '3' is treated as the fact/concept that best fits this Physical Geography question; verify with UPSC's final key."
+      "Tentative Explanation": "UPSC provisional answer key, GS-I CSP Exam 2026, Series A, dated 27-05-2026 confirms option D. '3' is treated as the fact/concept that best fits this Physical Geography question; verify with UPSC's final key.",
+      "Previous Tentative Answer": "D - 3",
+      "Answer Status": "Confirmed by UPSC provisional key",
+      "Answer Source": "UPSC provisional answer key, GS-I CSP Exam 2026, Series A, dated 27-05-2026"
     },
     {
       "No": 12,
@@ -706,9 +758,12 @@ window.DASHBOARD_DATA = {
       "Prior Years Asked": "2013, 2019",
       "Mapping Confidence": "Low",
       "Mapping Score": 0.49,
-      "Tentative Answer": "A - The meditation of the Buddha",
+      "UPSC Provisional Answer": "A - The meditation of the Buddha",
       "Question": "What does an empty seat represent in early Buddhist iconography ?",
-      "Tentative Explanation": "Tentative key marks option A. 'The meditation of the Buddha' is treated as the fact/concept that best fits this Art & Culture question; verify with UPSC's final key."
+      "Tentative Explanation": "UPSC provisional answer key, GS-I CSP Exam 2026, Series A, dated 27-05-2026 confirms option A. 'The meditation of the Buddha' is treated as the fact/concept that best fits this Art & Culture question; verify with UPSC's final key.",
+      "Previous Tentative Answer": "A - The meditation of the Buddha",
+      "Answer Status": "Confirmed by UPSC provisional key",
+      "Answer Source": "UPSC provisional answer key, GS-I CSP Exam 2026, Series A, dated 27-05-2026"
     },
     {
       "No": 13,
@@ -722,9 +777,12 @@ window.DASHBOARD_DATA = {
       "Prior Years Asked": "2019, 2021",
       "Mapping Confidence": "Low",
       "Mapping Score": 0.83,
-      "Tentative Answer": "C - 3 only",
+      "UPSC Provisional Answer": "C - 3 only",
       "Question": "Which of the following pairs of ancient and modern names of rivers is/are correctly matched ? 1. Vitasta Chenab 2. Asikni Jhelum 3. Parushni Ravi 4. Yavyavati Beas Select the answer using the code given below :",
-      "Tentative Explanation": "Tentative key marks option C. This code is treated as the valid set of statements for the Ancient History question; verify with UPSC's final key."
+      "Tentative Explanation": "UPSC provisional answer key, GS-I CSP Exam 2026, Series A, dated 27-05-2026 confirms option C. This code is treated as the valid set of statements for the Ancient History question; verify with UPSC's final key.",
+      "Previous Tentative Answer": "C - 3 only",
+      "Answer Status": "Confirmed by UPSC provisional key",
+      "Answer Source": "UPSC provisional answer key, GS-I CSP Exam 2026, Series A, dated 27-05-2026"
     },
     {
       "No": 14,
@@ -738,9 +796,12 @@ window.DASHBOARD_DATA = {
       "Prior Years Asked": "2012, 2013, 2014, 2016, 2017, 2019, 2021, 2022",
       "Mapping Confidence": "Low",
       "Mapping Score": 0.44,
-      "Tentative Answer": "B - 1 and 3 only",
+      "UPSC Provisional Answer": "B - 1 and 3 only",
       "Question": "Which of the following statements on the Amaravati Stupa and its relief sculpture is/are correct ? 1. It was located in the lower Krishna valley. 2. In India, it was next only to the Sanchi Stupa in size. 3. The Amaravati school of sculpture made a lasting impact on the later South Indian sculpture, and its products were carried to Sri Lanka and South-east Asia. Select the answer using the code given below :",
-      "Tentative Explanation": "Tentative key marks option B. This code is treated as the valid set of statements for the Art & Culture question; verify with UPSC's final key."
+      "Tentative Explanation": "UPSC provisional answer key, GS-I CSP Exam 2026, Series A, dated 27-05-2026 confirms option B. This code is treated as the valid set of statements for the Art & Culture question; verify with UPSC's final key.",
+      "Previous Tentative Answer": "B - 1 and 3 only",
+      "Answer Status": "Confirmed by UPSC provisional key",
+      "Answer Source": "UPSC provisional answer key, GS-I CSP Exam 2026, Series A, dated 27-05-2026"
     },
     {
       "No": 15,
@@ -754,9 +815,12 @@ window.DASHBOARD_DATA = {
       "Prior Years Asked": "2019, 2021",
       "Mapping Confidence": "Low",
       "Mapping Score": 0.83,
-      "Tentative Answer": "B - 2 only",
+      "UPSC Provisional Answer": "B - 2 only",
       "Question": "M7hich of the following pairs of the king and his dynasty in early historical Tamilakam iS/are not correctly matched ? 1. Senguttuvan Chera 2. Udiyanjeral Chola 3. Nedunjeliyan Pandya Select the answer using the code given below :",
-      "Tentative Explanation": "Tentative key marks option B. This code is treated as the valid set of statements for the Ancient History question; verify with UPSC's final key."
+      "Tentative Explanation": "UPSC provisional answer key, GS-I CSP Exam 2026, Series A, dated 27-05-2026 confirms option B. This code is treated as the valid set of statements for the Ancient History question; verify with UPSC's final key.",
+      "Previous Tentative Answer": "B - 2 only",
+      "Answer Status": "Confirmed by UPSC provisional key",
+      "Answer Source": "UPSC provisional answer key, GS-I CSP Exam 2026, Series A, dated 27-05-2026"
     },
     {
       "No": 16,
@@ -770,9 +834,12 @@ window.DASHBOARD_DATA = {
       "Prior Years Asked": "2014, 2017, 2019, 2022, 2023",
       "Mapping Confidence": "Low",
       "Mapping Score": 0.82,
-      "Tentative Answer": "B - 1, 2 and 4",
+      "UPSC Provisional Answer": "B - 1, 2 and 4",
       "Question": "Which of the following factors contributed to the formation of the Forward Bloc by Subhas Chandra Bose in 1939 ? 1. Bose failed to win the confidence of Mahatma Gandhi. 2. The Congress Left was disunited and failed to support Bose. 3. The Communists did not support Bose in his endeavours. 4. The supporters of M.N. Roy and socialist leaders like Jayaprakash Narayan preferred Congress unity to supporting Bose. Select the answer using the code given below :",
-      "Tentative Explanation": "Tentative key marks option B. This code is treated as the valid set of statements for the Modern History question; verify with UPSC's final key."
+      "Tentative Explanation": "UPSC provisional answer key, GS-I CSP Exam 2026, Series A, dated 27-05-2026 confirms option B. This code is treated as the valid set of statements for the Modern History question; verify with UPSC's final key.",
+      "Previous Tentative Answer": "B - 1, 2 and 4",
+      "Answer Status": "Confirmed by UPSC provisional key",
+      "Answer Source": "UPSC provisional answer key, GS-I CSP Exam 2026, Series A, dated 27-05-2026"
     },
     {
       "No": 17,
@@ -786,9 +853,12 @@ window.DASHBOARD_DATA = {
       "Prior Years Asked": "2011, 2012, 2013, 2017, 2018, 2019, 2020, 2021, 2024",
       "Mapping Confidence": "Medium",
       "Mapping Score": 1.01,
-      "Tentative Answer": "A - 2 and 3 only",
+      "UPSC Provisional Answer": "A - 2 and 3 only",
       "Question": "Consider the following statements regarding the British policy in Awadh immediately after its annexation in 1856 : 1. The taluqdars were dispossessed of their estates but allowed to retain their arms and forts. 2. A Summary Revenue Settlement was made in 1856 assuming that the taluqdars were outsiders. 3. The British believed in taking revenue directly from the peasants by removing the taluqdars. Which of the statements given above is/are correct ?",
-      "Tentative Explanation": "Tentative key marks option A. This code is treated as the valid set of statements for the Modern History question; verify with UPSC's final key."
+      "Tentative Explanation": "UPSC provisional answer key, GS-I CSP Exam 2026, Series A, dated 27-05-2026 confirms option A. This code is treated as the valid set of statements for the Modern History question; verify with UPSC's final key.",
+      "Previous Tentative Answer": "A - 2 and 3 only",
+      "Answer Status": "Confirmed by UPSC provisional key",
+      "Answer Source": "UPSC provisional answer key, GS-I CSP Exam 2026, Series A, dated 27-05-2026"
     },
     {
       "No": 18,
@@ -802,9 +872,12 @@ window.DASHBOARD_DATA = {
       "Prior Years Asked": null,
       "Mapping Confidence": "Low",
       "Mapping Score": 0.84,
-      "Tentative Answer": "D - 1, 2 and 3",
+      "UPSC Provisional Answer": "D - 1, 2 and 3",
       "Question": "Consider the following assertion : The genesis of political alliances based on community lay in the very nature of the Montague-Chelmsford Reforms, 1919. Which of the following statements support/supports the above assertion ? 1. Reforms retained and extended the principle of separate electorates. 2. Separate electorates were supposed to counter Indian nationalism, which was growing stronger. 3. Deprived classes rallied around the favours inherent in separate electorates. Select the answer using the code given below :",
-      "Tentative Explanation": "Tentative key marks option D. This code is treated as the valid set of statements for the Modern History question; verify with UPSC's final key."
+      "Tentative Explanation": "UPSC provisional answer key, GS-I CSP Exam 2026, Series A, dated 27-05-2026 confirms option D. This code is treated as the valid set of statements for the Modern History question; verify with UPSC's final key.",
+      "Previous Tentative Answer": "D - 1, 2 and 3",
+      "Answer Status": "Confirmed by UPSC provisional key",
+      "Answer Source": "UPSC provisional answer key, GS-I CSP Exam 2026, Series A, dated 27-05-2026"
     },
     {
       "No": 19,
@@ -818,9 +891,12 @@ window.DASHBOARD_DATA = {
       "Prior Years Asked": null,
       "Mapping Confidence": "Low",
       "Mapping Score": 0.84,
-      "Tentative Answer": "D - Jaipur-Atrauli Gharana",
+      "UPSC Provisional Answer": "D - Jaipur-Atrauli Gharana",
       "Question": "Pandit Mallikarjun Mansur, the famous classical singer from Karnataka, represented the :",
-      "Tentative Explanation": "Tentative key marks option D. 'Jaipur-Atrauli Gharana' is treated as the fact/concept that best fits this Art & Culture question; verify with UPSC's final key."
+      "Tentative Explanation": "UPSC provisional answer key, GS-I CSP Exam 2026, Series A, dated 27-05-2026 confirms option D. 'Jaipur-Atrauli Gharana' is treated as the fact/concept that best fits this Art & Culture question; verify with UPSC's final key.",
+      "Previous Tentative Answer": "D - Jaipur-Atrauli Gharana",
+      "Answer Status": "Confirmed by UPSC provisional key",
+      "Answer Source": "UPSC provisional answer key, GS-I CSP Exam 2026, Series A, dated 27-05-2026"
     },
     {
       "No": 20,
@@ -834,9 +910,12 @@ window.DASHBOARD_DATA = {
       "Prior Years Asked": "2019, 2020, 2021, 2025",
       "Mapping Confidence": "Low",
       "Mapping Score": 0.23,
-      "Tentative Answer": "B - Atharvaveda",
+      "UPSC Provisional Answer": "B - Atharvaveda",
       "Question": "In which one among the following texts does the term kshetra-patni ('mistress of the field') originate ?",
-      "Tentative Explanation": "Tentative key marks option B. 'Atharvaveda' is treated as the fact/concept that best fits this Ancient History question; verify with UPSC's final key."
+      "Tentative Explanation": "UPSC provisional answer key, GS-I CSP Exam 2026, Series A, dated 27-05-2026 confirms option B. 'Atharvaveda' is treated as the fact/concept that best fits this Ancient History question; verify with UPSC's final key.",
+      "Previous Tentative Answer": "B - Atharvaveda",
+      "Answer Status": "Confirmed by UPSC provisional key",
+      "Answer Source": "UPSC provisional answer key, GS-I CSP Exam 2026, Series A, dated 27-05-2026"
     },
     {
       "No": 21,
@@ -850,9 +929,12 @@ window.DASHBOARD_DATA = {
       "Prior Years Asked": "2019, 2021, 2022",
       "Mapping Confidence": "Medium",
       "Mapping Score": 1.76,
-      "Tentative Answer": "B - 1 and 2",
+      "UPSC Provisional Answer": "B - 1 and 2",
       "Question": "Consider the following statements with reference to India's response to climate change : 1. India's Long-Term Low Emission Development Strategy (LT-LEDS) is a crucial tool for achieving net-zero emissions by 2070. 11. India's 4th Biennial Update Report (BUR-4) submitted in December, 2024 recorded around 8% decrease in Greenhouse gas emissions in 2020 over 2019. 111. Climate-resilient development necessarily depends on quick and short-term achievement of emission reduction targets. of the following relationships among the above statements is/are correct ? 1. Statement I is empirically supported by statement 11. 2. Statement Ill contradicts the approach implicit in statement I. 3. Statement I and statement Ill together establish the premise of long-term sustainability. Select the answer using the code given below :",
-      "Tentative Explanation": "Tentative key marks option B. This code is treated as the valid set of statements for the Environment & Ecology question; verify with UPSC's final key."
+      "Tentative Explanation": "UPSC provisional answer key, GS-I CSP Exam 2026, Series A, dated 27-05-2026 confirms option B. This code is treated as the valid set of statements for the Environment & Ecology question; verify with UPSC's final key.",
+      "Previous Tentative Answer": "B - 1 and 2",
+      "Answer Status": "Confirmed by UPSC provisional key",
+      "Answer Source": "UPSC provisional answer key, GS-I CSP Exam 2026, Series A, dated 27-05-2026"
     },
     {
       "No": 22,
@@ -866,9 +948,12 @@ window.DASHBOARD_DATA = {
       "Prior Years Asked": "2011",
       "Mapping Confidence": "Medium",
       "Mapping Score": 1.44,
-      "Tentative Answer": "B - 1 and 2",
+      "UPSC Provisional Answer": "B - 1 and 2",
       "Question": "With respect to the Western Hoolock Gibbons, which of the following statements is/are correct ? 1. A Sanctuary in North-east India is home to this ape species listed as Endangered in the International Union for Conservation of Nature (IUCN) Red List. 2. They have specialized brachiation and can easily swing between trees. 3. They possess a strong and heavy build like gorillas, yet are remarkably agile tree climbers. Select the answer using the code given below :",
-      "Tentative Explanation": "Tentative key marks option B. This code is treated as the valid set of statements for the Environment & Ecology question; verify with UPSC's final key."
+      "Tentative Explanation": "UPSC provisional answer key, GS-I CSP Exam 2026, Series A, dated 27-05-2026 confirms option B. This code is treated as the valid set of statements for the Environment & Ecology question; verify with UPSC's final key.",
+      "Previous Tentative Answer": "B - 1 and 2",
+      "Answer Status": "Confirmed by UPSC provisional key",
+      "Answer Source": "UPSC provisional answer key, GS-I CSP Exam 2026, Series A, dated 27-05-2026"
     },
     {
       "No": 23,
@@ -882,9 +967,12 @@ window.DASHBOARD_DATA = {
       "Prior Years Asked": "2011, 2012, 2013, 2014, 2015, 2016, 2017, 2018, 2019, 2021, 2022, 2023, 2024, 2025",
       "Mapping Confidence": "Medium",
       "Mapping Score": 1.38,
-      "Tentative Answer": "D - 3 only",
+      "UPSC Provisional Answer": "D - 3 only",
       "Question": "Which of the following best explain(s) the rationale for protecting mangrove ecosystems in the context of climate resilience ? 1. Mangroves reduce tidal energy and store freshwater, making them ideal sites for paddy cultivation in saline estuarine belts. 2. Their salt-sensitive roots filter seawater, making mangroves key to converting coastal land into freshwater aquaculture zones. 3. By withstanding tidal surges and offering biomass resources, mangroves function both as natural bio-shields and livelihood bases for rural communities. Select the answer using the code given below :",
-      "Tentative Explanation": "Tentative key marks option D. This code is treated as the valid set of statements for the Environment & Ecology question; verify with UPSC's final key."
+      "Tentative Explanation": "UPSC provisional answer key, GS-I CSP Exam 2026, Series A, dated 27-05-2026 confirms option D. This code is treated as the valid set of statements for the Environment & Ecology question; verify with UPSC's final key.",
+      "Previous Tentative Answer": "D - 3 only",
+      "Answer Status": "Confirmed by UPSC provisional key",
+      "Answer Source": "UPSC provisional answer key, GS-I CSP Exam 2026, Series A, dated 27-05-2026"
     },
     {
       "No": 24,
@@ -898,9 +986,12 @@ window.DASHBOARD_DATA = {
       "Prior Years Asked": "2011, 2012, 2020",
       "Mapping Confidence": "Medium",
       "Mapping Score": 1.03,
-      "Tentative Answer": "D - 3 only",
+      "UPSC Provisional Answer": "D - 3 only",
       "Question": "In what way(s) does the Vizhinjam International Seaport represent a structural shift in India's maritime trade and logistics policy ? 1. By functioning exclusively as a domestic cargo hub to reduce reliance on coastal shipping and eliminate the need for foreign collaborations. 2. By focusing primarily on passenger cruise tourism and heritage shipping to increase Kerala's profile as a maritime heritage destination. 3. By leveraging its natural deep draft and strategic location to reduce dependence on foreign trans-shipment ports, enhance revenue retention, and reposition India in regional maritime trade. Select the answer using the code given below :",
-      "Tentative Explanation": "Tentative key marks option D. This code is treated as the valid set of statements for the Economy question; verify with UPSC's final key."
+      "Tentative Explanation": "UPSC provisional answer key, GS-I CSP Exam 2026, Series A, dated 27-05-2026 confirms option D. This code is treated as the valid set of statements for the Economy question; verify with UPSC's final key.",
+      "Previous Tentative Answer": "D - 3 only",
+      "Answer Status": "Confirmed by UPSC provisional key",
+      "Answer Source": "UPSC provisional answer key, GS-I CSP Exam 2026, Series A, dated 27-05-2026"
     },
     {
       "No": 25,
@@ -914,9 +1005,12 @@ window.DASHBOARD_DATA = {
       "Prior Years Asked": null,
       "Mapping Confidence": "Medium",
       "Mapping Score": 1.46,
-      "Tentative Answer": "C - Sutlej",
+      "UPSC Provisional Answer": "C - Sutlej",
       "Question": "Identify the river of the Indian sub-continent on the basis of the following information : 1. It has an antecedent drainage system. 2. It flows through three countries. 3. It originates in the Tibetan Plateau and is an important river for irrigation. 4. It does not form distributaries. Select the answer from the following :",
-      "Tentative Explanation": "Tentative key marks option C. 'Sutlej' is treated as the fact/concept that best fits this Indian Geography question; verify with UPSC's final key."
+      "Tentative Explanation": "UPSC provisional answer key, GS-I CSP Exam 2026, Series A, dated 27-05-2026 confirms option C. 'Sutlej' is treated as the fact/concept that best fits this Indian Geography question; verify with UPSC's final key.",
+      "Previous Tentative Answer": "C - Sutlej",
+      "Answer Status": "Confirmed by UPSC provisional key",
+      "Answer Source": "UPSC provisional answer key, GS-I CSP Exam 2026, Series A, dated 27-05-2026"
     },
     {
       "No": 26,
@@ -930,9 +1024,12 @@ window.DASHBOARD_DATA = {
       "Prior Years Asked": "2011",
       "Mapping Confidence": "Low",
       "Mapping Score": 0.67,
-      "Tentative Answer": "C - 2 and 3",
+      "UPSC Provisional Answer": "C - 2 and 3",
       "Question": "Which of the following with reference to Indian States is/are not correct ? 1. Uttar Pradesh shares its boundary with the highest number of other Indian States. 2. Rajasthan shares the longest international border among all Indian States. 3. Sikkim is the only State that shares its boundary with just one other Indian State. Select the answer using the code given below :",
-      "Tentative Explanation": "Tentative key marks option C. This code is treated as the valid set of statements for the Indian Geography question; verify with UPSC's final key."
+      "Tentative Explanation": "UPSC provisional answer key, GS-I CSP Exam 2026, Series A, dated 27-05-2026 confirms option C. This code is treated as the valid set of statements for the Indian Geography question; verify with UPSC's final key.",
+      "Previous Tentative Answer": "C - 2 and 3",
+      "Answer Status": "Confirmed by UPSC provisional key",
+      "Answer Source": "UPSC provisional answer key, GS-I CSP Exam 2026, Series A, dated 27-05-2026"
     },
     {
       "No": 27,
@@ -946,9 +1043,12 @@ window.DASHBOARD_DATA = {
       "Prior Years Asked": null,
       "Mapping Confidence": "Medium",
       "Mapping Score": 1.69,
-      "Tentative Answer": "A - 1 only",
+      "UPSC Provisional Answer": "A - 1 only",
       "Question": "of the following statements with regard to the arrival of Amur Falcons at Doyang Lake in Nagaland each year from Mongolia is/are correct ? 1. It showcases how sustained local conservation efforts can contribute to the arrival and protection of international migratory birds. 2. It reflects the global success of advanced tracking technologies that guide migratory birds back to their stopover sites. 3. It confirms that Amur Falcons have adapted to permanent residency in India due to favourable habitat changes. Select the answer using the code given below :",
-      "Tentative Explanation": "Tentative key marks option A. This code is treated as the valid set of statements for the Environment & Ecology question; verify with UPSC's final key."
+      "Tentative Explanation": "UPSC provisional answer key, GS-I CSP Exam 2026, Series A, dated 27-05-2026 confirms option A. This code is treated as the valid set of statements for the Environment & Ecology question; verify with UPSC's final key.",
+      "Previous Tentative Answer": "A - 1 only",
+      "Answer Status": "Confirmed by UPSC provisional key",
+      "Answer Source": "UPSC provisional answer key, GS-I CSP Exam 2026, Series A, dated 27-05-2026"
     },
     {
       "No": 28,
@@ -962,9 +1062,12 @@ window.DASHBOARD_DATA = {
       "Prior Years Asked": "2012, 2016, 2018, 2022, 2023, 2024, 2025",
       "Mapping Confidence": "Low",
       "Mapping Score": 0.88,
-      "Tentative Answer": "D - 3 only",
+      "UPSC Provisional Answer": "D - 3 only",
       "Question": "Which among the following is/are the objective(s) of the Rainfed Area Development (RAD) initiative under the National Mission for Sustainable Agriculture (NMSA) ? 1. Encouraging monoculture in rainfed areas 2. Increasing rice cultivation in irrigated regions 3. Enhancing productivity and minimising climatic risks through Integrated Farming Systems (IFS) Select the answer using the code given below :",
-      "Tentative Explanation": "Tentative key marks option D. This code is treated as the valid set of statements for the Social Issues & Schemes question; verify with UPSC's final key."
+      "Tentative Explanation": "UPSC provisional answer key, GS-I CSP Exam 2026, Series A, dated 27-05-2026 confirms option D. This code is treated as the valid set of statements for the Social Issues & Schemes question; verify with UPSC's final key.",
+      "Previous Tentative Answer": "D - 3 only",
+      "Answer Status": "Confirmed by UPSC provisional key",
+      "Answer Source": "UPSC provisional answer key, GS-I CSP Exam 2026, Series A, dated 27-05-2026"
     },
     {
       "No": 29,
@@ -978,9 +1081,12 @@ window.DASHBOARD_DATA = {
       "Prior Years Asked": null,
       "Mapping Confidence": "Low",
       "Mapping Score": 0.87,
-      "Tentative Answer": "C - Both 1 and 2",
+      "UPSC Provisional Answer": "C - Both 1 and 2",
       "Question": "of the following is/are the most significant implication(s) of obtaining Oeko-Tex certification for Eri Silk in the global textile industry ? 1. It allows Indian exporters to compete in high-end markets that prioritise chemical-free products. 2. It confirms that Eri Silk meets international safety, environmental, and quality standards, enabling its entry into premium eco-conscious markets. Select the answer using the code given below :",
-      "Tentative Explanation": "Tentative key marks option C. This code is treated as the valid set of statements for the Economy question; verify with UPSC's final key."
+      "Tentative Explanation": "UPSC provisional answer key, GS-I CSP Exam 2026, Series A, dated 27-05-2026 confirms option C. This code is treated as the valid set of statements for the Economy question; verify with UPSC's final key.",
+      "Previous Tentative Answer": "C - Both 1 and 2",
+      "Answer Status": "Confirmed by UPSC provisional key",
+      "Answer Source": "UPSC provisional answer key, GS-I CSP Exam 2026, Series A, dated 27-05-2026"
     },
     {
       "No": 30,
@@ -994,9 +1100,12 @@ window.DASHBOARD_DATA = {
       "Prior Years Asked": null,
       "Mapping Confidence": "Low",
       "Mapping Score": 0.66,
-      "Tentative Answer": "B - 1 and 3",
+      "UPSC Provisional Answer": "B - I and 3",
       "Question": "Ships from which of the following countries have to cross the Strait of Hormuz to reach out to the Indian Ocean ? 1. Bahrain 2. Syria 3. Qatar 4. Egypt Select the answer using the code given below :",
-      "Tentative Explanation": "Tentative key marks option B. This code is treated as the valid set of statements for the World Geography question; verify with UPSC's final key."
+      "Tentative Explanation": "UPSC provisional answer key, GS-I CSP Exam 2026, Series A, dated 27-05-2026 confirms option B. This code is treated as the valid set of statements for the World Geography question; verify with UPSC's final key.",
+      "Previous Tentative Answer": "B - 1 and 3",
+      "Answer Status": "Confirmed by UPSC provisional key",
+      "Answer Source": "UPSC provisional answer key, GS-I CSP Exam 2026, Series A, dated 27-05-2026"
     },
     {
       "No": 31,
@@ -1010,9 +1119,12 @@ window.DASHBOARD_DATA = {
       "Prior Years Asked": null,
       "Mapping Confidence": "Low",
       "Mapping Score": 0.84,
-      "Tentative Answer": "A - Ecuador",
+      "UPSC Provisional Answer": "A - Ecuador",
       "Question": "Tungurahua �Volcano, which was declared a Global Geopark by UNESCO in 2025, is situated in which one among the following countries ?",
-      "Tentative Explanation": "Tentative key marks option A. 'Ecuador' is treated as the fact/concept that best fits this Physical Geography question; verify with UPSC's final key."
+      "Tentative Explanation": "UPSC provisional answer key, GS-I CSP Exam 2026, Series A, dated 27-05-2026 confirms option A. 'Ecuador' is treated as the fact/concept that best fits this Physical Geography question; verify with UPSC's final key.",
+      "Previous Tentative Answer": "A - Ecuador",
+      "Answer Status": "Confirmed by UPSC provisional key",
+      "Answer Source": "UPSC provisional answer key, GS-I CSP Exam 2026, Series A, dated 27-05-2026"
     },
     {
       "No": 32,
@@ -1026,9 +1138,12 @@ window.DASHBOARD_DATA = {
       "Prior Years Asked": "2012, 2014, 2020",
       "Mapping Confidence": "Medium",
       "Mapping Score": 1.62,
-      "Tentative Answer": "B - 1 and 2",
+      "UPSC Provisional Answer": "B - 1 and 2",
       "Question": "With reference to Madhav National Park, which of the following statements is/are correct ? 1. It was declared a Tiger Reserve in India in 2025. 2. Sakhya Sagar, which is designated as a Ramsar Site, is situated within this National Park. 3. Its area is shared between Madhya Pradesh and Rajasthan. Select the answer using the code given below :",
-      "Tentative Explanation": "Tentative key marks option B. This code is treated as the valid set of statements for the Environment & Ecology question; verify with UPSC's final key."
+      "Tentative Explanation": "UPSC provisional answer key, GS-I CSP Exam 2026, Series A, dated 27-05-2026 confirms option B. This code is treated as the valid set of statements for the Environment & Ecology question; verify with UPSC's final key.",
+      "Previous Tentative Answer": "B - 1 and 2",
+      "Answer Status": "Confirmed by UPSC provisional key",
+      "Answer Source": "UPSC provisional answer key, GS-I CSP Exam 2026, Series A, dated 27-05-2026"
     },
     {
       "No": 33,
@@ -1042,9 +1157,12 @@ window.DASHBOARD_DATA = {
       "Prior Years Asked": "2011, 2013, 2015, 2017, 2025",
       "Mapping Confidence": "Medium",
       "Mapping Score": 1.28,
-      "Tentative Answer": "B - 1 and 2",
+      "UPSC Provisional Answer": "B - 1 and 2",
       "Question": "With reference to the climate of Andaman and Nicobar Islands, which of the following statements is/are correct ? 1. The climate can be defined as a humid, tropical coastal climate. 2. It receives rainfall from both South-west monsoon and North-east monsoon. 3. Maximum precipitation is between December and May. Select the answer using the code given below :",
-      "Tentative Explanation": "Tentative key marks option B. This code is treated as the valid set of statements for the Indian Geography question; verify with UPSC's final key."
+      "Tentative Explanation": "UPSC provisional answer key, GS-I CSP Exam 2026, Series A, dated 27-05-2026 confirms option B. This code is treated as the valid set of statements for the Indian Geography question; verify with UPSC's final key.",
+      "Previous Tentative Answer": "B - 1 and 2",
+      "Answer Status": "Confirmed by UPSC provisional key",
+      "Answer Source": "UPSC provisional answer key, GS-I CSP Exam 2026, Series A, dated 27-05-2026"
     },
     {
       "No": 34,
@@ -1058,9 +1176,12 @@ window.DASHBOARD_DATA = {
       "Prior Years Asked": null,
       "Mapping Confidence": "Medium",
       "Mapping Score": 1.46,
-      "Tentative Answer": "B - 1 and 2",
+      "UPSC Provisional Answer": "B - 1 and 2",
       "Question": "Which of the following geographical features or phenomena is/are associated with the Peninsular Block of India ? 1. Submergence of parts of the western coast due to tectonic activity 2. Presence of residual mountain ranges such as the Veliconda hills and Mahendragiri hills 3. Deep, V-shaped river valleys formed by fast-flowing rivers Select the answer using the code given below :",
-      "Tentative Explanation": "Tentative key marks option B. This code is treated as the valid set of statements for the Indian Geography question; verify with UPSC's final key."
+      "Tentative Explanation": "UPSC provisional answer key, GS-I CSP Exam 2026, Series A, dated 27-05-2026 confirms option B. This code is treated as the valid set of statements for the Indian Geography question; verify with UPSC's final key.",
+      "Previous Tentative Answer": "B - 1 and 2",
+      "Answer Status": "Confirmed by UPSC provisional key",
+      "Answer Source": "UPSC provisional answer key, GS-I CSP Exam 2026, Series A, dated 27-05-2026"
     },
     {
       "No": 35,
@@ -1074,9 +1195,12 @@ window.DASHBOARD_DATA = {
       "Prior Years Asked": "2018",
       "Mapping Confidence": "Medium",
       "Mapping Score": 0.93,
-      "Tentative Answer": "B - 1 and 2",
+      "UPSC Provisional Answer": "B - 1 and 2",
       "Question": "Consider the following statements with reference to the Sagarmala Programme of the Government of India : I. The Sagarmala Programme seeks to achieve port-led economic growth through cost-effective and sustainable coastal infrastructure. 11. The success of the Sagarmala Programme is reflected in significant growth in coastal and inland waterway shipping, along with improved global port rankings. 111. Sagarmala 2.0 aims to position India as a global maritime innovation hub aligned with Atmanirbhar Bharat and Viksit Bharat 2047 visions. Which of the following relationships among the above statements is/are correct ? 1. Statement 11 validates the effectiveness of the strategies envisioned in statement I. 2. Statement Ill extends the objectives of statement I by embedding them into a future-oriented innovation framework. 3. Statement I contradicts statement Ill by focusing only on traditional infrastructure instead of modern innovation. Select the answer using the code given below :",
-      "Tentative Explanation": "Tentative key marks option B. This code is treated as the valid set of statements for the Economy question; verify with UPSC's final key."
+      "Tentative Explanation": "UPSC provisional answer key, GS-I CSP Exam 2026, Series A, dated 27-05-2026 confirms option B. This code is treated as the valid set of statements for the Economy question; verify with UPSC's final key.",
+      "Previous Tentative Answer": "B - 1 and 2",
+      "Answer Status": "Confirmed by UPSC provisional key",
+      "Answer Source": "UPSC provisional answer key, GS-I CSP Exam 2026, Series A, dated 27-05-2026"
     },
     {
       "No": 36,
@@ -1090,9 +1214,12 @@ window.DASHBOARD_DATA = {
       "Prior Years Asked": "2012, 2017, 2018, 2020, 2022, 2024",
       "Mapping Confidence": "Low",
       "Mapping Score": 0.59,
-      "Tentative Answer": "B - 1 and 3",
+      "UPSC Provisional Answer": "B - 1 and 3",
       "Question": "Consider the following statements about Rhynchostylis retusa (Foxtail orchid) : 1. It is an epiphytic orchid. 2. The species is endemic to North-east India. 3. It is the State flower of Arunachal Pradesh and Assam. Which of the statements given above is/are correct ?",
-      "Tentative Explanation": "Tentative key marks option B. This code is treated as the valid set of statements for the Environment & Ecology question; verify with UPSC's final key."
+      "Tentative Explanation": "UPSC provisional answer key, GS-I CSP Exam 2026, Series A, dated 27-05-2026 confirms option B. This code is treated as the valid set of statements for the Environment & Ecology question; verify with UPSC's final key.",
+      "Previous Tentative Answer": "B - 1 and 3",
+      "Answer Status": "Confirmed by UPSC provisional key",
+      "Answer Source": "UPSC provisional answer key, GS-I CSP Exam 2026, Series A, dated 27-05-2026"
     },
     {
       "No": 37,
@@ -1106,9 +1233,12 @@ window.DASHBOARD_DATA = {
       "Prior Years Asked": "2021, 2024, 2025",
       "Mapping Confidence": "Medium",
       "Mapping Score": 1.48,
-      "Tentative Answer": "C - 3 only",
+      "UPSC Provisional Answer": "C - 3 only",
       "Question": "Which one of the following statements with regard to the Moidams, built by the Tai-Ahom kingdom and inscribed as a World Heritage Site by UNESCO, is/are correct ? 1. They acted as army fortresses. 2. They were recreation centres of the Royals and Nobles. 3. They were burial grounds of the Royals and Nobles. They were battle drill centres of the Royals and Nobles. Select the answer using the code given below :",
-      "Tentative Explanation": "Tentative key marks option C. This code is treated as the valid set of statements for the Art & Culture question; verify with UPSC's final key."
+      "Tentative Explanation": "UPSC provisional answer key, GS-I CSP Exam 2026, Series A, dated 27-05-2026 confirms option C. This code is treated as the valid set of statements for the Art & Culture question; verify with UPSC's final key.",
+      "Previous Tentative Answer": "C - 3 only",
+      "Answer Status": "Confirmed by UPSC provisional key",
+      "Answer Source": "UPSC provisional answer key, GS-I CSP Exam 2026, Series A, dated 27-05-2026"
     },
     {
       "No": 38,
@@ -1122,9 +1252,12 @@ window.DASHBOARD_DATA = {
       "Prior Years Asked": "2013, 2014, 2021",
       "Mapping Confidence": "Low",
       "Mapping Score": 0.72,
-      "Tentative Answer": "B - Better production, better nutrition, better environment and better life",
+      "UPSC Provisional Answer": "B - Better production, better nutrition, better environment and better life",
       "Question": "At the United Nations Ocean Conference (UNOC) held in June, 2025 in France, the Food and Agricultural Organization (FAO) of the United Nations demonstrated its leading voice on marine and ocean issues, especially on sustainable fisheries and aquaculture for resilient livelihood and \"Blue Transformation\". VVhich of the following combinations about the \"Four Betters\" proposed by FAO for \"Blue Transformation\" is correct ?",
-      "Tentative Explanation": "Tentative key marks option B. This code is treated as the valid set of statements for the Environment & Ecology question; verify with UPSC's final key."
+      "Tentative Explanation": "UPSC provisional answer key, GS-I CSP Exam 2026, Series A, dated 27-05-2026 confirms option B. This code is treated as the valid set of statements for the Environment & Ecology question; verify with UPSC's final key.",
+      "Previous Tentative Answer": "B - Better production, better nutrition, better environment and better life",
+      "Answer Status": "Confirmed by UPSC provisional key",
+      "Answer Source": "UPSC provisional answer key, GS-I CSP Exam 2026, Series A, dated 27-05-2026"
     },
     {
       "No": 39,
@@ -1138,9 +1271,12 @@ window.DASHBOARD_DATA = {
       "Prior Years Asked": "2022",
       "Mapping Confidence": "Medium",
       "Mapping Score": 1.09,
-      "Tentative Answer": "B - 1 and 3 only",
+      "UPSC Provisional Answer": "B - 1 and 3 only",
       "Question": "VVhich of the following statements with reference to Lake Turkana is/are correct ? 1. It is the largest desert lake in the world. 2. The lake is situated in South Sudan along the eastern fringe of the Sahara desert. 3. The lake is listed as a UNESCO World Heritage Site and is also referred to as the 'Jade Sea'. Select the answer using the code given below :",
-      "Tentative Explanation": "Tentative key marks option B. This code is treated as the valid set of statements for the World Geography question; verify with UPSC's final key."
+      "Tentative Explanation": "UPSC provisional answer key, GS-I CSP Exam 2026, Series A, dated 27-05-2026 confirms option B. This code is treated as the valid set of statements for the World Geography question; verify with UPSC's final key.",
+      "Previous Tentative Answer": "B - 1 and 3 only",
+      "Answer Status": "Confirmed by UPSC provisional key",
+      "Answer Source": "UPSC provisional answer key, GS-I CSP Exam 2026, Series A, dated 27-05-2026"
     },
     {
       "No": 40,
@@ -1154,9 +1290,12 @@ window.DASHBOARD_DATA = {
       "Prior Years Asked": null,
       "Mapping Confidence": "Low",
       "Mapping Score": 0.84,
-      "Tentative Answer": "C - Khasi Hills Community REDD+ project",
+      "UPSC Provisional Answer": "C - Khasi Hills Community REDD+ project",
       "Question": "one of the following is the first Plan Vivo certified Reducing Emissions from Deforestation and Forest Degradation (REDD+) project in India ?",
-      "Tentative Explanation": "Tentative key marks option C. 'Khasi Hills Community REDD+ project' is treated as the fact/concept that best fits this Environment & Ecology question; verify with UPSC's final key."
+      "Tentative Explanation": "UPSC provisional answer key, GS-I CSP Exam 2026, Series A, dated 27-05-2026 confirms option C. 'Khasi Hills Community REDD+ project' is treated as the fact/concept that best fits this Environment & Ecology question; verify with UPSC's final key.",
+      "Previous Tentative Answer": "C - Khasi Hills Community REDD+ project",
+      "Answer Status": "Confirmed by UPSC provisional key",
+      "Answer Source": "UPSC provisional answer key, GS-I CSP Exam 2026, Series A, dated 27-05-2026"
     },
     {
       "No": 41,
@@ -1170,9 +1309,12 @@ window.DASHBOARD_DATA = {
       "Prior Years Asked": "2011, 2012, 2013, 2014, 2016, 2017, 2018, 2019, 2021, 2022, 2023",
       "Mapping Confidence": "Medium",
       "Mapping Score": 1.49,
-      "Tentative Answer": "C - 1 and 2 only",
+      "UPSC Provisional Answer": "C - 1 and 2 only",
       "Question": "Which of the following statements with regard to genetic medicine is/are correct ? 1. Genetic medicines correct/compensate for the faulty genes responsible for disease. 2. Engineered viruses and lipid nanoparticles are used as carriers of the genetic medicine. 3. Genetic medicines alter the entire DNA sequence. Select the answer using the code given below :",
-      "Tentative Explanation": "Tentative key marks option C. This code is treated as the valid set of statements for the Science & Technology question; verify with UPSC's final key."
+      "Tentative Explanation": "UPSC provisional answer key, GS-I CSP Exam 2026, Series A, dated 27-05-2026 confirms option C. This code is treated as the valid set of statements for the Science & Technology question; verify with UPSC's final key.",
+      "Previous Tentative Answer": "C - 1 and 2 only",
+      "Answer Status": "Confirmed by UPSC provisional key",
+      "Answer Source": "UPSC provisional answer key, GS-I CSP Exam 2026, Series A, dated 27-05-2026"
     },
     {
       "No": 42,
@@ -1186,9 +1328,12 @@ window.DASHBOARD_DATA = {
       "Prior Years Asked": null,
       "Mapping Confidence": "Low",
       "Mapping Score": 0.73,
-      "Tentative Answer": "B - 1 and 2 only",
+      "UPSC Provisional Answer": "B - I and 2 only",
       "Question": "Which of the following statements with regard to Large Language Models (LLMs) used in machine learning is/are correct ? 1. LLMs assign probabilities to the next possible words and then pick the one with the highest probability. 2. LLMs process data through mathematical optimization to minimise prediction errors. 3. LLMs produce unbiased outputs. Select the answer using the code given below :",
-      "Tentative Explanation": "Tentative key marks option B. This code is treated as the valid set of statements for the Science & Technology question; verify with UPSC's final key."
+      "Tentative Explanation": "UPSC provisional answer key, GS-I CSP Exam 2026, Series A, dated 27-05-2026 confirms option B. This code is treated as the valid set of statements for the Science & Technology question; verify with UPSC's final key.",
+      "Previous Tentative Answer": "B - 1 and 2 only",
+      "Answer Status": "Confirmed by UPSC provisional key",
+      "Answer Source": "UPSC provisional answer key, GS-I CSP Exam 2026, Series A, dated 27-05-2026"
     },
     {
       "No": 43,
@@ -1202,9 +1347,12 @@ window.DASHBOARD_DATA = {
       "Prior Years Asked": null,
       "Mapping Confidence": "Medium",
       "Mapping Score": 1.22,
-      "Tentative Answer": "C - 1 and 2 only",
+      "UPSC Provisional Answer": "C - 1 and 2 only",
       "Question": "of the following statements with regard to stealth technology is/are correct ? 1. Stealth objects have a very small radar cross-section and are coated with Radar Absorbing Material. 2. Stealth objects can be detected using specific frequencies. 3. Stealth objects are coated with metamaterials to increase the scattering of electromagnetic radiation. Select the answer using the code given below :",
-      "Tentative Explanation": "Tentative key marks option C. This code is treated as the valid set of statements for the Science & Technology question; verify with UPSC's final key."
+      "Tentative Explanation": "UPSC provisional answer key, GS-I CSP Exam 2026, Series A, dated 27-05-2026 confirms option C. This code is treated as the valid set of statements for the Science & Technology question; verify with UPSC's final key.",
+      "Previous Tentative Answer": "C - 1 and 2 only",
+      "Answer Status": "Confirmed by UPSC provisional key",
+      "Answer Source": "UPSC provisional answer key, GS-I CSP Exam 2026, Series A, dated 27-05-2026"
     },
     {
       "No": 44,
@@ -1218,9 +1366,12 @@ window.DASHBOARD_DATA = {
       "Prior Years Asked": null,
       "Mapping Confidence": "Low",
       "Mapping Score": 0.73,
-      "Tentative Answer": "B - 2 and 3 only",
+      "UPSC Provisional Answer": "B - 2 and 3 only",
       "Question": "Which of the following statements with regard to Black Boxes used in modern aircrafts is/are correct ? 1. They carry a beacon emitting red light pulses to facilitate underwater detection. 2. They record both the cockpit voice and flight data. 3. Their memory units are made using either stainless steel or titanium. Select the answer using the code given below :",
-      "Tentative Explanation": "Tentative key marks option B. This code is treated as the valid set of statements for the Science & Technology question; verify with UPSC's final key."
+      "Tentative Explanation": "UPSC provisional answer key, GS-I CSP Exam 2026, Series A, dated 27-05-2026 confirms option B. This code is treated as the valid set of statements for the Science & Technology question; verify with UPSC's final key.",
+      "Previous Tentative Answer": "B - 2 and 3 only",
+      "Answer Status": "Confirmed by UPSC provisional key",
+      "Answer Source": "UPSC provisional answer key, GS-I CSP Exam 2026, Series A, dated 27-05-2026"
     },
     {
       "No": 45,
@@ -1234,9 +1385,12 @@ window.DASHBOARD_DATA = {
       "Prior Years Asked": "2011, 2012, 2014, 2016, 2017, 2019, 2020, 2023, 2024, 2025",
       "Mapping Confidence": "Medium",
       "Mapping Score": 1.22,
-      "Tentative Answer": "B - 2 and 3 only",
+      "UPSC Provisional Answer": "B - 2 and 3 only",
       "Question": "Which of the following statements with regard to Green Hydrogen is/are correct ? 1. It is decarbonized hydrogen obtained from natural gas reforming combined with carbon capture and storage (CCS). 2. It is produced using electrolysis of water with electricity generated by renewable energy. 3. National Green Hydrogen Mission of India aims for abatement of nearly 50 MMT of annual greenhouse gas emissions by 2030. Select the answer using the code given below :",
-      "Tentative Explanation": "Tentative key marks option B. This code is treated as the valid set of statements for the Environment & Ecology question; verify with UPSC's final key."
+      "Tentative Explanation": "UPSC provisional answer key, GS-I CSP Exam 2026, Series A, dated 27-05-2026 confirms option B. This code is treated as the valid set of statements for the Environment & Ecology question; verify with UPSC's final key.",
+      "Previous Tentative Answer": "B - 2 and 3 only",
+      "Answer Status": "Confirmed by UPSC provisional key",
+      "Answer Source": "UPSC provisional answer key, GS-I CSP Exam 2026, Series A, dated 27-05-2026"
     },
     {
       "No": 46,
@@ -1250,9 +1404,12 @@ window.DASHBOARD_DATA = {
       "Prior Years Asked": null,
       "Mapping Confidence": "Low",
       "Mapping Score": 0.87,
-      "Tentative Answer": "C - 1 and 2 only",
+      "UPSC Provisional Answer": "C - 1 and 2 only",
       "Question": "Consider the following statements with regard to involvement of private entities in India's space programme : 1. The Indian National Space Promotion and Authorisation Centre (IN-SPACe) is an autonomous agency formed to facilitate participation of private entities. 2. Agnikul Cosmos launched the world's first flight using 3D-printed rocket engine. 3. Skyroot Aerospace has developed liquid fuel for GSLV. Which of the statements given above is/are correct ?",
-      "Tentative Explanation": "Tentative key marks option C. This code is treated as the valid set of statements for the Science & Technology question; verify with UPSC's final key."
+      "Tentative Explanation": "UPSC provisional answer key, GS-I CSP Exam 2026, Series A, dated 27-05-2026 confirms option C. This code is treated as the valid set of statements for the Science & Technology question; verify with UPSC's final key.",
+      "Previous Tentative Answer": "C - 1 and 2 only",
+      "Answer Status": "Confirmed by UPSC provisional key",
+      "Answer Source": "UPSC provisional answer key, GS-I CSP Exam 2026, Series A, dated 27-05-2026"
     },
     {
       "No": 47,
@@ -1266,9 +1423,12 @@ window.DASHBOARD_DATA = {
       "Prior Years Asked": "2017, 2019",
       "Mapping Confidence": "Low",
       "Mapping Score": 0.48,
-      "Tentative Answer": "B - 2 and 3 only",
+      "UPSC Provisional Answer": "B - 2 and 3 only",
       "Question": "Which of the following statements with regard to drone swarms is/are correct ? 1. They use Terahertz band of frequency to communicate with the command centre. 2. Individual drones in the swarm can communicate with other drones in the swarm. 3. GPS Spoofing is a commonly used technique to counter drone swarm attack. Select the answer using the code given below :",
-      "Tentative Explanation": "Tentative key marks option B. This code is treated as the valid set of statements for the Science & Technology question; verify with UPSC's final key."
+      "Tentative Explanation": "UPSC provisional answer key, GS-I CSP Exam 2026, Series A, dated 27-05-2026 confirms option B. This code is treated as the valid set of statements for the Science & Technology question; verify with UPSC's final key.",
+      "Previous Tentative Answer": "B - 2 and 3 only",
+      "Answer Status": "Confirmed by UPSC provisional key",
+      "Answer Source": "UPSC provisional answer key, GS-I CSP Exam 2026, Series A, dated 27-05-2026"
     },
     {
       "No": 48,
@@ -1282,9 +1442,12 @@ window.DASHBOARD_DATA = {
       "Prior Years Asked": "2011, 2012, 2013, 2014, 2016, 2017, 2018, 2019, 2021, 2022, 2023",
       "Mapping Confidence": "Medium",
       "Mapping Score": 1.28,
-      "Tentative Answer": "B - 2 and 3 only",
+      "UPSC Provisional Answer": "B - 2 and 3 only",
       "Question": "Which of the following statements with regard to Genomelndia Project is/are correct ? 1. It is a part of the Human Genome Project. 2. The project is funded by the Department of Biotechnology (DBT), Government of India. 3. Its primary aim is to build a catalogue of genetic diversity of the Indian population. Select the answer using the code given below :",
-      "Tentative Explanation": "Tentative key marks option B. This code is treated as the valid set of statements for the Science & Technology question; verify with UPSC's final key."
+      "Tentative Explanation": "UPSC provisional answer key, GS-I CSP Exam 2026, Series A, dated 27-05-2026 confirms option B. This code is treated as the valid set of statements for the Science & Technology question; verify with UPSC's final key.",
+      "Previous Tentative Answer": "B - 2 and 3 only",
+      "Answer Status": "Confirmed by UPSC provisional key",
+      "Answer Source": "UPSC provisional answer key, GS-I CSP Exam 2026, Series A, dated 27-05-2026"
     },
     {
       "No": 49,
@@ -1298,9 +1461,12 @@ window.DASHBOARD_DATA = {
       "Prior Years Asked": "2011, 2014, 2016, 2017, 2018, 2020, 2024, 2025",
       "Mapping Confidence": "Low",
       "Mapping Score": 0.49,
-      "Tentative Answer": "C - Both 1 and 2",
+      "UPSC Provisional Answer": "C - Both 1 and 2",
       "Question": "Which of the following statements with regard to the National Quantum Mission (NQM) is/are correct ? 1. It aims at developing intermediate-scale quantum computers with 50 � 1000 physical qubits. 2. Its implementation includes setting up of four Thematic Hubs (T-Hubs) in academic and national R&D institutes across India. Select the answer using the code given below :",
-      "Tentative Explanation": "Tentative key marks option C. This code is treated as the valid set of statements for the Science & Technology question; verify with UPSC's final key."
+      "Tentative Explanation": "UPSC provisional answer key, GS-I CSP Exam 2026, Series A, dated 27-05-2026 confirms option C. This code is treated as the valid set of statements for the Science & Technology question; verify with UPSC's final key.",
+      "Previous Tentative Answer": "C - Both 1 and 2",
+      "Answer Status": "Confirmed by UPSC provisional key",
+      "Answer Source": "UPSC provisional answer key, GS-I CSP Exam 2026, Series A, dated 27-05-2026"
     },
     {
       "No": 50,
@@ -1314,9 +1480,12 @@ window.DASHBOARD_DATA = {
       "Prior Years Asked": null,
       "Mapping Confidence": "Low",
       "Mapping Score": 0.87,
-      "Tentative Answer": "B - 2 and 3 only",
+      "UPSC Provisional Answer": "B - 2 and 3 only",
       "Question": "MThich of the following statements with regard to India's Deep Ocean Mission is/are correct ? 1. It was launched by the Ministry of Ports, Shipping and Waterways, Government of India. 2. Matsya-6000 has been designed to carry 3 people for deep sea exploration. 3. Samudrayaan is a project under this mission. Select the answer using the code given below :",
-      "Tentative Explanation": "Tentative key marks option B. This code is treated as the valid set of statements for the Science & Technology question; verify with UPSC's final key."
+      "Tentative Explanation": "UPSC provisional answer key, GS-I CSP Exam 2026, Series A, dated 27-05-2026 confirms option B. This code is treated as the valid set of statements for the Science & Technology question; verify with UPSC's final key.",
+      "Previous Tentative Answer": "B - 2 and 3 only",
+      "Answer Status": "Confirmed by UPSC provisional key",
+      "Answer Source": "UPSC provisional answer key, GS-I CSP Exam 2026, Series A, dated 27-05-2026"
     },
     {
       "No": 51,
@@ -1330,9 +1499,12 @@ window.DASHBOARD_DATA = {
       "Prior Years Asked": null,
       "Mapping Confidence": "Low",
       "Mapping Score": 0.89,
-      "Tentative Answer": "C - Accountability",
+      "UPSC Provisional Answer": "C - Accountability",
       "Question": "Mr. X, a senior officer, was overseeing a critical vaccination programme during a pandemic. He found that a private service provider responsible for vaccine distribution was compromising on quality to make profits. Despite immense pressure to manage the issue due to vested interests, he raised his voice based on the principles of public administration which he learnt during various training programmes attended across his career. He reported the issue to the appropriate vigilance authority and halted the contract to ensure citizen welfare. MThich one among the following principles of public administration was most strongly demonstrated by Mr. X's actions ?",
-      "Tentative Explanation": "Tentative key marks option C. 'Accountability' is treated as the fact/concept that best fits this Indian Polity question; verify with UPSC's final key."
+      "Tentative Explanation": "UPSC provisional answer key, GS-I CSP Exam 2026, Series A, dated 27-05-2026 confirms option C. 'Accountability' is treated as the fact/concept that best fits this Indian Polity question; verify with UPSC's final key.",
+      "Previous Tentative Answer": "C - Accountability",
+      "Answer Status": "Confirmed by UPSC provisional key",
+      "Answer Source": "UPSC provisional answer key, GS-I CSP Exam 2026, Series A, dated 27-05-2026"
     },
     {
       "No": 52,
@@ -1346,9 +1518,12 @@ window.DASHBOARD_DATA = {
       "Prior Years Asked": "2012, 2013, 2014, 2015, 2017, 2019, 2020, 2021, 2024, 2025",
       "Mapping Confidence": "Medium",
       "Mapping Score": 1.43,
-      "Tentative Answer": "A - 1, 3 and 4 only",
+      "UPSC Provisional Answer": "A - 1, 3 and 4 only",
       "Question": "In a multi-ethnic district where both economic competition and historical grievances frequently led to community tensions, a flashpoint has arisen with a Government decision to allocate land for a waste management facility near a tribal hamlet, sparking protests by the tribal community, which claimed that the land was sacred and critical to their cultural identity. At the same time, urban residents and local industries supported the project, citing severe solid waste challenges and health concerns due to lack of a proper disposal site. The conflict has escalated with road blockades, social media campaigns, and allegations of police excesses. As a responsible Government official, you are tasked with resolving the situation through mediation, ensuring a sustainable outcome that balances environmental needs, tribal rights, and urban public health. Consider the following statements with reference to the above : 1. A successful conflict resolution process must begin with acknowledging the cultural concerns of the protesting tribal community before discussing technical alternatives. 2. The Government should move ahead with the project without delay to address urban health concerns, which outweigh the sentiments of a small group. 3. Creating a multi-stakeholder dialogue platform � including tribal leaders, environmental experts, and municipal representatives � to build mutual understanding and help de-escalate tensions. 4. Conducting independent Environmental and Social Impact Assessment (ESIA) and sharing findings transparently with both sides to facilitate evidence-based decision- making. Which of the statements given above would contribute to the resolution process ?",
-      "Tentative Explanation": "Tentative key marks option A. This code is treated as the valid set of statements for the Indian Polity question; verify with UPSC's final key."
+      "Tentative Explanation": "UPSC provisional answer key, GS-I CSP Exam 2026, Series A, dated 27-05-2026 confirms option A. This code is treated as the valid set of statements for the Indian Polity question; verify with UPSC's final key.",
+      "Previous Tentative Answer": "A - 1, 3 and 4 only",
+      "Answer Status": "Confirmed by UPSC provisional key",
+      "Answer Source": "UPSC provisional answer key, GS-I CSP Exam 2026, Series A, dated 27-05-2026"
     },
     {
       "No": 53,
@@ -1362,9 +1537,12 @@ window.DASHBOARD_DATA = {
       "Prior Years Asked": null,
       "Mapping Confidence": "Low",
       "Mapping Score": 0.82,
-      "Tentative Answer": "B - 3 only",
+      "UPSC Provisional Answer": "B - 3 only",
       "Question": "Ms. X is a mid-level civil service offcial working in the urban development department of a mQior city. Recently, she was involved in approving a contract for a public infrastructure project � a new community park. During the approval process, she received a piece of confidential information indicating that one of the shortlisted contractors had a history of poor workmanship and allegations of corruption in other cities, though nothing had been legally proven. The Head of the Department, Mr. Y, advised her not to disclose this information to the project committee or the public because it could delay the project and damage the city's reputation. However, Ms. X believed that withholding such information compromised transparency and public trust. What amongst the following should Ms. X do now ? 1. Immediately disclose the information to the project committee and the public 2. Recommend removing the contractor from the shortlist to protect the project's integrity 3. Propose a 'limited disclosure' to an oversight committee, while keeping the information confidential from the public for the time being Select the answer using the code given below :",
-      "Tentative Explanation": "Tentative key marks option B. This code is treated as the valid set of statements for the Social Issues & Schemes question; verify with UPSC's final key."
+      "Tentative Explanation": "UPSC provisional answer key, GS-I CSP Exam 2026, Series A, dated 27-05-2026 confirms option B. This code is treated as the valid set of statements for the Social Issues & Schemes question; verify with UPSC's final key.",
+      "Previous Tentative Answer": "B - 3 only",
+      "Answer Status": "Confirmed by UPSC provisional key",
+      "Answer Source": "UPSC provisional answer key, GS-I CSP Exam 2026, Series A, dated 27-05-2026"
     },
     {
       "No": 54,
@@ -1378,9 +1556,12 @@ window.DASHBOARD_DATA = {
       "Prior Years Asked": "2019",
       "Mapping Confidence": "Low",
       "Mapping Score": 0.83,
-      "Tentative Answer": "D - The view of only 'Y' is correct.",
+      "UPSC Provisional Answer": "D - The view of only 'Y' is correct.",
       "Question": "'X' was addressing a seminar on the meaning of the term 'law' as provided under Article 13, Part Ill of the Constitution of India. 'X' explained that the meaning of the term 'law' in the Constitution of India was very comprehensive. It included ordinances, orders and even rules and regulations. 'Y' pointed out that the term 'law' in Article 13 also included custom or usage having in the territory of India the force of law, to which 'X' was not convinced. Based on the above, select the correct conclusion from the options given below :",
-      "Tentative Explanation": "Tentative key marks option D. This code is treated as the valid set of statements for the Indian Polity question; verify with UPSC's final key."
+      "Tentative Explanation": "UPSC provisional answer key, GS-I CSP Exam 2026, Series A, dated 27-05-2026 confirms option D. This code is treated as the valid set of statements for the Indian Polity question; verify with UPSC's final key.",
+      "Previous Tentative Answer": "D - The view of only 'Y' is correct.",
+      "Answer Status": "Confirmed by UPSC provisional key",
+      "Answer Source": "UPSC provisional answer key, GS-I CSP Exam 2026, Series A, dated 27-05-2026"
     },
     {
       "No": 55,
@@ -1394,9 +1575,12 @@ window.DASHBOARD_DATA = {
       "Prior Years Asked": null,
       "Mapping Confidence": "Medium",
       "Mapping Score": 1.22,
-      "Tentative Answer": "B - There is no correct statement.",
+      "UPSC Provisional Answer": "B - There is no correct statement.",
       "Question": "Consider the following statements with reference to the Constitution of India : 1. There is no Article in the Constitution of India that specifies that the Constitution of India will be officially called the 'Constitution of India'. 2. There is no Article in the Constitution of India that specifies that the Indian Independence Act, 1947 and the Government of India Act, 1935 stand repealed. 3. There is no Article in the Constitution of India that mentions 26th January, 1950 as the date of the commencement of the Constitution of India. Which one of the following conclusions based on the above statements is correct ?",
-      "Tentative Explanation": "Tentative key marks option B. 'There is no correct statement.' is treated as the fact/concept that best fits this Indian Polity question; verify with UPSC's final key."
+      "Tentative Explanation": "UPSC provisional answer key, GS-I CSP Exam 2026, Series A, dated 27-05-2026 confirms option B. 'There is no correct statement.' is treated as the fact/concept that best fits this Indian Polity question; verify with UPSC's final key.",
+      "Previous Tentative Answer": "B - There is no correct statement.",
+      "Answer Status": "Confirmed by UPSC provisional key",
+      "Answer Source": "UPSC provisional answer key, GS-I CSP Exam 2026, Series A, dated 27-05-2026"
     },
     {
       "No": 56,
@@ -1410,9 +1594,12 @@ window.DASHBOARD_DATA = {
       "Prior Years Asked": "2018",
       "Mapping Confidence": "High",
       "Mapping Score": 2.05,
-      "Tentative Answer": "B - 2 only",
+      "UPSC Provisional Answer": "B - 2 only",
       "Question": "Which of the following statements with regard to the persons with disabilities in India is/are correct ? 1. The Rights of Persons with Disabilities Act, an Act passed by the Parliament of India in 2018, mandates reservation in education and employment, places a legal duty on Governments to ensure accessibility and non-discrimination. 2. The Sugamya Bharat Abhiyan focuses on achieving universal accessibility for Persons with Disabilities across three key domains � built infrastructure, transport systems and information and communication technology. 3. The National Divyangjan Finance and Development Corporation (NDFDC) is a public sector organisation set up by the Ministry of Corporate Affairs as a not-for-profit company to promote entrepreneurship among Persons with Disabilities (PwDs). Select the answer using the code given below :",
-      "Tentative Explanation": "Tentative key marks option B. This code is treated as the valid set of statements for the Social Issues & Schemes question; verify with UPSC's final key."
+      "Tentative Explanation": "UPSC provisional answer key, GS-I CSP Exam 2026, Series A, dated 27-05-2026 confirms option B. This code is treated as the valid set of statements for the Social Issues & Schemes question; verify with UPSC's final key.",
+      "Previous Tentative Answer": "B - 2 only",
+      "Answer Status": "Confirmed by UPSC provisional key",
+      "Answer Source": "UPSC provisional answer key, GS-I CSP Exam 2026, Series A, dated 27-05-2026"
     },
     {
       "No": 57,
@@ -1426,9 +1613,12 @@ window.DASHBOARD_DATA = {
       "Prior Years Asked": null,
       "Mapping Confidence": "Medium",
       "Mapping Score": 1.76,
-      "Tentative Answer": "A - There are two correct statements, that include statement 2.",
+      "UPSC Provisional Answer": "A - There are two correct statements, that include statement 2.",
       "Question": "Consider the following statements about the provisions pertaining to the Scheduled Castes and the Scheduled Tribes in India : 1. Provisions regarding the administration of the Tribal Areas in the States of Assam, Meghalaya, Tripura and Mizoram are given in the Fifth Schedule of the Constitution of India. 2. Some tribes of India are entitled to exemption from paying Income Tax on certain incomes. 3. The Constitution of India provides for reservation of seats in Panchayats for women belonging to the Scheduled Castes and the Scheduled Tribes. Which one of the following conclusions based on the above statements is correct ?",
-      "Tentative Explanation": "Tentative key marks option A. This code is treated as the valid set of statements for the Indian Polity question; verify with UPSC's final key."
+      "Tentative Explanation": "UPSC provisional answer key, GS-I CSP Exam 2026, Series A, dated 27-05-2026 confirms option A. This code is treated as the valid set of statements for the Indian Polity question; verify with UPSC's final key.",
+      "Previous Tentative Answer": "A - There are two correct statements, that include statement 2.",
+      "Answer Status": "Confirmed by UPSC provisional key",
+      "Answer Source": "UPSC provisional answer key, GS-I CSP Exam 2026, Series A, dated 27-05-2026"
     },
     {
       "No": 58,
@@ -1442,9 +1632,12 @@ window.DASHBOARD_DATA = {
       "Prior Years Asked": null,
       "Mapping Confidence": "Medium",
       "Mapping Score": 1.52,
-      "Tentative Answer": "C - There is only one correct statement.",
+      "UPSC Provisional Answer": "C - There is only one correct statement.",
       "Question": "Consider the following statements in respect of questions asked by the Members in the Parliament of India : 1. Unstarred questions are those to which a Member desires an oral answer in the House. 2. Starred questions are those to which a Member desires a written answer. 3. No supplementary question can be asked on an unstarred question. Which one of the following conclusions based on the above statements is correct ?",
-      "Tentative Explanation": "Tentative key marks option C. This code is treated as the valid set of statements for the Indian Polity question; verify with UPSC's final key."
+      "Tentative Explanation": "UPSC provisional answer key, GS-I CSP Exam 2026, Series A, dated 27-05-2026 confirms option C. This code is treated as the valid set of statements for the Indian Polity question; verify with UPSC's final key.",
+      "Previous Tentative Answer": "C - There is only one correct statement.",
+      "Answer Status": "Confirmed by UPSC provisional key",
+      "Answer Source": "UPSC provisional answer key, GS-I CSP Exam 2026, Series A, dated 27-05-2026"
     },
     {
       "No": 59,
@@ -1458,9 +1651,12 @@ window.DASHBOARD_DATA = {
       "Prior Years Asked": null,
       "Mapping Confidence": "High",
       "Mapping Score": 2.22,
-      "Tentative Answer": "D - There is no correct statement.",
+      "UPSC Provisional Answer": "D - There is no correct statement.",
       "Question": "Consider the following statements about the Committee on the Welfare of Scheduled Castes and Scheduled Tribes of the Parliament of India : I. Although members of this Committee are elected from both Houses of Parliament, the Chairperson of this Committee is appointed by the Chairman of the Rajya Sabha. 2. Twenty members are elected by the Rajya Sabha and ten members by the Lok Sabha. 3. No Minister, except for the Union Minister of Social Justice and Empowerment, is eligible to be a member of this Committee. 4. Members are elected for a fixed term of two years from the date they enter their office. Which one of the following conclusions based on the above statements is correct ?",
-      "Tentative Explanation": "Tentative key marks option D. 'There is no correct statement.' is treated as the fact/concept that best fits this Indian Polity question; verify with UPSC's final key."
+      "Tentative Explanation": "UPSC provisional answer key, GS-I CSP Exam 2026, Series A, dated 27-05-2026 confirms option D. 'There is no correct statement.' is treated as the fact/concept that best fits this Indian Polity question; verify with UPSC's final key.",
+      "Previous Tentative Answer": "D - There is no correct statement.",
+      "Answer Status": "Confirmed by UPSC provisional key",
+      "Answer Source": "UPSC provisional answer key, GS-I CSP Exam 2026, Series A, dated 27-05-2026"
     },
     {
       "No": 60,
@@ -1474,9 +1670,12 @@ window.DASHBOARD_DATA = {
       "Prior Years Asked": "2014, 2016, 2018, 2020, 2022, 2023, 2024, 2025",
       "Mapping Confidence": "Medium",
       "Mapping Score": 1.22,
-      "Tentative Answer": "A - 1, 2 and 3",
+      "UPSC Provisional Answer": "A - 1, 2 and 3",
       "Question": "Consider the following statements about Mission Sudarshan Chakra of India : 1. It aims to enhance India's air defence, ballistic missile defence and aerial offensive capabilities. 2. This Mission is being designed to enhance rapid, precise, and powerful defence responses, reinforcing India's strategic autonomy. 3. One of the aims of this Mission is to cover all public places of India by an expanded nationwide security shield by 2035. Which of the statements given above is/are correct ?",
-      "Tentative Explanation": "Tentative key marks option A. This code is treated as the valid set of statements for the Science & Technology question; verify with UPSC's final key."
+      "Tentative Explanation": "UPSC provisional answer key, GS-I CSP Exam 2026, Series A, dated 27-05-2026 confirms option A. This code is treated as the valid set of statements for the Science & Technology question; verify with UPSC's final key.",
+      "Previous Tentative Answer": "A - 1, 2 and 3",
+      "Answer Status": "Confirmed by UPSC provisional key",
+      "Answer Source": "UPSC provisional answer key, GS-I CSP Exam 2026, Series A, dated 27-05-2026"
     },
     {
       "No": 61,
@@ -1490,9 +1689,12 @@ window.DASHBOARD_DATA = {
       "Prior Years Asked": null,
       "Mapping Confidence": "Low",
       "Mapping Score": 0.55,
-      "Tentative Answer": "D - 3 only",
+      "UPSC Provisional Answer": "D - 3 only",
       "Question": "Consider the following statements about river bridges connecting India with neighbouring countries : I. 'Maitri Setu', built over Feni river, connects Ramgarh in India with Sabroom in Bangladesh. 2. Jhulaghat suspension bridge connects India with Myanmar. 3. Mechi bridge and its approaches connect Panitanki Bypass in India with Kakarvitta in Nepal. Which of the statements given above is/are correct ?",
-      "Tentative Explanation": "Tentative key marks option D. This code is treated as the valid set of statements for the International Relations question; verify with UPSC's final key."
+      "Tentative Explanation": "UPSC provisional answer key, GS-I CSP Exam 2026, Series A, dated 27-05-2026 confirms option D. This code is treated as the valid set of statements for the International Relations question; verify with UPSC's final key.",
+      "Previous Tentative Answer": "D - 3 only",
+      "Answer Status": "Confirmed by UPSC provisional key",
+      "Answer Source": "UPSC provisional answer key, GS-I CSP Exam 2026, Series A, dated 27-05-2026"
     },
     {
       "No": 62,
@@ -1506,9 +1708,12 @@ window.DASHBOARD_DATA = {
       "Prior Years Asked": "2012",
       "Mapping Confidence": "Low",
       "Mapping Score": 0.88,
-      "Tentative Answer": "C - 1 only",
+      "UPSC Provisional Answer": "D - 2 only",
       "Question": "Which of the following statements about a Zero First Information Report (Zero FIR) under the Bharatiya Nagarik Suraksha Sanhita (BNSS), 2023 is/are correct ? 1. A Zero FIR can be lodged at a police station, even though the place of commission of a cognizable/non-cognizable offence is outside the territorial jurisdiction of that police station. 2. The Officer-in-Charge of the police station where a Zero FIR has been lodged may, with the permission of the competent authority, initiate a preliminary enquiry. 3. Under Zero FIR, it is obligatory for the informant to furnish information electronically. Select the answer using the code given below :",
-      "Tentative Explanation": "Tentative key marks option C. This code is treated as the valid set of statements for the Indian Polity question; verify with UPSC's final key."
+      "Tentative Explanation": "UPSC provisional answer key, GS-I CSP Exam 2026, Series A, dated 27-05-2026 marks option D. This differs from the earlier tentative key C; the previous explanation requires manual review against the provisional key.",
+      "Previous Tentative Answer": "C - 1 only",
+      "Answer Status": "Changed from tentative key",
+      "Answer Source": "UPSC provisional answer key, GS-I CSP Exam 2026, Series A, dated 27-05-2026"
     },
     {
       "No": 63,
@@ -1522,9 +1727,12 @@ window.DASHBOARD_DATA = {
       "Prior Years Asked": "2012, 2014, 2018, 2020, 2023, 2025",
       "Mapping Confidence": "Medium",
       "Mapping Score": 1.37,
-      "Tentative Answer": "A - 1",
+      "UPSC Provisional Answer": "A - 1",
       "Question": "With reference to the organisations under the Government of India, consider the following details : Sl. Organisation Function Controlling No. Union Ministry 1. Central To coordinate Ministry of Economic between Home Intelligence various law Affairs Bureau enforcement (CEIB) agencies 2. Serious To Ministry of Fraud investigate Finance Investigation complex Office (SFIO) corporate frauds 3. Central To preserve Ministry of Bureau of values in Personnel, Investigation public life Public (CBI) and ensure Grievances the health of and Pension the national economy In how many of the above rows are the given details correctly matched ?",
-      "Tentative Explanation": "Tentative key marks option A. '1' is treated as the fact/concept that best fits this Indian Polity question; verify with UPSC's final key."
+      "Tentative Explanation": "UPSC provisional answer key, GS-I CSP Exam 2026, Series A, dated 27-05-2026 confirms option A. '1' is treated as the fact/concept that best fits this Indian Polity question; verify with UPSC's final key.",
+      "Previous Tentative Answer": "A - 1",
+      "Answer Status": "Confirmed by UPSC provisional key",
+      "Answer Source": "UPSC provisional answer key, GS-I CSP Exam 2026, Series A, dated 27-05-2026"
     },
     {
       "No": 64,
@@ -1538,9 +1746,12 @@ window.DASHBOARD_DATA = {
       "Prior Years Asked": null,
       "Mapping Confidence": "Medium",
       "Mapping Score": 1.06,
-      "Tentative Answer": "D - 3, 4 and 5",
+      "UPSC Provisional Answer": "X - Dropped by UPSC provisional key",
       "Question": "Which of the following international conventions have not been ratified by India ? 1. Employment Policy Convention 2. Abolition of Forced Labour Convention 3. International � Convention on the Protection of the Rights of All Migrant Workers and Members of Their Families 4. Geneva Convention Relative to the Protection of Civilian Persons in Time of War 5. Convention on Reduction of Statelessness Select the answer using the code given below :",
-      "Tentative Explanation": "Tentative key marks option D. This code is treated as the valid set of statements for the International Relations question; verify with UPSC's final key."
+      "Tentative Explanation": "UPSC provisional answer key, GS-I CSP Exam 2026, Series A, dated 27-05-2026 marks this question as X / dropped. Exclude it from scoring. Earlier tentative key was D; previous explanation should be disregarded for scoring.",
+      "Previous Tentative Answer": "D - 3, 4 and 5",
+      "Answer Status": "Dropped by UPSC",
+      "Answer Source": "UPSC provisional answer key, GS-I CSP Exam 2026, Series A, dated 27-05-2026"
     },
     {
       "No": 65,
@@ -1554,9 +1765,12 @@ window.DASHBOARD_DATA = {
       "Prior Years Asked": "2025",
       "Mapping Confidence": "Medium",
       "Mapping Score": 1.46,
-      "Tentative Answer": "D - 3 only",
+      "UPSC Provisional Answer": "D - 3 only",
       "Question": "Consider the following statements with respect to the Al Impact Summit, 2026 held in New Delhi : 1. The Summit's intellectual framework was based on three foundational Sutras : People, Planning, and Progress. 2. The Preamble of the Summit stresses Democratising AI Resources, which acknowledges the Charter for Democratic Diffusion of AI as a binding framework to support locally relevant innovation and strengthen resilient AI ecosystems while respecting national laws. 3. The New Delhi Declaration on A1 Impact was structured around seven Chakras (Pillars), which included Access for Social Empowerment, AI for Science, and Secure and Trusted AI. Which of the statements given above is/are correct ?",
-      "Tentative Explanation": "Tentative key marks option D. This code is treated as the valid set of statements for the Science & Technology question; verify with UPSC's final key."
+      "Tentative Explanation": "UPSC provisional answer key, GS-I CSP Exam 2026, Series A, dated 27-05-2026 confirms option D. This code is treated as the valid set of statements for the Science & Technology question; verify with UPSC's final key.",
+      "Previous Tentative Answer": "D - 3 only",
+      "Answer Status": "Confirmed by UPSC provisional key",
+      "Answer Source": "UPSC provisional answer key, GS-I CSP Exam 2026, Series A, dated 27-05-2026"
     },
     {
       "No": 66,
@@ -1570,9 +1784,12 @@ window.DASHBOARD_DATA = {
       "Prior Years Asked": "2023, 2024",
       "Mapping Confidence": "High",
       "Mapping Score": 2.22,
-      "Tentative Answer": "A - 1 and 2",
+      "UPSC Provisional Answer": "A - 1 and 2",
       "Question": "Which of the following connectivity projects is/are a part of cooperation between India and the ASEAN member countries ? 1. Kaladan Multi-Modal Transit Transport Project 2. IMT Trilateral Highway 3. Agartala-Akhaura Rail Line Select the answer using the code given below :",
-      "Tentative Explanation": "Tentative key marks option A. This code is treated as the valid set of statements for the International Relations question; verify with UPSC's final key."
+      "Tentative Explanation": "UPSC provisional answer key, GS-I CSP Exam 2026, Series A, dated 27-05-2026 confirms option A. This code is treated as the valid set of statements for the International Relations question; verify with UPSC's final key.",
+      "Previous Tentative Answer": "A - 1 and 2",
+      "Answer Status": "Confirmed by UPSC provisional key",
+      "Answer Source": "UPSC provisional answer key, GS-I CSP Exam 2026, Series A, dated 27-05-2026"
     },
     {
       "No": 67,
@@ -1586,9 +1803,12 @@ window.DASHBOARD_DATA = {
       "Prior Years Asked": "2011, 2014, 2018, 2019, 2020, 2021, 2022, 2025",
       "Mapping Confidence": "Low",
       "Mapping Score": 0.74,
-      "Tentative Answer": "B - A: 3, B: 2, C: 4, D: 1",
+      "UPSC Provisional Answer": "B - 3 2 4 1",
       "Question": "Match List I with List 11 and select the answer using the code given below the Lists : List 1 List 11 (Project Supported by (Country) India) A. Mangdechhu 1. Maldives Hydroelectric Project B. Restoration of Stor 2. Afghanistan Palace C. District Hospital at 3. Bhutan Dickoya D. Institute of Security 4. Sri Lanka and Law Enforcement Studies Code : c",
-      "Tentative Explanation": "Tentative key marks option B. This code is treated as the valid set of statements for the International Relations question; verify with UPSC's final key."
+      "Tentative Explanation": "UPSC provisional answer key, GS-I CSP Exam 2026, Series A, dated 27-05-2026 confirms option B. This code is treated as the valid set of statements for the International Relations question; verify with UPSC's final key.",
+      "Previous Tentative Answer": "B - A: 3, B: 2, C: 4, D: 1",
+      "Answer Status": "Confirmed by UPSC provisional key",
+      "Answer Source": "UPSC provisional answer key, GS-I CSP Exam 2026, Series A, dated 27-05-2026"
     },
     {
       "No": 68,
@@ -1602,9 +1822,12 @@ window.DASHBOARD_DATA = {
       "Prior Years Asked": null,
       "Mapping Confidence": "Low",
       "Mapping Score": 0.87,
-      "Tentative Answer": "A - 1 and 2",
+      "UPSC Provisional Answer": "A - 1 and 2",
       "Question": "Which of the following items of defence hardware is/are manufactured in India ? 1. su-30 MKI Fighter Jets 2. T-90 MK-111 Tanks 3. Akula Class Submarine Select the answer using the code given below :",
-      "Tentative Explanation": "Tentative key marks option A. This code is treated as the valid set of statements for the Science & Technology question; verify with UPSC's final key."
+      "Tentative Explanation": "UPSC provisional answer key, GS-I CSP Exam 2026, Series A, dated 27-05-2026 confirms option A. This code is treated as the valid set of statements for the Science & Technology question; verify with UPSC's final key.",
+      "Previous Tentative Answer": "A - 1 and 2",
+      "Answer Status": "Confirmed by UPSC provisional key",
+      "Answer Source": "UPSC provisional answer key, GS-I CSP Exam 2026, Series A, dated 27-05-2026"
     },
     {
       "No": 69,
@@ -1618,9 +1841,12 @@ window.DASHBOARD_DATA = {
       "Prior Years Asked": null,
       "Mapping Confidence": "Medium",
       "Mapping Score": 1.41,
-      "Tentative Answer": "C - 2 and 3 only",
+      "UPSC Provisional Answer": "C - 2 and 3 only",
       "Question": "Consider the following statements about platforms for multilateral co-operation : 1. The 'Colombo Process' is a regional consultative process in which member states take binding decisions by consensus. 2. The 'Abu Dhabi Dialogue' is a voluntary non-binding consultative process among Asian countries of labour origin and destination to facilitate regional cooperation on contractual labour mobility. 3. The 'Global Forum for Migration and Development', created upon the proposal of a former UN Secretary General, is a voluntary forum whose decisions are non-binding in nature. Which of the statements given above is/are correct ?",
-      "Tentative Explanation": "Tentative key marks option C. This code is treated as the valid set of statements for the International Relations question; verify with UPSC's final key."
+      "Tentative Explanation": "UPSC provisional answer key, GS-I CSP Exam 2026, Series A, dated 27-05-2026 confirms option C. This code is treated as the valid set of statements for the International Relations question; verify with UPSC's final key.",
+      "Previous Tentative Answer": "C - 2 and 3 only",
+      "Answer Status": "Confirmed by UPSC provisional key",
+      "Answer Source": "UPSC provisional answer key, GS-I CSP Exam 2026, Series A, dated 27-05-2026"
     },
     {
       "No": 70,
@@ -1634,9 +1860,12 @@ window.DASHBOARD_DATA = {
       "Prior Years Asked": "2016, 2024",
       "Mapping Confidence": "Medium",
       "Mapping Score": 1.65,
-      "Tentative Answer": "A - 1",
+      "UPSC Provisional Answer": "A - 1",
       "Question": "Consider the following UN organisations/ agencies : I. World Food Programme 2. United Nations Children's Fund 3. United Nations High Commissioner for Refugees 4. International Labour Organisation How many of the above has/have been awarded the Nobel Prize twice ?",
-      "Tentative Explanation": "Tentative key marks option A. '1' is treated as the fact/concept that best fits this International Relations question; verify with UPSC's final key."
+      "Tentative Explanation": "UPSC provisional answer key, GS-I CSP Exam 2026, Series A, dated 27-05-2026 confirms option A. '1' is treated as the fact/concept that best fits this International Relations question; verify with UPSC's final key.",
+      "Previous Tentative Answer": "A - 1",
+      "Answer Status": "Confirmed by UPSC provisional key",
+      "Answer Source": "UPSC provisional answer key, GS-I CSP Exam 2026, Series A, dated 27-05-2026"
     },
     {
       "No": 71,
@@ -1650,9 +1879,12 @@ window.DASHBOARD_DATA = {
       "Prior Years Asked": "2023, 2024",
       "Mapping Confidence": "Low",
       "Mapping Score": 0.14,
-      "Tentative Answer": "B - A: 3, B: 1, C: 4 , D: 2",
+      "UPSC Provisional Answer": "B - 3 1 4 2",
       "Question": "Match Listl with List 11 and select the answer using the code given below the Lists : List 1 List 11 (UN Peacekeeping (Period of Operation) Operation) A. UNMIL 1. 2007 - 2010 B. MINURCAT 2. 2002 - 2005 c. MINUSTAH 3. 2003 - 2018 D. UNMISET 4. 2004 - 2017 Code : A B c",
-      "Tentative Explanation": "Tentative key marks option B. This code is treated as the valid set of statements for the International Relations question; verify with UPSC's final key."
+      "Tentative Explanation": "UPSC provisional answer key, GS-I CSP Exam 2026, Series A, dated 27-05-2026 confirms option B. This code is treated as the valid set of statements for the International Relations question; verify with UPSC's final key.",
+      "Previous Tentative Answer": "B - A: 3, B: 1, C: 4 , D: 2",
+      "Answer Status": "Confirmed by UPSC provisional key",
+      "Answer Source": "UPSC provisional answer key, GS-I CSP Exam 2026, Series A, dated 27-05-2026"
     },
     {
       "No": 72,
@@ -1666,9 +1898,12 @@ window.DASHBOARD_DATA = {
       "Prior Years Asked": "2017",
       "Mapping Confidence": "Low",
       "Mapping Score": 0.32,
-      "Tentative Answer": "C - A: 4, B: 2, C: 1, D: 3",
+      "UPSC Provisional Answer": "C - 4 2 1 3",
       "Question": "Match List I with List 11 and select the answer using the code given below the Lists : List I List 11 (BIMSTEC (Location) Centre / Establishment) A. BIMSTEC Cultural 1. NOIDA Industries Observatory B. BIMSTEC Energy 2. Bengaluru Centre c. BIMSTEC Centre 3. Colombo for Weather and Climate D. BIMSTEC Technology 4. Thimphu Transfer Facility Code : A B c",
-      "Tentative Explanation": "Tentative key marks option C. This code is treated as the valid set of statements for the International Relations question; verify with UPSC's final key."
+      "Tentative Explanation": "UPSC provisional answer key, GS-I CSP Exam 2026, Series A, dated 27-05-2026 confirms option C. This code is treated as the valid set of statements for the International Relations question; verify with UPSC's final key.",
+      "Previous Tentative Answer": "C - A: 4, B: 2, C: 1, D: 3",
+      "Answer Status": "Confirmed by UPSC provisional key",
+      "Answer Source": "UPSC provisional answer key, GS-I CSP Exam 2026, Series A, dated 27-05-2026"
     },
     {
       "No": 73,
@@ -1682,9 +1917,12 @@ window.DASHBOARD_DATA = {
       "Prior Years Asked": "2014, 2016, 2018, 2020, 2022, 2023, 2024, 2025",
       "Mapping Confidence": "Low",
       "Mapping Score": 0.26,
-      "Tentative Answer": "D - 33 Corps : Srinagar",
+      "UPSC Provisional Answer": "D - 33 Corps Srinagar",
       "Question": "Which one of the following pairs is not correctly matched ? (Indian Army (Headquarters) Corps)",
-      "Tentative Explanation": "Tentative key marks option D. '33 Corps : Srinagar' is treated as the fact/concept that best fits this Science & Technology question; verify with UPSC's final key."
+      "Tentative Explanation": "UPSC provisional answer key, GS-I CSP Exam 2026, Series A, dated 27-05-2026 confirms option D. '33 Corps : Srinagar' is treated as the fact/concept that best fits this Science & Technology question; verify with UPSC's final key.",
+      "Previous Tentative Answer": "D - 33 Corps : Srinagar",
+      "Answer Status": "Confirmed by UPSC provisional key",
+      "Answer Source": "UPSC provisional answer key, GS-I CSP Exam 2026, Series A, dated 27-05-2026"
     },
     {
       "No": 74,
@@ -1698,9 +1936,12 @@ window.DASHBOARD_DATA = {
       "Prior Years Asked": "2011, 2012, 2016, 2019, 2023",
       "Mapping Confidence": "Low",
       "Mapping Score": 0.88,
-      "Tentative Answer": "B - 2 only",
+      "UPSC Provisional Answer": "B - 2 only",
       "Question": "Which of the following statements with respect to the Revamped Rashtriya Gram Swaraj Abhiyan (RGSA) is/are correct ? 1. The period of its implementation is ISt April, 2021 to 31st March, 2026. 2. The key objective of the Revamped RGSA is to develop the governance capabilities of the Panchayati Raj Institutions to deliver on the Sustainable Development Goals. 3. The share of the Central funding for the Revamped RGSA is 100% for all States and Union Territories. Select the answer using the code given below :",
-      "Tentative Explanation": "Tentative key marks option B. This code is treated as the valid set of statements for the Social Issues & Schemes question; verify with UPSC's final key."
+      "Tentative Explanation": "UPSC provisional answer key, GS-I CSP Exam 2026, Series A, dated 27-05-2026 confirms option B. This code is treated as the valid set of statements for the Social Issues & Schemes question; verify with UPSC's final key.",
+      "Previous Tentative Answer": "B - 2 only",
+      "Answer Status": "Confirmed by UPSC provisional key",
+      "Answer Source": "UPSC provisional answer key, GS-I CSP Exam 2026, Series A, dated 27-05-2026"
     },
     {
       "No": 75,
@@ -1714,9 +1955,12 @@ window.DASHBOARD_DATA = {
       "Prior Years Asked": "2024",
       "Mapping Confidence": "Low",
       "Mapping Score": 0.5,
-      "Tentative Answer": "C - 2 and 3",
+      "UPSC Provisional Answer": "C - 2 and 3",
       "Question": "Which of the following countries are members of the European Union ? 1. Belarus 2. Poland 3. Germany 4. Switzerland Select the answer using the code given below :",
-      "Tentative Explanation": "Tentative key marks option C. This code is treated as the valid set of statements for the International Relations question; verify with UPSC's final key."
+      "Tentative Explanation": "UPSC provisional answer key, GS-I CSP Exam 2026, Series A, dated 27-05-2026 confirms option C. This code is treated as the valid set of statements for the International Relations question; verify with UPSC's final key.",
+      "Previous Tentative Answer": "C - 2 and 3",
+      "Answer Status": "Confirmed by UPSC provisional key",
+      "Answer Source": "UPSC provisional answer key, GS-I CSP Exam 2026, Series A, dated 27-05-2026"
     },
     {
       "No": 76,
@@ -1730,9 +1974,12 @@ window.DASHBOARD_DATA = {
       "Prior Years Asked": "2017",
       "Mapping Confidence": "Medium",
       "Mapping Score": 0.98,
-      "Tentative Answer": "C - A: 4, B: 2, C: 1, D: 3",
+      "UPSC Provisional Answer": "C - 4 2 1 3",
       "Question": "Match List I with List 11 and select the answer using the code given below the Lists : List 1 List 11 (INTERPOL (Description) Notice) A. Silver Notice 1. To seek information on unidentified bodies B. Blue Notice 2. To collect additional information about a person's identity, location, or activities in relation to a criminal investigation C. Black Notice 3. To provide warning about a person's criminal activities, where the person is considered to be a possible threat to public safety D. Green Notice 4. To identify and trace criminal assets Code : A B c",
-      "Tentative Explanation": "Tentative key marks option C. This code is treated as the valid set of statements for the International Relations question; verify with UPSC's final key."
+      "Tentative Explanation": "UPSC provisional answer key, GS-I CSP Exam 2026, Series A, dated 27-05-2026 confirms option C. This code is treated as the valid set of statements for the International Relations question; verify with UPSC's final key.",
+      "Previous Tentative Answer": "C - A: 4, B: 2, C: 1, D: 3",
+      "Answer Status": "Confirmed by UPSC provisional key",
+      "Answer Source": "UPSC provisional answer key, GS-I CSP Exam 2026, Series A, dated 27-05-2026"
     },
     {
       "No": 77,
@@ -1746,9 +1993,12 @@ window.DASHBOARD_DATA = {
       "Prior Years Asked": null,
       "Mapping Confidence": "High",
       "Mapping Score": 2.07,
-      "Tentative Answer": "B - 1 and 3 only",
+      "UPSC Provisional Answer": "B - 1 and 3 only",
       "Question": "Which of the following statements in relation to NIRANTAR (National Institute for Research and Application of Natural Resources to Transform, Adapt and Build Resilience), a platform of institutions under the Ministry of Environment, Forest and Climate Change, is/are correct ? 1. Ecosystem Survey and Analysis is a vertical under this platform, the lead institute of which is Botanical Survey of India, Kolkata. 2. Research and Management of Ecosystem Service is a vertical under this platform, the lead institute of which is Central Zoo Authority, New Delhi. 3. Capacity Development Support is a vertical under this platform, the lead institute of which is Indian Institute of Forest Management, Bhopal. Select the answer using the code given below :",
-      "Tentative Explanation": "Tentative key marks option B. This code is treated as the valid set of statements for the Environment & Ecology question; verify with UPSC's final key."
+      "Tentative Explanation": "UPSC provisional answer key, GS-I CSP Exam 2026, Series A, dated 27-05-2026 confirms option B. This code is treated as the valid set of statements for the Environment & Ecology question; verify with UPSC's final key.",
+      "Previous Tentative Answer": "B - 1 and 3 only",
+      "Answer Status": "Confirmed by UPSC provisional key",
+      "Answer Source": "UPSC provisional answer key, GS-I CSP Exam 2026, Series A, dated 27-05-2026"
     },
     {
       "No": 78,
@@ -1762,9 +2012,12 @@ window.DASHBOARD_DATA = {
       "Prior Years Asked": "2016, 2024",
       "Mapping Confidence": "Low",
       "Mapping Score": 0.44,
-      "Tentative Answer": "B - 1 and 4",
+      "UPSC Provisional Answer": "B - 1 and 4",
       "Question": "The Chancellor of the Federal Republic of Germany visited India in January, 2026. VVhich of the following is/are not correct in terms of outcomes of this visit ? 1. Signing of a Memorandum of Understanding between the All India Institute of Ayurveda and the University of Hamburg 2. Signing of a Memorandum of Understanding on Youth Hockey Development between Hockey India and the German Hockey Federation 3. Establishment of a bilateral dialogue mechanism on the Indo-Pacific 4. Opening of an Honorary Consul of Germany in Lucknow Select the answer using the code given below :",
-      "Tentative Explanation": "Tentative key marks option B. This code is treated as the valid set of statements for the International Relations question; verify with UPSC's final key."
+      "Tentative Explanation": "UPSC provisional answer key, GS-I CSP Exam 2026, Series A, dated 27-05-2026 confirms option B. This code is treated as the valid set of statements for the International Relations question; verify with UPSC's final key.",
+      "Previous Tentative Answer": "B - 1 and 4",
+      "Answer Status": "Confirmed by UPSC provisional key",
+      "Answer Source": "UPSC provisional answer key, GS-I CSP Exam 2026, Series A, dated 27-05-2026"
     },
     {
       "No": 79,
@@ -1778,9 +2031,12 @@ window.DASHBOARD_DATA = {
       "Prior Years Asked": "2011, 2014, 2016, 2017, 2018, 2019, 2020, 2022, 2024, 2025",
       "Mapping Confidence": "Low",
       "Mapping Score": 0.26,
-      "Tentative Answer": "C - Both 1 and 2",
+      "UPSC Provisional Answer": "C - Both 1 and 2",
       "Question": "VVhich of the following statements about DHRUV64 is/are correct ? 1. It is the third chip fabricated under the DIR-V Programme with an overall aim to enable the creation of microprocessors for India. 2. It is India's first homegrown 1 �0 GHz, 64-bit dual-core microprocessor. Select the answer using the code given below :",
-      "Tentative Explanation": "Tentative key marks option C. This code is treated as the valid set of statements for the Science & Technology question; verify with UPSC's final key."
+      "Tentative Explanation": "UPSC provisional answer key, GS-I CSP Exam 2026, Series A, dated 27-05-2026 confirms option C. This code is treated as the valid set of statements for the Science & Technology question; verify with UPSC's final key.",
+      "Previous Tentative Answer": "C - Both 1 and 2",
+      "Answer Status": "Confirmed by UPSC provisional key",
+      "Answer Source": "UPSC provisional answer key, GS-I CSP Exam 2026, Series A, dated 27-05-2026"
     },
     {
       "No": 80,
@@ -1794,9 +2050,12 @@ window.DASHBOARD_DATA = {
       "Prior Years Asked": "2015, 2017, 2018, 2019",
       "Mapping Confidence": "Low",
       "Mapping Score": 0.88,
-      "Tentative Answer": "C - 1 and 2 only",
+      "UPSC Provisional Answer": "C - 1 and 2 only",
       "Question": "The Bureau of Indian Standard (BIS) recently introduced a national standard to test and assess bomb disposal system. Which of the following statements with regard to this system is/are correct ? 1. The new standard is known as IS 19445 : 2025. 2. It will improve interoperability of equipment across agencies. 3. It was developed by TBRL, DRDO in collaboration with the 30th Central Scientific Research Institute, Russia. Select the answer using the code given below :",
-      "Tentative Explanation": "Tentative key marks option C. This code is treated as the valid set of statements for the Science & Technology question; verify with UPSC's final key."
+      "Tentative Explanation": "UPSC provisional answer key, GS-I CSP Exam 2026, Series A, dated 27-05-2026 confirms option C. This code is treated as the valid set of statements for the Science & Technology question; verify with UPSC's final key.",
+      "Previous Tentative Answer": "C - 1 and 2 only",
+      "Answer Status": "Confirmed by UPSC provisional key",
+      "Answer Source": "UPSC provisional answer key, GS-I CSP Exam 2026, Series A, dated 27-05-2026"
     },
     {
       "No": 81,
@@ -1810,9 +2069,12 @@ window.DASHBOARD_DATA = {
       "Prior Years Asked": "2017, 2020",
       "Mapping Confidence": "Low",
       "Mapping Score": 0.25,
-      "Tentative Answer": "C - John Clarke",
+      "UPSC Provisional Answer": "C - John Clarke",
       "Question": "'X', born in the UK, was conferred the Nobel Prize in 2025. He was a professor in an American university when this prize was announced. Identify 'X' :",
-      "Tentative Explanation": "Tentative key marks option C. 'John Clarke' is treated as the fact/concept that best fits this Science & Technology question; verify with UPSC's final key."
+      "Tentative Explanation": "UPSC provisional answer key, GS-I CSP Exam 2026, Series A, dated 27-05-2026 confirms option C. 'John Clarke' is treated as the fact/concept that best fits this Science & Technology question; verify with UPSC's final key.",
+      "Previous Tentative Answer": "C - John Clarke",
+      "Answer Status": "Confirmed by UPSC provisional key",
+      "Answer Source": "UPSC provisional answer key, GS-I CSP Exam 2026, Series A, dated 27-05-2026"
     },
     {
       "No": 82,
@@ -1826,9 +2088,12 @@ window.DASHBOARD_DATA = {
       "Prior Years Asked": "2011",
       "Mapping Confidence": "Low",
       "Mapping Score": 0.43,
-      "Tentative Answer": "C - 1 only",
+      "UPSC Provisional Answer": "A - 1 and 2 only",
       "Question": "Which of the following statements with regard to the Grand Slam Tennis Tournaments is/are correct ? 1. The tournaments have a shared governance structure establishing the partnership among the four Grand Slam tournaments. 2. They are open for entry to all internationally ranked tennis players above the age of 14. 3. There is a limitation on the number of 'Wild Cards' a player may receive to compete in a Grand Slam Tournament. Select the answer using the code given below :",
-      "Tentative Explanation": "Tentative key marks option C. This code is treated as the valid set of statements for the International Relations question; verify with UPSC's final key."
+      "Tentative Explanation": "UPSC provisional answer key, GS-I CSP Exam 2026, Series A, dated 27-05-2026 marks option A. This differs from the earlier tentative key C; the previous explanation requires manual review against the provisional key.",
+      "Previous Tentative Answer": "C - 1 only",
+      "Answer Status": "Changed from tentative key",
+      "Answer Source": "UPSC provisional answer key, GS-I CSP Exam 2026, Series A, dated 27-05-2026"
     },
     {
       "No": 83,
@@ -1842,9 +2107,12 @@ window.DASHBOARD_DATA = {
       "Prior Years Asked": "2014, 2016, 2018, 2020, 2022, 2023, 2024, 2025",
       "Mapping Confidence": "Low",
       "Mapping Score": 0.34,
-      "Tentative Answer": "C - HCL-Foxconn Joint Venture India Chip Ltd. : Madhya Pradesh",
+      "UPSC Provisional Answer": "C - HCL-Foxconn Joint Madhya Venture India Chip Ltd. Pradesh",
       "Question": "Which one of the following pairs of semiconductor plants in India and their locations is not correctly matched ?",
-      "Tentative Explanation": "Tentative key marks option C. 'HCL-Foxconn Joint Venture India Chip Ltd. : Madhya Pradesh' is treated as the fact/concept that best fits this Science & Technology question; verify with UPSC's final key."
+      "Tentative Explanation": "UPSC provisional answer key, GS-I CSP Exam 2026, Series A, dated 27-05-2026 confirms option C. 'HCL-Foxconn Joint Venture India Chip Ltd. : Madhya Pradesh' is treated as the fact/concept that best fits this Science & Technology question; verify with UPSC's final key.",
+      "Previous Tentative Answer": "C - HCL-Foxconn Joint Venture India Chip Ltd. : Madhya Pradesh",
+      "Answer Status": "Confirmed by UPSC provisional key",
+      "Answer Source": "UPSC provisional answer key, GS-I CSP Exam 2026, Series A, dated 27-05-2026"
     },
     {
       "No": 84,
@@ -1858,9 +2126,12 @@ window.DASHBOARD_DATA = {
       "Prior Years Asked": "2014, 2016, 2018, 2020, 2022, 2023, 2024, 2025",
       "Mapping Confidence": "Low",
       "Mapping Score": 0.69,
-      "Tentative Answer": "A - 1 only",
+      "UPSC Provisional Answer": "A - 1 only",
       "Question": "Which of the following statements with regard to India's indigenous new high resolution weather model, the 'Bharat Forecast System,' is/are correct ? 1. Its objective is to generate forecasts at the Panchayats cluster level. 2. It was developed by IIT Delhi. Select the answer using the code given below :",
-      "Tentative Explanation": "Tentative key marks option A. This code is treated as the valid set of statements for the Science & Technology question; verify with UPSC's final key."
+      "Tentative Explanation": "UPSC provisional answer key, GS-I CSP Exam 2026, Series A, dated 27-05-2026 confirms option A. This code is treated as the valid set of statements for the Science & Technology question; verify with UPSC's final key.",
+      "Previous Tentative Answer": "A - 1 only",
+      "Answer Status": "Confirmed by UPSC provisional key",
+      "Answer Source": "UPSC provisional answer key, GS-I CSP Exam 2026, Series A, dated 27-05-2026"
     },
     {
       "No": 85,
@@ -1874,9 +2145,12 @@ window.DASHBOARD_DATA = {
       "Prior Years Asked": "2021, 2023",
       "Mapping Confidence": "Medium",
       "Mapping Score": 1.19,
-      "Tentative Answer": "A - 1, 2 and 3",
+      "UPSC Provisional Answer": "A - 1, 2 and 3",
       "Question": "Consider the following statements with regard to the film 'Boong' : 1. The film has recently won the British Academy of Film and Television Arts (BAFTA) Award in the Children's and Family Film category. 2. The film is directed by Lakshmipriya Devi. 3. This is the first Indian film to win a BAFTA award in the Children's and Family Film category. Which of the statements given above is/are correct ?",
-      "Tentative Explanation": "Tentative key marks option A. This code is treated as the valid set of statements for the Art & Culture question; verify with UPSC's final key."
+      "Tentative Explanation": "UPSC provisional answer key, GS-I CSP Exam 2026, Series A, dated 27-05-2026 confirms option A. This code is treated as the valid set of statements for the Art & Culture question; verify with UPSC's final key.",
+      "Previous Tentative Answer": "A - 1, 2 and 3",
+      "Answer Status": "Confirmed by UPSC provisional key",
+      "Answer Source": "UPSC provisional answer key, GS-I CSP Exam 2026, Series A, dated 27-05-2026"
     },
     {
       "No": 86,
@@ -1890,9 +2164,12 @@ window.DASHBOARD_DATA = {
       "Prior Years Asked": null,
       "Mapping Confidence": "Medium",
       "Mapping Score": 1.46,
-      "Tentative Answer": "C - 1, 2 and 4",
+      "UPSC Provisional Answer": "C - 1, 2 and 4",
       "Question": "Which of the following statements regarding the features of blockchain technology are correct ? 1. Records stored in the database may be made visible to relevant stakeholders without risk of alteration. 2. Copies of the entire database are stored on multiple computers on a network, syncing within seconds. 3. Consortium blockchain is a blend of public and private blockchains allowing selective data access. 4. Mathematical algorithms make it impossible to change or delete any data once recorded and accepted. Select the answer using the code given below :",
-      "Tentative Explanation": "Tentative key marks option C. This code is treated as the valid set of statements for the Science & Technology question; verify with UPSC's final key."
+      "Tentative Explanation": "UPSC provisional answer key, GS-I CSP Exam 2026, Series A, dated 27-05-2026 confirms option C. This code is treated as the valid set of statements for the Science & Technology question; verify with UPSC's final key.",
+      "Previous Tentative Answer": "C - 1, 2 and 4",
+      "Answer Status": "Confirmed by UPSC provisional key",
+      "Answer Source": "UPSC provisional answer key, GS-I CSP Exam 2026, Series A, dated 27-05-2026"
     },
     {
       "No": 87,
@@ -1906,9 +2183,12 @@ window.DASHBOARD_DATA = {
       "Prior Years Asked": "2011, 2012, 2013, 2015, 2016, 2018, 2019, 2020, 2021, 2022, 2023",
       "Mapping Confidence": "Low",
       "Mapping Score": 0.42,
-      "Tentative Answer": "A - Dropshipping Model",
+      "UPSC Provisional Answer": "A - Dropshipping Model",
       "Question": "An e-commerce revenue model where the seller has control over pricing but doesn't keep products in stock and instead transfers customer orders and shipment details to a third-party supplier, who then ships the goods directly to the customer, is called :",
-      "Tentative Explanation": "Tentative key marks option A. 'Dropshipping Model' is treated as the fact/concept that best fits this Economy question; verify with UPSC's final key."
+      "Tentative Explanation": "UPSC provisional answer key, GS-I CSP Exam 2026, Series A, dated 27-05-2026 confirms option A. 'Dropshipping Model' is treated as the fact/concept that best fits this Economy question; verify with UPSC's final key.",
+      "Previous Tentative Answer": "A - Dropshipping Model",
+      "Answer Status": "Confirmed by UPSC provisional key",
+      "Answer Source": "UPSC provisional answer key, GS-I CSP Exam 2026, Series A, dated 27-05-2026"
     },
     {
       "No": 88,
@@ -1922,9 +2202,12 @@ window.DASHBOARD_DATA = {
       "Prior Years Asked": "2011, 2012, 2014, 2015, 2016, 2017, 2018, 2019, 2022",
       "Mapping Confidence": "Medium",
       "Mapping Score": 1.34,
-      "Tentative Answer": "C - Access, Usage, and Quality",
+      "UPSC Provisional Answer": "C - Access, Usage, and Quality",
       "Question": "Which one of the following correctly represents the three key sub-indices of the Financial Inclusion Index (Fl-Index) of the Reserve Bank of India (RBI) ?",
-      "Tentative Explanation": "Tentative key marks option C. This code is treated as the valid set of statements for the Economy question; verify with UPSC's final key."
+      "Tentative Explanation": "UPSC provisional answer key, GS-I CSP Exam 2026, Series A, dated 27-05-2026 confirms option C. This code is treated as the valid set of statements for the Economy question; verify with UPSC's final key.",
+      "Previous Tentative Answer": "C - Access, Usage, and Quality",
+      "Answer Status": "Confirmed by UPSC provisional key",
+      "Answer Source": "UPSC provisional answer key, GS-I CSP Exam 2026, Series A, dated 27-05-2026"
     },
     {
       "No": 89,
@@ -1938,9 +2221,12 @@ window.DASHBOARD_DATA = {
       "Prior Years Asked": "2015",
       "Mapping Confidence": "Low",
       "Mapping Score": 0.83,
-      "Tentative Answer": "C - To break the dominance of large e-commerce platforms by enabling interoperability across networks",
+      "UPSC Provisional Answer": "C - To break the dominance of large e-commerce platforms by enabling interoperability across networks",
       "Question": "Which one of the following best describes the key objective of India's 'Open Network for Digital Commerce' (ONDC) initiative ?",
-      "Tentative Explanation": "Tentative key marks option C. 'To break the dominance of large e-commerce platforms by enabling interoperability across networks' is treated as the fact/concept that best fits this Economy question; verify with UPSC's final key."
+      "Tentative Explanation": "UPSC provisional answer key, GS-I CSP Exam 2026, Series A, dated 27-05-2026 confirms option C. 'To break the dominance of large e-commerce platforms by enabling interoperability across networks' is treated as the fact/concept that best fits this Economy question; verify with UPSC's final key.",
+      "Previous Tentative Answer": "C - To break the dominance of large e-commerce platforms by enabling interoperability across networks",
+      "Answer Status": "Confirmed by UPSC provisional key",
+      "Answer Source": "UPSC provisional answer key, GS-I CSP Exam 2026, Series A, dated 27-05-2026"
     },
     {
       "No": 90,
@@ -1954,9 +2240,12 @@ window.DASHBOARD_DATA = {
       "Prior Years Asked": "2012, 2013, 2016, 2018, 2020, 2023, 2024, 2025",
       "Mapping Confidence": "Medium",
       "Mapping Score": 0.98,
-      "Tentative Answer": "D - In both the cases (UPI and Digital Rupee), the liability lies with the users and their respective banks.",
+      "UPSC Provisional Answer": "D - In both the cases (UPI and Digital Rupee), the liability lies with the users and their respective banks.",
       "Question": "Which one of the following statements about Unified Payments Interface (UPI) and Central Bank Digital Currency (Digital Rupee) is not correct ?",
-      "Tentative Explanation": "Tentative key marks option D. This code is treated as the valid set of statements for the Economy question; verify with UPSC's final key."
+      "Tentative Explanation": "UPSC provisional answer key, GS-I CSP Exam 2026, Series A, dated 27-05-2026 confirms option D. This code is treated as the valid set of statements for the Economy question; verify with UPSC's final key.",
+      "Previous Tentative Answer": "D - In both the cases (UPI and Digital Rupee), the liability lies with the users and their respective banks.",
+      "Answer Status": "Confirmed by UPSC provisional key",
+      "Answer Source": "UPSC provisional answer key, GS-I CSP Exam 2026, Series A, dated 27-05-2026"
     },
     {
       "No": 91,
@@ -1970,9 +2259,12 @@ window.DASHBOARD_DATA = {
       "Prior Years Asked": "2011, 2012, 2014, 2015, 2016, 2017, 2018, 2019, 2022",
       "Mapping Confidence": "Medium",
       "Mapping Score": 1.06,
-      "Tentative Answer": "A - 1, 2 and 3",
+      "UPSC Provisional Answer": "A - 1, 2 and 3",
       "Question": "Which of the following statements about Real-World Assets (RWA) Tokenization are correct ? 1. Tokenization is the process of turning real world assets into digital tokens using blockchain technology. 2. Tokenization of real world assets offers 24 x 7 access, promoting financial inclusion. 3. Tokenization of real world assets will allow the access to high growth investment opportunities for individuals in India. Select the answer using the code given below :",
-      "Tentative Explanation": "Tentative key marks option A. This code is treated as the valid set of statements for the Economy question; verify with UPSC's final key."
+      "Tentative Explanation": "UPSC provisional answer key, GS-I CSP Exam 2026, Series A, dated 27-05-2026 confirms option A. This code is treated as the valid set of statements for the Economy question; verify with UPSC's final key.",
+      "Previous Tentative Answer": "A - 1, 2 and 3",
+      "Answer Status": "Confirmed by UPSC provisional key",
+      "Answer Source": "UPSC provisional answer key, GS-I CSP Exam 2026, Series A, dated 27-05-2026"
     },
     {
       "No": 92,
@@ -1986,9 +2278,12 @@ window.DASHBOARD_DATA = {
       "Prior Years Asked": null,
       "Mapping Confidence": "Low",
       "Mapping Score": 0.87,
-      "Tentative Answer": "C - Sustainability Bond",
+      "UPSC Provisional Answer": "C - Sustainability Bond",
       "Question": "A bond whose proceeds are used only to finance or refinance a combination of both environmental and social projects is called :",
-      "Tentative Explanation": "Tentative key marks option C. 'Sustainability Bond' is treated as the fact/concept that best fits this Economy question; verify with UPSC's final key."
+      "Tentative Explanation": "UPSC provisional answer key, GS-I CSP Exam 2026, Series A, dated 27-05-2026 confirms option C. 'Sustainability Bond' is treated as the fact/concept that best fits this Economy question; verify with UPSC's final key.",
+      "Previous Tentative Answer": "C - Sustainability Bond",
+      "Answer Status": "Confirmed by UPSC provisional key",
+      "Answer Source": "UPSC provisional answer key, GS-I CSP Exam 2026, Series A, dated 27-05-2026"
     },
     {
       "No": 93,
@@ -2002,9 +2297,12 @@ window.DASHBOARD_DATA = {
       "Prior Years Asked": "2011, 2012, 2020",
       "Mapping Confidence": "Low",
       "Mapping Score": 0.71,
-      "Tentative Answer": "B - 2 only",
+      "UPSC Provisional Answer": "B - 2 only",
       "Question": "Which of the following statements about Mlxchange's role in Micro, Small & Medium Enterprises (MSMEs) financing is/are correct ? 1. Mlxchange provides collateral based loans to MSMEs. 2. Mlxchange facilitates discounting of invoices and Bills of Exchange for MSMEs. 3. Mlxchange functions as a credit rating agency for MSMEs. Select the answer using the code given below :",
-      "Tentative Explanation": "Tentative key marks option B. This code is treated as the valid set of statements for the Economy question; verify with UPSC's final key."
+      "Tentative Explanation": "UPSC provisional answer key, GS-I CSP Exam 2026, Series A, dated 27-05-2026 confirms option B. This code is treated as the valid set of statements for the Economy question; verify with UPSC's final key.",
+      "Previous Tentative Answer": "B - 2 only",
+      "Answer Status": "Confirmed by UPSC provisional key",
+      "Answer Source": "UPSC provisional answer key, GS-I CSP Exam 2026, Series A, dated 27-05-2026"
     },
     {
       "No": 94,
@@ -2018,9 +2316,12 @@ window.DASHBOARD_DATA = {
       "Prior Years Asked": "2011, 2014, 2015, 2016, 2017, 2019, 2024, 2025",
       "Mapping Confidence": "Low",
       "Mapping Score": 0.59,
-      "Tentative Answer": "B - A situation where Government borrowing leads to higher interest rates, which reduces private investment",
+      "UPSC Provisional Answer": "B - A situation where Government borrowing leads to higher interest rates, which reduces private investment",
       "Question": "Which one of the following best describes the 'Crowding Out Effect' in the context of fiscal policy ?",
-      "Tentative Explanation": "Tentative key marks option B. This code is treated as the valid set of statements for the Economy question; verify with UPSC's final key."
+      "Tentative Explanation": "UPSC provisional answer key, GS-I CSP Exam 2026, Series A, dated 27-05-2026 confirms option B. This code is treated as the valid set of statements for the Economy question; verify with UPSC's final key.",
+      "Previous Tentative Answer": "B - A situation where Government borrowing leads to higher interest rates, which reduces private investment",
+      "Answer Status": "Confirmed by UPSC provisional key",
+      "Answer Source": "UPSC provisional answer key, GS-I CSP Exam 2026, Series A, dated 27-05-2026"
     },
     {
       "No": 95,
@@ -2034,9 +2335,12 @@ window.DASHBOARD_DATA = {
       "Prior Years Asked": "2011, 2012, 2023, 2024, 2025",
       "Mapping Confidence": "Low",
       "Mapping Score": 0.86,
-      "Tentative Answer": "A - 1 and 3 only",
+      "UPSC Provisional Answer": "A - 1 and 3 only",
       "Question": "Which of the following statements about Rare Earth Elements (REEs) and Critical Minerals is/are correct ? 1. Modern technological innovations including Artificial Intelligence, robotics and space exploration extensively utilise Rare Earth Elements (REEs). 2. China has the highest share in mining of REEs followed by India. 3. The Government of India launched the National Critical Mineral Mission (NCMM) in 2025 to establish a robust framework for self-reliance in the critical mineral sector. 4. Rare Earth Elements are a set of 13 metallic elements. Select the answer using the code given below :",
-      "Tentative Explanation": "Tentative key marks option A. This code is treated as the valid set of statements for the World Geography question; verify with UPSC's final key."
+      "Tentative Explanation": "UPSC provisional answer key, GS-I CSP Exam 2026, Series A, dated 27-05-2026 confirms option A. This code is treated as the valid set of statements for the World Geography question; verify with UPSC's final key.",
+      "Previous Tentative Answer": "A - 1 and 3 only",
+      "Answer Status": "Confirmed by UPSC provisional key",
+      "Answer Source": "UPSC provisional answer key, GS-I CSP Exam 2026, Series A, dated 27-05-2026"
     },
     {
       "No": 96,
@@ -2050,9 +2354,12 @@ window.DASHBOARD_DATA = {
       "Prior Years Asked": "2014, 2015, 2016",
       "Mapping Confidence": "Medium",
       "Mapping Score": 0.99,
-      "Tentative Answer": "C - Both 1 and 2",
+      "UPSC Provisional Answer": "C - Both 1 and 2",
       "Question": "of the following statements about insurance in aviation sector is/are correct ? 1. 'Aviation Hull Insurance' covers the physical aircraft, including the body, engine, and on-board equipment. 2. Under the Montreal Convention, adopted in 1999 by over 130 countries, including India, airlines are strictly liable to pay compensation to the family/nominee of every deceased passenger without requiring the family to prove fault. Select the answer using the code given below :",
-      "Tentative Explanation": "Tentative key marks option C. This code is treated as the valid set of statements for the Economy question; verify with UPSC's final key."
+      "Tentative Explanation": "UPSC provisional answer key, GS-I CSP Exam 2026, Series A, dated 27-05-2026 confirms option C. This code is treated as the valid set of statements for the Economy question; verify with UPSC's final key.",
+      "Previous Tentative Answer": "C - Both 1 and 2",
+      "Answer Status": "Confirmed by UPSC provisional key",
+      "Answer Source": "UPSC provisional answer key, GS-I CSP Exam 2026, Series A, dated 27-05-2026"
     },
     {
       "No": 97,
@@ -2066,9 +2373,12 @@ window.DASHBOARD_DATA = {
       "Prior Years Asked": "2016, 2017, 2019, 2020, 2021, 2022, 2023, 2024, 2025",
       "Mapping Confidence": "Medium",
       "Mapping Score": 0.93,
-      "Tentative Answer": "C - Both 1 and 2",
+      "UPSC Provisional Answer": "C - Both 1 and 2",
       "Question": "Which of the following statements about Crowdfunding is/are correct ? 1. Crowdfunding is solicitation of funds (small amount) from multiple investors through a web-based platform or social networking site for a specific project. 2. Small and Medium Enterprises (SMEs) are able to raise funds at lower cost of capital without undergoing rigorous procedures. Select the answer using the code given below :",
-      "Tentative Explanation": "Tentative key marks option C. This code is treated as the valid set of statements for the Economy question; verify with UPSC's final key."
+      "Tentative Explanation": "UPSC provisional answer key, GS-I CSP Exam 2026, Series A, dated 27-05-2026 confirms option C. This code is treated as the valid set of statements for the Economy question; verify with UPSC's final key.",
+      "Previous Tentative Answer": "C - Both 1 and 2",
+      "Answer Status": "Confirmed by UPSC provisional key",
+      "Answer Source": "UPSC provisional answer key, GS-I CSP Exam 2026, Series A, dated 27-05-2026"
     },
     {
       "No": 98,
@@ -2082,9 +2392,12 @@ window.DASHBOARD_DATA = {
       "Prior Years Asked": null,
       "Mapping Confidence": "Medium",
       "Mapping Score": 1.46,
-      "Tentative Answer": "D - 2 and 4",
+      "UPSC Provisional Answer": "D - 2 and 4",
       "Question": "With reference to different Committees in India, consider the following details : Sl. Committee Objective Organizatio No. under which it was formed 1. R.N. Comprehensiv Insurance Malhotra reforms of Regulatory Committee Insurance and sector in India Developmen Authority of India 2. L.C. Gupta Preparing a Securities Committee roadmap for and the Exchange introduction of Board of derivatives India trading in India 3. Urjit R. Preparing a Reserve Patel roadmap for Bank of Committee reforming ban India lending to the Housing sector 4. Y.H. Preparing a Reserve Malegam roadmap for Bank of Committee reforms in India Microfinance sector in India In which of the above rows are all the details correctly matched ?",
-      "Tentative Explanation": "Tentative key marks option D. This code is treated as the valid set of statements for the Economy question; verify with UPSC's final key."
+      "Tentative Explanation": "UPSC provisional answer key, GS-I CSP Exam 2026, Series A, dated 27-05-2026 confirms option D. This code is treated as the valid set of statements for the Economy question; verify with UPSC's final key.",
+      "Previous Tentative Answer": "D - 2 and 4",
+      "Answer Status": "Confirmed by UPSC provisional key",
+      "Answer Source": "UPSC provisional answer key, GS-I CSP Exam 2026, Series A, dated 27-05-2026"
     },
     {
       "No": 99,
@@ -2098,9 +2411,12 @@ window.DASHBOARD_DATA = {
       "Prior Years Asked": "2011, 2012, 2020",
       "Mapping Confidence": "Medium",
       "Mapping Score": 1.33,
-      "Tentative Answer": "A - 1 and 4",
+      "UPSC Provisional Answer": "A - 1 and 4",
       "Question": "Consider the following statements about the Non-Banking Financial Companies (NBFCs) in India : 1. NBFCs cannot accept demand deposits. 2. All the NBFCs operating in India have to be registered with the RBI. 3. NBFCs form part of the payment and settlement system and can issue cheque drawn on itSelf. 4. Deposit insurance facility of Deposit Insurance and Credit Guarantee Corporation (DICGC) is not available to the depositors of deposit taking NBFCs. Which of the statements given above is/are correct ?",
-      "Tentative Explanation": "Tentative key marks option A. This code is treated as the valid set of statements for the Economy question; verify with UPSC's final key."
+      "Tentative Explanation": "UPSC provisional answer key, GS-I CSP Exam 2026, Series A, dated 27-05-2026 confirms option A. This code is treated as the valid set of statements for the Economy question; verify with UPSC's final key.",
+      "Previous Tentative Answer": "A - 1 and 4",
+      "Answer Status": "Confirmed by UPSC provisional key",
+      "Answer Source": "UPSC provisional answer key, GS-I CSP Exam 2026, Series A, dated 27-05-2026"
     },
     {
       "No": 100,
@@ -2114,9 +2430,12 @@ window.DASHBOARD_DATA = {
       "Prior Years Asked": null,
       "Mapping Confidence": "Medium",
       "Mapping Score": 1.52,
-      "Tentative Answer": "A - 1 and 2 only",
+      "UPSC Provisional Answer": "A - 1 and 2 only",
       "Question": "Consider the following statements about Multidimensional Poverty Index (MPI) : 1. MPI is calculated using Alkire-Foster methodology. 2. MPI calculated by NITI Aayog has a total of twelve indicators. 3. Maternal Health and Bank Account are common indicators in the MPI of NITI Aayog and MPI of United Nations Development Programme (UNDP). Which of the statements given above is/are correct ?",
-      "Tentative Explanation": "Tentative key marks option A. This code is treated as the valid set of statements for the Economy question; verify with UPSC's final key."
+      "Tentative Explanation": "UPSC provisional answer key, GS-I CSP Exam 2026, Series A, dated 27-05-2026 confirms option A. This code is treated as the valid set of statements for the Economy question; verify with UPSC's final key.",
+      "Previous Tentative Answer": "A - 1 and 2 only",
+      "Answer Status": "Confirmed by UPSC provisional key",
+      "Answer Source": "UPSC provisional answer key, GS-I CSP Exam 2026, Series A, dated 27-05-2026"
     }
   ],
   "heatmap": [
@@ -8567,9 +8886,12 @@ window.DASHBOARD_DATA = {
       "Option C": "Hanumatodi",
       "Option D": "Dheera Shankarabharanam",
       "Tentative Subject": "Art & Culture",
-      "Tentative Answer": "D - Dheera Shankarabharanam",
-      "Tentative Explanation": "Tentative key marks option D. 'Dheera Shankarabharanam' is treated as the fact/concept that best fits this Art & Culture question; verify with UPSC's final key.",
-      "PDF Page": 3
+      "Previous Tentative Answer": "D - Dheera Shankarabharanam",
+      "UPSC Provisional Answer": "D - Dheera Shankarabharanam",
+      "Answer Status": "Confirmed by UPSC provisional key",
+      "Tentative Explanation": "UPSC provisional answer key, GS-I CSP Exam 2026, Series A, dated 27-05-2026 confirms option D. Tentative key marks option D. 'Dheera Shankarabharanam' is treated as the fact/concept that best fits this Art & Culture question; verify with UPSC's final key.",
+      "PDF Page": 3,
+      "Answer Source": "UPSC provisional answer key, GS-I CSP Exam 2026, Series A, dated 27-05-2026"
     },
     {
       "No": 2,
@@ -8579,9 +8901,12 @@ window.DASHBOARD_DATA = {
       "Option C": "Encouraging export of cotton produce from India",
       "Option D": "Preventing depreciation of the Rupee in terms of gold",
       "Tentative Subject": "Modern History",
-      "Tentative Answer": "A - Aiding the flow of remittances from India and maintaining India's creditworthiness",
-      "Tentative Explanation": "Tentative key marks option A. This code is treated as the valid set of statements for the Modern History question; verify with UPSC's final key.",
-      "PDF Page": 3
+      "Previous Tentative Answer": "A - Aiding the flow of remittances from India and maintaining India's creditworthiness",
+      "UPSC Provisional Answer": "A - Aiding the flow of remittances from India and maintaining India's creditworthiness",
+      "Answer Status": "Confirmed by UPSC provisional key",
+      "Tentative Explanation": "UPSC provisional answer key, GS-I CSP Exam 2026, Series A, dated 27-05-2026 confirms option A. Tentative key marks option A. This code is treated as the valid set of statements for the Modern History question; verify with UPSC's final key.",
+      "PDF Page": 3,
+      "Answer Source": "UPSC provisional answer key, GS-I CSP Exam 2026, Series A, dated 27-05-2026"
     },
     {
       "No": 3,
@@ -8591,9 +8916,12 @@ window.DASHBOARD_DATA = {
       "Option C": "Both 1 and 2",
       "Option D": "Neither 1 nor 2",
       "Tentative Subject": "Ancient History",
-      "Tentative Answer": "C - Both 1 and 2",
-      "Tentative Explanation": "Tentative key marks option C. This code is treated as the valid set of statements for the Ancient History question; verify with UPSC's final key.",
-      "PDF Page": 3
+      "Previous Tentative Answer": "C - Both 1 and 2",
+      "UPSC Provisional Answer": "C - Both 1 and 2",
+      "Answer Status": "Confirmed by UPSC provisional key",
+      "Tentative Explanation": "UPSC provisional answer key, GS-I CSP Exam 2026, Series A, dated 27-05-2026 confirms option C. Tentative key marks option C. This code is treated as the valid set of statements for the Ancient History question; verify with UPSC's final key.",
+      "PDF Page": 3,
+      "Answer Source": "UPSC provisional answer key, GS-I CSP Exam 2026, Series A, dated 27-05-2026"
     },
     {
       "No": 4,
@@ -8603,9 +8931,12 @@ window.DASHBOARD_DATA = {
       "Option C": "3 only",
       "Option D": "3 and 4",
       "Tentative Subject": "Art & Culture",
-      "Tentative Answer": "B - 2 and 3",
-      "Tentative Explanation": "Tentative key marks option B. This code is treated as the valid set of statements for the Art & Culture question; verify with UPSC's final key.",
-      "PDF Page": 3
+      "Previous Tentative Answer": "B - 2 and 3",
+      "UPSC Provisional Answer": "B - 2 and 3",
+      "Answer Status": "Confirmed by UPSC provisional key",
+      "Tentative Explanation": "UPSC provisional answer key, GS-I CSP Exam 2026, Series A, dated 27-05-2026 confirms option B. Tentative key marks option B. This code is treated as the valid set of statements for the Art & Culture question; verify with UPSC's final key.",
+      "PDF Page": 3,
+      "Answer Source": "UPSC provisional answer key, GS-I CSP Exam 2026, Series A, dated 27-05-2026"
     },
     {
       "No": 5,
@@ -8615,9 +8946,12 @@ window.DASHBOARD_DATA = {
       "Option C": "Manushya (humans)",
       "Option D": "Tiryancha (animals and plants)",
       "Tentative Subject": "Art & Culture",
-      "Tentative Answer": "B - Yaksha (demi-gods)",
-      "Tentative Explanation": "Tentative key marks option B. 'Yaksha (demi-gods)' is treated as the fact/concept that best fits this Art & Culture question; verify with UPSC's final key.",
-      "PDF Page": 3
+      "Previous Tentative Answer": "B - Yaksha (demi-gods)",
+      "UPSC Provisional Answer": "B - Yaksha (demi-gods)",
+      "Answer Status": "Confirmed by UPSC provisional key",
+      "Tentative Explanation": "UPSC provisional answer key, GS-I CSP Exam 2026, Series A, dated 27-05-2026 confirms option B. Tentative key marks option B. 'Yaksha (demi-gods)' is treated as the fact/concept that best fits this Art & Culture question; verify with UPSC's final key.",
+      "PDF Page": 3,
+      "Answer Source": "UPSC provisional answer key, GS-I CSP Exam 2026, Series A, dated 27-05-2026"
     },
     {
       "No": 6,
@@ -8627,9 +8961,12 @@ window.DASHBOARD_DATA = {
       "Option C": "The depiction of Shiva and Parvati on Kailasha",
       "Option D": "Samudramanthan (Churning of the Ocean)",
       "Tentative Subject": "Art & Culture",
-      "Tentative Answer": "A - A joyous folk dance",
-      "Tentative Explanation": "Tentative key marks option A. 'A joyous folk dance' is treated as the fact/concept that best fits this Art & Culture question; verify with UPSC's final key.",
-      "PDF Page": 3
+      "Previous Tentative Answer": "A - A joyous folk dance",
+      "UPSC Provisional Answer": "A - A joyous folk dance",
+      "Answer Status": "Confirmed by UPSC provisional key",
+      "Tentative Explanation": "UPSC provisional answer key, GS-I CSP Exam 2026, Series A, dated 27-05-2026 confirms option A. Tentative key marks option A. 'A joyous folk dance' is treated as the fact/concept that best fits this Art & Culture question; verify with UPSC's final key.",
+      "PDF Page": 3,
+      "Answer Source": "UPSC provisional answer key, GS-I CSP Exam 2026, Series A, dated 27-05-2026"
     },
     {
       "No": 7,
@@ -8639,9 +8976,12 @@ window.DASHBOARD_DATA = {
       "Option C": "2 and 3 only",
       "Option D": "1, 2 and 3",
       "Tentative Subject": "Ancient History",
-      "Tentative Answer": "D - 1, 2 and 3",
-      "Tentative Explanation": "Tentative key marks option D. This code is treated as the valid set of statements for the Ancient History question; verify with UPSC's final key.",
-      "PDF Page": 5
+      "Previous Tentative Answer": "D - 1, 2 and 3",
+      "UPSC Provisional Answer": "D - 1, 2 and 3",
+      "Answer Status": "Confirmed by UPSC provisional key",
+      "Tentative Explanation": "UPSC provisional answer key, GS-I CSP Exam 2026, Series A, dated 27-05-2026 confirms option D. Tentative key marks option D. This code is treated as the valid set of statements for the Ancient History question; verify with UPSC's final key.",
+      "PDF Page": 5,
+      "Answer Source": "UPSC provisional answer key, GS-I CSP Exam 2026, Series A, dated 27-05-2026"
     },
     {
       "No": 8,
@@ -8651,9 +8991,12 @@ window.DASHBOARD_DATA = {
       "Option C": "1 and 3 only",
       "Option D": "1, 2 and 3",
       "Tentative Subject": "Ancient History",
-      "Tentative Answer": "A - 1 and 2 only",
-      "Tentative Explanation": "Tentative key marks option A. This code is treated as the valid set of statements for the Ancient History question; verify with UPSC's final key.",
-      "PDF Page": 5
+      "Previous Tentative Answer": "A - 1 and 2 only",
+      "UPSC Provisional Answer": "A - 1 and 2 only",
+      "Answer Status": "Confirmed by UPSC provisional key",
+      "Tentative Explanation": "UPSC provisional answer key, GS-I CSP Exam 2026, Series A, dated 27-05-2026 confirms option A. Tentative key marks option A. This code is treated as the valid set of statements for the Ancient History question; verify with UPSC's final key.",
+      "PDF Page": 5,
+      "Answer Source": "UPSC provisional answer key, GS-I CSP Exam 2026, Series A, dated 27-05-2026"
     },
     {
       "No": 9,
@@ -8663,9 +9006,12 @@ window.DASHBOARD_DATA = {
       "Option C": "The Bardoli Satyagraha was a campaign against the enhancement df land revenue, while the Eka Movement was a protest against excessive extraction of rents.",
       "Option D": "The Eka Movement was located in the Varanasi and Mirzapur districts of the present-day U.P., while the Bardoli Satyagraha took place in Saurashtra.",
       "Tentative Subject": "Modern History",
-      "Tentative Answer": "C - The Bardoli Satyagraha was a campaign against the enhancement of land revenue, while the Eka Movement was a protest against excessive extraction of rents.",
-      "Tentative Explanation": "Tentative key marks option C. This code is treated as the valid set of statements for the Modern History question; verify with UPSC's final key.",
-      "PDF Page": 5
+      "Previous Tentative Answer": "C - The Bardoli Satyagraha was a campaign against the enhancement of land revenue, while the Eka Movement was a protest against excessive extraction of rents.",
+      "UPSC Provisional Answer": "C - The Bardoli Satyagraha was a campaign against the enhancement df land revenue, while the Eka Movement was a protest against excessive extraction of rents.",
+      "Answer Status": "Confirmed by UPSC provisional key",
+      "Tentative Explanation": "UPSC provisional answer key, GS-I CSP Exam 2026, Series A, dated 27-05-2026 confirms option C. Tentative key marks option C. This code is treated as the valid set of statements for the Modern History question; verify with UPSC's final key.",
+      "PDF Page": 5,
+      "Answer Source": "UPSC provisional answer key, GS-I CSP Exam 2026, Series A, dated 27-05-2026"
     },
     {
       "No": 10,
@@ -8675,9 +9021,12 @@ window.DASHBOARD_DATA = {
       "Option C": "1 and 3 only",
       "Option D": "3 only",
       "Tentative Subject": "Ancient History",
-      "Tentative Answer": "C - 1 and 3 only",
-      "Tentative Explanation": "Tentative key marks option C. This code is treated as the valid set of statements for the Ancient History question; verify with UPSC's final key.",
-      "PDF Page": 5
+      "Previous Tentative Answer": "C - 1 and 3 only",
+      "UPSC Provisional Answer": "C - 1 and 3 only",
+      "Answer Status": "Confirmed by UPSC provisional key",
+      "Tentative Explanation": "UPSC provisional answer key, GS-I CSP Exam 2026, Series A, dated 27-05-2026 confirms option C. Tentative key marks option C. This code is treated as the valid set of statements for the Ancient History question; verify with UPSC's final key.",
+      "PDF Page": 5,
+      "Answer Source": "UPSC provisional answer key, GS-I CSP Exam 2026, Series A, dated 27-05-2026"
     },
     {
       "No": 11,
@@ -8687,9 +9036,12 @@ window.DASHBOARD_DATA = {
       "Option C": "1 and 2",
       "Option D": "3",
       "Tentative Subject": "Physical Geography",
-      "Tentative Answer": "D - 3",
-      "Tentative Explanation": "Tentative key marks option D. '3' is treated as the fact/concept that best fits this Physical Geography question; verify with UPSC's final key.",
-      "PDF Page": 7
+      "Previous Tentative Answer": "D - 3",
+      "UPSC Provisional Answer": "D - 3",
+      "Answer Status": "Confirmed by UPSC provisional key",
+      "Tentative Explanation": "UPSC provisional answer key, GS-I CSP Exam 2026, Series A, dated 27-05-2026 confirms option D. Tentative key marks option D. '3' is treated as the fact/concept that best fits this Physical Geography question; verify with UPSC's final key.",
+      "PDF Page": 7,
+      "Answer Source": "UPSC provisional answer key, GS-I CSP Exam 2026, Series A, dated 27-05-2026"
     },
     {
       "No": 12,
@@ -8699,9 +9051,12 @@ window.DASHBOARD_DATA = {
       "Option C": "The Buddha's Mahaparinibbana",
       "Option D": "The Buddha's Mahabhinishkramana",
       "Tentative Subject": "Art & Culture",
-      "Tentative Answer": "A - The meditation of the Buddha",
-      "Tentative Explanation": "Tentative key marks option A. 'The meditation of the Buddha' is treated as the fact/concept that best fits this Art & Culture question; verify with UPSC's final key.",
-      "PDF Page": 7
+      "Previous Tentative Answer": "A - The meditation of the Buddha",
+      "UPSC Provisional Answer": "A - The meditation of the Buddha",
+      "Answer Status": "Confirmed by UPSC provisional key",
+      "Tentative Explanation": "UPSC provisional answer key, GS-I CSP Exam 2026, Series A, dated 27-05-2026 confirms option A. Tentative key marks option A. 'The meditation of the Buddha' is treated as the fact/concept that best fits this Art & Culture question; verify with UPSC's final key.",
+      "PDF Page": 7,
+      "Answer Source": "UPSC provisional answer key, GS-I CSP Exam 2026, Series A, dated 27-05-2026"
     },
     {
       "No": 13,
@@ -8711,9 +9066,12 @@ window.DASHBOARD_DATA = {
       "Option C": "3 only",
       "Option D": "4 only",
       "Tentative Subject": "Ancient History",
-      "Tentative Answer": "C - 3 only",
-      "Tentative Explanation": "Tentative key marks option C. This code is treated as the valid set of statements for the Ancient History question; verify with UPSC's final key.",
-      "PDF Page": 7
+      "Previous Tentative Answer": "C - 3 only",
+      "UPSC Provisional Answer": "C - 3 only",
+      "Answer Status": "Confirmed by UPSC provisional key",
+      "Tentative Explanation": "UPSC provisional answer key, GS-I CSP Exam 2026, Series A, dated 27-05-2026 confirms option C. Tentative key marks option C. This code is treated as the valid set of statements for the Ancient History question; verify with UPSC's final key.",
+      "PDF Page": 7,
+      "Answer Source": "UPSC provisional answer key, GS-I CSP Exam 2026, Series A, dated 27-05-2026"
     },
     {
       "No": 14,
@@ -8723,9 +9081,12 @@ window.DASHBOARD_DATA = {
       "Option C": "2 and 3 only",
       "Option D": "1, 2 and 3",
       "Tentative Subject": "Art & Culture",
-      "Tentative Answer": "B - 1 and 3 only",
-      "Tentative Explanation": "Tentative key marks option B. This code is treated as the valid set of statements for the Art & Culture question; verify with UPSC's final key.",
-      "PDF Page": 7
+      "Previous Tentative Answer": "B - 1 and 3 only",
+      "UPSC Provisional Answer": "B - 1 and 3 only",
+      "Answer Status": "Confirmed by UPSC provisional key",
+      "Tentative Explanation": "UPSC provisional answer key, GS-I CSP Exam 2026, Series A, dated 27-05-2026 confirms option B. Tentative key marks option B. This code is treated as the valid set of statements for the Art & Culture question; verify with UPSC's final key.",
+      "PDF Page": 7,
+      "Answer Source": "UPSC provisional answer key, GS-I CSP Exam 2026, Series A, dated 27-05-2026"
     },
     {
       "No": 15,
@@ -8735,9 +9096,12 @@ window.DASHBOARD_DATA = {
       "Option C": "1 and 3",
       "Option D": "3 only",
       "Tentative Subject": "Ancient History",
-      "Tentative Answer": "B - 2 only",
-      "Tentative Explanation": "Tentative key marks option B. This code is treated as the valid set of statements for the Ancient History question; verify with UPSC's final key.",
-      "PDF Page": 7
+      "Previous Tentative Answer": "B - 2 only",
+      "UPSC Provisional Answer": "B - 2 only",
+      "Answer Status": "Confirmed by UPSC provisional key",
+      "Tentative Explanation": "UPSC provisional answer key, GS-I CSP Exam 2026, Series A, dated 27-05-2026 confirms option B. Tentative key marks option B. This code is treated as the valid set of statements for the Ancient History question; verify with UPSC's final key.",
+      "PDF Page": 7,
+      "Answer Source": "UPSC provisional answer key, GS-I CSP Exam 2026, Series A, dated 27-05-2026"
     },
     {
       "No": 16,
@@ -8747,9 +9111,12 @@ window.DASHBOARD_DATA = {
       "Option C": "1, 3 and 4",
       "Option D": "2 and 4 only",
       "Tentative Subject": "Modern History",
-      "Tentative Answer": "B - 1, 2 and 4",
-      "Tentative Explanation": "Tentative key marks option B. This code is treated as the valid set of statements for the Modern History question; verify with UPSC's final key.",
-      "PDF Page": 9
+      "Previous Tentative Answer": "B - 1, 2 and 4",
+      "UPSC Provisional Answer": "B - 1, 2 and 4",
+      "Answer Status": "Confirmed by UPSC provisional key",
+      "Tentative Explanation": "UPSC provisional answer key, GS-I CSP Exam 2026, Series A, dated 27-05-2026 confirms option B. Tentative key marks option B. This code is treated as the valid set of statements for the Modern History question; verify with UPSC's final key.",
+      "PDF Page": 9,
+      "Answer Source": "UPSC provisional answer key, GS-I CSP Exam 2026, Series A, dated 27-05-2026"
     },
     {
       "No": 17,
@@ -8759,9 +9126,12 @@ window.DASHBOARD_DATA = {
       "Option C": "1, 2 and 3",
       "Option D": "2 only",
       "Tentative Subject": "Modern History",
-      "Tentative Answer": "A - 2 and 3 only",
-      "Tentative Explanation": "Tentative key marks option A. This code is treated as the valid set of statements for the Modern History question; verify with UPSC's final key.",
-      "PDF Page": 9
+      "Previous Tentative Answer": "A - 2 and 3 only",
+      "UPSC Provisional Answer": "A - 2 and 3 only",
+      "Answer Status": "Confirmed by UPSC provisional key",
+      "Tentative Explanation": "UPSC provisional answer key, GS-I CSP Exam 2026, Series A, dated 27-05-2026 confirms option A. Tentative key marks option A. This code is treated as the valid set of statements for the Modern History question; verify with UPSC's final key.",
+      "PDF Page": 9,
+      "Answer Source": "UPSC provisional answer key, GS-I CSP Exam 2026, Series A, dated 27-05-2026"
     },
     {
       "No": 18,
@@ -8771,9 +9141,12 @@ window.DASHBOARD_DATA = {
       "Option C": "1 and 2 only",
       "Option D": "1, 2 and 3",
       "Tentative Subject": "Modern History",
-      "Tentative Answer": "D - 1, 2 and 3",
-      "Tentative Explanation": "Tentative key marks option D. This code is treated as the valid set of statements for the Modern History question; verify with UPSC's final key.",
-      "PDF Page": 9
+      "Previous Tentative Answer": "D - 1, 2 and 3",
+      "UPSC Provisional Answer": "D - 1, 2 and 3",
+      "Answer Status": "Confirmed by UPSC provisional key",
+      "Tentative Explanation": "UPSC provisional answer key, GS-I CSP Exam 2026, Series A, dated 27-05-2026 confirms option D. Tentative key marks option D. This code is treated as the valid set of statements for the Modern History question; verify with UPSC's final key.",
+      "PDF Page": 9,
+      "Answer Source": "UPSC provisional answer key, GS-I CSP Exam 2026, Series A, dated 27-05-2026"
     },
     {
       "No": 19,
@@ -8783,9 +9156,12 @@ window.DASHBOARD_DATA = {
       "Option C": "Patiala Gharana",
       "Option D": "Jaipur-Atrauli Gharana",
       "Tentative Subject": "Art & Culture",
-      "Tentative Answer": "D - Jaipur-Atrauli Gharana",
-      "Tentative Explanation": "Tentative key marks option D. 'Jaipur-Atrauli Gharana' is treated as the fact/concept that best fits this Art & Culture question; verify with UPSC's final key.",
-      "PDF Page": 9
+      "Previous Tentative Answer": "D - Jaipur-Atrauli Gharana",
+      "UPSC Provisional Answer": "D - Jaipur-Atrauli Gharana",
+      "Answer Status": "Confirmed by UPSC provisional key",
+      "Tentative Explanation": "UPSC provisional answer key, GS-I CSP Exam 2026, Series A, dated 27-05-2026 confirms option D. Tentative key marks option D. 'Jaipur-Atrauli Gharana' is treated as the fact/concept that best fits this Art & Culture question; verify with UPSC's final key.",
+      "PDF Page": 9,
+      "Answer Source": "UPSC provisional answer key, GS-I CSP Exam 2026, Series A, dated 27-05-2026"
     },
     {
       "No": 20,
@@ -8795,9 +9171,12 @@ window.DASHBOARD_DATA = {
       "Option C": "Ashtadhyayi",
       "Option D": "Arthashastra",
       "Tentative Subject": "Ancient History",
-      "Tentative Answer": "B - Atharvaveda",
-      "Tentative Explanation": "Tentative key marks option B. 'Atharvaveda' is treated as the fact/concept that best fits this Ancient History question; verify with UPSC's final key.",
-      "PDF Page": 9
+      "Previous Tentative Answer": "B - Atharvaveda",
+      "UPSC Provisional Answer": "B - Atharvaveda",
+      "Answer Status": "Confirmed by UPSC provisional key",
+      "Tentative Explanation": "UPSC provisional answer key, GS-I CSP Exam 2026, Series A, dated 27-05-2026 confirms option B. Tentative key marks option B. 'Atharvaveda' is treated as the fact/concept that best fits this Ancient History question; verify with UPSC's final key.",
+      "PDF Page": 9,
+      "Answer Source": "UPSC provisional answer key, GS-I CSP Exam 2026, Series A, dated 27-05-2026"
     },
     {
       "No": 21,
@@ -8807,9 +9186,12 @@ window.DASHBOARD_DATA = {
       "Option C": "2 and 3",
       "Option D": "3 only",
       "Tentative Subject": "Environment & Ecology",
-      "Tentative Answer": "B - 1 and 2",
-      "Tentative Explanation": "Tentative key marks option B. This code is treated as the valid set of statements for the Environment & Ecology question; verify with UPSC's final key.",
-      "PDF Page": 11
+      "Previous Tentative Answer": "B - 1 and 2",
+      "UPSC Provisional Answer": "B - 1 and 2",
+      "Answer Status": "Confirmed by UPSC provisional key",
+      "Tentative Explanation": "UPSC provisional answer key, GS-I CSP Exam 2026, Series A, dated 27-05-2026 confirms option B. Tentative key marks option B. This code is treated as the valid set of statements for the Environment & Ecology question; verify with UPSC's final key.",
+      "PDF Page": 11,
+      "Answer Source": "UPSC provisional answer key, GS-I CSP Exam 2026, Series A, dated 27-05-2026"
     },
     {
       "No": 22,
@@ -8819,9 +9201,12 @@ window.DASHBOARD_DATA = {
       "Option C": "2 and 3",
       "Option D": "3 only",
       "Tentative Subject": "Environment & Ecology",
-      "Tentative Answer": "B - 1 and 2",
-      "Tentative Explanation": "Tentative key marks option B. This code is treated as the valid set of statements for the Environment & Ecology question; verify with UPSC's final key.",
-      "PDF Page": 11
+      "Previous Tentative Answer": "B - 1 and 2",
+      "UPSC Provisional Answer": "B - 1 and 2",
+      "Answer Status": "Confirmed by UPSC provisional key",
+      "Tentative Explanation": "UPSC provisional answer key, GS-I CSP Exam 2026, Series A, dated 27-05-2026 confirms option B. Tentative key marks option B. This code is treated as the valid set of statements for the Environment & Ecology question; verify with UPSC's final key.",
+      "PDF Page": 11,
+      "Answer Source": "UPSC provisional answer key, GS-I CSP Exam 2026, Series A, dated 27-05-2026"
     },
     {
       "No": 23,
@@ -8831,9 +9216,12 @@ window.DASHBOARD_DATA = {
       "Option C": "2 and 3",
       "Option D": "3 only",
       "Tentative Subject": "Environment & Ecology",
-      "Tentative Answer": "D - 3 only",
-      "Tentative Explanation": "Tentative key marks option D. This code is treated as the valid set of statements for the Environment & Ecology question; verify with UPSC's final key.",
-      "PDF Page": 11
+      "Previous Tentative Answer": "D - 3 only",
+      "UPSC Provisional Answer": "D - 3 only",
+      "Answer Status": "Confirmed by UPSC provisional key",
+      "Tentative Explanation": "UPSC provisional answer key, GS-I CSP Exam 2026, Series A, dated 27-05-2026 confirms option D. Tentative key marks option D. This code is treated as the valid set of statements for the Environment & Ecology question; verify with UPSC's final key.",
+      "PDF Page": 11,
+      "Answer Source": "UPSC provisional answer key, GS-I CSP Exam 2026, Series A, dated 27-05-2026"
     },
     {
       "No": 24,
@@ -8843,9 +9231,12 @@ window.DASHBOARD_DATA = {
       "Option C": "2 and 3",
       "Option D": "3 only",
       "Tentative Subject": "Economy",
-      "Tentative Answer": "D - 3 only",
-      "Tentative Explanation": "Tentative key marks option D. This code is treated as the valid set of statements for the Economy question; verify with UPSC's final key.",
-      "PDF Page": 13
+      "Previous Tentative Answer": "D - 3 only",
+      "UPSC Provisional Answer": "D - 3 only",
+      "Answer Status": "Confirmed by UPSC provisional key",
+      "Tentative Explanation": "UPSC provisional answer key, GS-I CSP Exam 2026, Series A, dated 27-05-2026 confirms option D. Tentative key marks option D. This code is treated as the valid set of statements for the Economy question; verify with UPSC's final key.",
+      "PDF Page": 13,
+      "Answer Source": "UPSC provisional answer key, GS-I CSP Exam 2026, Series A, dated 27-05-2026"
     },
     {
       "No": 25,
@@ -8855,9 +9246,12 @@ window.DASHBOARD_DATA = {
       "Option C": "Sutlej",
       "Option D": "Teesta",
       "Tentative Subject": "Indian Geography",
-      "Tentative Answer": "C - Sutlej",
-      "Tentative Explanation": "Tentative key marks option C. 'Sutlej' is treated as the fact/concept that best fits this Indian Geography question; verify with UPSC's final key.",
-      "PDF Page": 13
+      "Previous Tentative Answer": "C - Sutlej",
+      "UPSC Provisional Answer": "C - Sutlej",
+      "Answer Status": "Confirmed by UPSC provisional key",
+      "Tentative Explanation": "UPSC provisional answer key, GS-I CSP Exam 2026, Series A, dated 27-05-2026 confirms option C. Tentative key marks option C. 'Sutlej' is treated as the fact/concept that best fits this Indian Geography question; verify with UPSC's final key.",
+      "PDF Page": 13,
+      "Answer Source": "UPSC provisional answer key, GS-I CSP Exam 2026, Series A, dated 27-05-2026"
     },
     {
       "No": 26,
@@ -8867,9 +9261,12 @@ window.DASHBOARD_DATA = {
       "Option C": "2 and 3",
       "Option D": "3 only",
       "Tentative Subject": "Indian Geography",
-      "Tentative Answer": "C - 2 and 3",
-      "Tentative Explanation": "Tentative key marks option C. This code is treated as the valid set of statements for the Indian Geography question; verify with UPSC's final key.",
-      "PDF Page": 13
+      "Previous Tentative Answer": "C - 2 and 3",
+      "UPSC Provisional Answer": "C - 2 and 3",
+      "Answer Status": "Confirmed by UPSC provisional key",
+      "Tentative Explanation": "UPSC provisional answer key, GS-I CSP Exam 2026, Series A, dated 27-05-2026 confirms option C. Tentative key marks option C. This code is treated as the valid set of statements for the Indian Geography question; verify with UPSC's final key.",
+      "PDF Page": 13,
+      "Answer Source": "UPSC provisional answer key, GS-I CSP Exam 2026, Series A, dated 27-05-2026"
     },
     {
       "No": 27,
@@ -8879,9 +9276,12 @@ window.DASHBOARD_DATA = {
       "Option C": "2 and 3",
       "Option D": "3 only",
       "Tentative Subject": "Environment & Ecology",
-      "Tentative Answer": "A - 1 only",
-      "Tentative Explanation": "Tentative key marks option A. This code is treated as the valid set of statements for the Environment & Ecology question; verify with UPSC's final key.",
-      "PDF Page": 13
+      "Previous Tentative Answer": "A - 1 only",
+      "UPSC Provisional Answer": "A - 1 only",
+      "Answer Status": "Confirmed by UPSC provisional key",
+      "Tentative Explanation": "UPSC provisional answer key, GS-I CSP Exam 2026, Series A, dated 27-05-2026 confirms option A. Tentative key marks option A. This code is treated as the valid set of statements for the Environment & Ecology question; verify with UPSC's final key.",
+      "PDF Page": 13,
+      "Answer Source": "UPSC provisional answer key, GS-I CSP Exam 2026, Series A, dated 27-05-2026"
     },
     {
       "No": 28,
@@ -8891,9 +9291,12 @@ window.DASHBOARD_DATA = {
       "Option C": "2 and 3",
       "Option D": "3 only",
       "Tentative Subject": "Social Issues & Schemes",
-      "Tentative Answer": "D - 3 only",
-      "Tentative Explanation": "Tentative key marks option D. This code is treated as the valid set of statements for the Social Issues & Schemes question; verify with UPSC's final key.",
-      "PDF Page": 15
+      "Previous Tentative Answer": "D - 3 only",
+      "UPSC Provisional Answer": "D - 3 only",
+      "Answer Status": "Confirmed by UPSC provisional key",
+      "Tentative Explanation": "UPSC provisional answer key, GS-I CSP Exam 2026, Series A, dated 27-05-2026 confirms option D. Tentative key marks option D. This code is treated as the valid set of statements for the Social Issues & Schemes question; verify with UPSC's final key.",
+      "PDF Page": 15,
+      "Answer Source": "UPSC provisional answer key, GS-I CSP Exam 2026, Series A, dated 27-05-2026"
     },
     {
       "No": 29,
@@ -8903,9 +9306,12 @@ window.DASHBOARD_DATA = {
       "Option C": "Both 1 and 2",
       "Option D": "Neither 1 nor 2",
       "Tentative Subject": "Economy",
-      "Tentative Answer": "C - Both 1 and 2",
-      "Tentative Explanation": "Tentative key marks option C. This code is treated as the valid set of statements for the Economy question; verify with UPSC's final key.",
-      "PDF Page": 15
+      "Previous Tentative Answer": "C - Both 1 and 2",
+      "UPSC Provisional Answer": "C - Both 1 and 2",
+      "Answer Status": "Confirmed by UPSC provisional key",
+      "Tentative Explanation": "UPSC provisional answer key, GS-I CSP Exam 2026, Series A, dated 27-05-2026 confirms option C. Tentative key marks option C. This code is treated as the valid set of statements for the Economy question; verify with UPSC's final key.",
+      "PDF Page": 15,
+      "Answer Source": "UPSC provisional answer key, GS-I CSP Exam 2026, Series A, dated 27-05-2026"
     },
     {
       "No": 30,
@@ -8915,9 +9321,12 @@ window.DASHBOARD_DATA = {
       "Option C": "2 and 3",
       "Option D": "3 and 4",
       "Tentative Subject": "World Geography",
-      "Tentative Answer": "B - 1 and 3",
-      "Tentative Explanation": "Tentative key marks option B. This code is treated as the valid set of statements for the World Geography question; verify with UPSC's final key.",
-      "PDF Page": 15
+      "Previous Tentative Answer": "B - 1 and 3",
+      "UPSC Provisional Answer": "B - I and 3",
+      "Answer Status": "Confirmed by UPSC provisional key",
+      "Tentative Explanation": "UPSC provisional answer key, GS-I CSP Exam 2026, Series A, dated 27-05-2026 confirms option B. Tentative key marks option B. This code is treated as the valid set of statements for the World Geography question; verify with UPSC's final key.",
+      "PDF Page": 15,
+      "Answer Source": "UPSC provisional answer key, GS-I CSP Exam 2026, Series A, dated 27-05-2026"
     },
     {
       "No": 31,
@@ -8927,9 +9336,12 @@ window.DASHBOARD_DATA = {
       "Option C": "Bolivia",
       "Option D": "Colombia",
       "Tentative Subject": "Physical Geography",
-      "Tentative Answer": "A - Ecuador",
-      "Tentative Explanation": "Tentative key marks option A. 'Ecuador' is treated as the fact/concept that best fits this Physical Geography question; verify with UPSC's final key.",
-      "PDF Page": 15
+      "Previous Tentative Answer": "A - Ecuador",
+      "UPSC Provisional Answer": "A - Ecuador",
+      "Answer Status": "Confirmed by UPSC provisional key",
+      "Tentative Explanation": "UPSC provisional answer key, GS-I CSP Exam 2026, Series A, dated 27-05-2026 confirms option A. Tentative key marks option A. 'Ecuador' is treated as the fact/concept that best fits this Physical Geography question; verify with UPSC's final key.",
+      "PDF Page": 15,
+      "Answer Source": "UPSC provisional answer key, GS-I CSP Exam 2026, Series A, dated 27-05-2026"
     },
     {
       "No": 32,
@@ -8939,9 +9351,12 @@ window.DASHBOARD_DATA = {
       "Option C": "2 and 3",
       "Option D": "3 only",
       "Tentative Subject": "Environment & Ecology",
-      "Tentative Answer": "B - 1 and 2",
-      "Tentative Explanation": "Tentative key marks option B. This code is treated as the valid set of statements for the Environment & Ecology question; verify with UPSC's final key.",
-      "PDF Page": 15
+      "Previous Tentative Answer": "B - 1 and 2",
+      "UPSC Provisional Answer": "B - 1 and 2",
+      "Answer Status": "Confirmed by UPSC provisional key",
+      "Tentative Explanation": "UPSC provisional answer key, GS-I CSP Exam 2026, Series A, dated 27-05-2026 confirms option B. Tentative key marks option B. This code is treated as the valid set of statements for the Environment & Ecology question; verify with UPSC's final key.",
+      "PDF Page": 15,
+      "Answer Source": "UPSC provisional answer key, GS-I CSP Exam 2026, Series A, dated 27-05-2026"
     },
     {
       "No": 33,
@@ -8951,9 +9366,12 @@ window.DASHBOARD_DATA = {
       "Option C": "2 and 3",
       "Option D": "3 only",
       "Tentative Subject": "Indian Geography",
-      "Tentative Answer": "B - 1 and 2",
-      "Tentative Explanation": "Tentative key marks option B. This code is treated as the valid set of statements for the Indian Geography question; verify with UPSC's final key.",
-      "PDF Page": 17
+      "Previous Tentative Answer": "B - 1 and 2",
+      "UPSC Provisional Answer": "B - 1 and 2",
+      "Answer Status": "Confirmed by UPSC provisional key",
+      "Tentative Explanation": "UPSC provisional answer key, GS-I CSP Exam 2026, Series A, dated 27-05-2026 confirms option B. Tentative key marks option B. This code is treated as the valid set of statements for the Indian Geography question; verify with UPSC's final key.",
+      "PDF Page": 17,
+      "Answer Source": "UPSC provisional answer key, GS-I CSP Exam 2026, Series A, dated 27-05-2026"
     },
     {
       "No": 34,
@@ -8963,9 +9381,12 @@ window.DASHBOARD_DATA = {
       "Option C": "2 and 3",
       "Option D": "3 only",
       "Tentative Subject": "Indian Geography",
-      "Tentative Answer": "B - 1 and 2",
-      "Tentative Explanation": "Tentative key marks option B. This code is treated as the valid set of statements for the Indian Geography question; verify with UPSC's final key.",
-      "PDF Page": 17
+      "Previous Tentative Answer": "B - 1 and 2",
+      "UPSC Provisional Answer": "B - 1 and 2",
+      "Answer Status": "Confirmed by UPSC provisional key",
+      "Tentative Explanation": "UPSC provisional answer key, GS-I CSP Exam 2026, Series A, dated 27-05-2026 confirms option B. Tentative key marks option B. This code is treated as the valid set of statements for the Indian Geography question; verify with UPSC's final key.",
+      "PDF Page": 17,
+      "Answer Source": "UPSC provisional answer key, GS-I CSP Exam 2026, Series A, dated 27-05-2026"
     },
     {
       "No": 35,
@@ -8975,9 +9396,12 @@ window.DASHBOARD_DATA = {
       "Option C": "2 and 3",
       "Option D": "3 only",
       "Tentative Subject": "Economy",
-      "Tentative Answer": "B - 1 and 2",
-      "Tentative Explanation": "Tentative key marks option B. This code is treated as the valid set of statements for the Economy question; verify with UPSC's final key.",
-      "PDF Page": 17
+      "Previous Tentative Answer": "B - 1 and 2",
+      "UPSC Provisional Answer": "B - 1 and 2",
+      "Answer Status": "Confirmed by UPSC provisional key",
+      "Tentative Explanation": "UPSC provisional answer key, GS-I CSP Exam 2026, Series A, dated 27-05-2026 confirms option B. Tentative key marks option B. This code is treated as the valid set of statements for the Economy question; verify with UPSC's final key.",
+      "PDF Page": 17,
+      "Answer Source": "UPSC provisional answer key, GS-I CSP Exam 2026, Series A, dated 27-05-2026"
     },
     {
       "No": 36,
@@ -8987,9 +9411,12 @@ window.DASHBOARD_DATA = {
       "Option C": "2 and 3",
       "Option D": "3 only",
       "Tentative Subject": "Environment & Ecology",
-      "Tentative Answer": "B - 1 and 3",
-      "Tentative Explanation": "Tentative key marks option B. This code is treated as the valid set of statements for the Environment & Ecology question; verify with UPSC's final key.",
-      "PDF Page": 19
+      "Previous Tentative Answer": "B - 1 and 3",
+      "UPSC Provisional Answer": "B - 1 and 3",
+      "Answer Status": "Confirmed by UPSC provisional key",
+      "Tentative Explanation": "UPSC provisional answer key, GS-I CSP Exam 2026, Series A, dated 27-05-2026 confirms option B. Tentative key marks option B. This code is treated as the valid set of statements for the Environment & Ecology question; verify with UPSC's final key.",
+      "PDF Page": 19,
+      "Answer Source": "UPSC provisional answer key, GS-I CSP Exam 2026, Series A, dated 27-05-2026"
     },
     {
       "No": 37,
@@ -8999,9 +9426,12 @@ window.DASHBOARD_DATA = {
       "Option C": "3 only",
       "Option D": "2 and 4",
       "Tentative Subject": "Art & Culture",
-      "Tentative Answer": "C - 3 only",
-      "Tentative Explanation": "Tentative key marks option C. This code is treated as the valid set of statements for the Art & Culture question; verify with UPSC's final key.",
-      "PDF Page": 19
+      "Previous Tentative Answer": "C - 3 only",
+      "UPSC Provisional Answer": "C - 3 only",
+      "Answer Status": "Confirmed by UPSC provisional key",
+      "Tentative Explanation": "UPSC provisional answer key, GS-I CSP Exam 2026, Series A, dated 27-05-2026 confirms option C. Tentative key marks option C. This code is treated as the valid set of statements for the Art & Culture question; verify with UPSC's final key.",
+      "PDF Page": 19,
+      "Answer Source": "UPSC provisional answer key, GS-I CSP Exam 2026, Series A, dated 27-05-2026"
     },
     {
       "No": 38,
@@ -9011,9 +9441,12 @@ window.DASHBOARD_DATA = {
       "Option C": "Better coral reefs, better nutrition, better environment and better life",
       "Option D": "Better estuaries, better nutrition, better environment and better mangrove vegetation",
       "Tentative Subject": "Environment & Ecology",
-      "Tentative Answer": "B - Better production, better nutrition, better environment and better life",
-      "Tentative Explanation": "Tentative key marks option B. This code is treated as the valid set of statements for the Environment & Ecology question; verify with UPSC's final key.",
-      "PDF Page": 19
+      "Previous Tentative Answer": "B - Better production, better nutrition, better environment and better life",
+      "UPSC Provisional Answer": "B - Better production, better nutrition, better environment and better life",
+      "Answer Status": "Confirmed by UPSC provisional key",
+      "Tentative Explanation": "UPSC provisional answer key, GS-I CSP Exam 2026, Series A, dated 27-05-2026 confirms option B. Tentative key marks option B. This code is treated as the valid set of statements for the Environment & Ecology question; verify with UPSC's final key.",
+      "PDF Page": 19,
+      "Answer Source": "UPSC provisional answer key, GS-I CSP Exam 2026, Series A, dated 27-05-2026"
     },
     {
       "No": 39,
@@ -9023,9 +9456,12 @@ window.DASHBOARD_DATA = {
       "Option C": "2 and 3 only",
       "Option D": "1, 2 and 3",
       "Tentative Subject": "World Geography",
-      "Tentative Answer": "B - 1 and 3 only",
-      "Tentative Explanation": "Tentative key marks option B. This code is treated as the valid set of statements for the World Geography question; verify with UPSC's final key.",
-      "PDF Page": 19
+      "Previous Tentative Answer": "B - 1 and 3 only",
+      "UPSC Provisional Answer": "B - 1 and 3 only",
+      "Answer Status": "Confirmed by UPSC provisional key",
+      "Tentative Explanation": "UPSC provisional answer key, GS-I CSP Exam 2026, Series A, dated 27-05-2026 confirms option B. Tentative key marks option B. This code is treated as the valid set of statements for the World Geography question; verify with UPSC's final key.",
+      "PDF Page": 19,
+      "Answer Source": "UPSC provisional answer key, GS-I CSP Exam 2026, Series A, dated 27-05-2026"
     },
     {
       "No": 40,
@@ -9035,9 +9471,12 @@ window.DASHBOARD_DATA = {
       "Option C": "Khasi Hills Community REDD+ project",
       "Option D": "Sikkim Mamley Kamrang Community REDD+ project",
       "Tentative Subject": "Environment & Ecology",
-      "Tentative Answer": "C - Khasi Hills Community REDD+ project",
-      "Tentative Explanation": "Tentative key marks option C. 'Khasi Hills Community REDD+ project' is treated as the fact/concept that best fits this Environment & Ecology question; verify with UPSC's final key.",
-      "PDF Page": 19
+      "Previous Tentative Answer": "C - Khasi Hills Community REDD+ project",
+      "UPSC Provisional Answer": "C - Khasi Hills Community REDD+ project",
+      "Answer Status": "Confirmed by UPSC provisional key",
+      "Tentative Explanation": "UPSC provisional answer key, GS-I CSP Exam 2026, Series A, dated 27-05-2026 confirms option C. Tentative key marks option C. 'Khasi Hills Community REDD+ project' is treated as the fact/concept that best fits this Environment & Ecology question; verify with UPSC's final key.",
+      "PDF Page": 19,
+      "Answer Source": "UPSC provisional answer key, GS-I CSP Exam 2026, Series A, dated 27-05-2026"
     },
     {
       "No": 41,
@@ -9047,9 +9486,12 @@ window.DASHBOARD_DATA = {
       "Option C": "1 and 2 only",
       "Option D": "1, 2 and 3",
       "Tentative Subject": "Science & Technology",
-      "Tentative Answer": "C - 1 and 2 only",
-      "Tentative Explanation": "Tentative key marks option C. This code is treated as the valid set of statements for the Science & Technology question; verify with UPSC's final key.",
-      "PDF Page": 21
+      "Previous Tentative Answer": "C - 1 and 2 only",
+      "UPSC Provisional Answer": "C - 1 and 2 only",
+      "Answer Status": "Confirmed by UPSC provisional key",
+      "Tentative Explanation": "UPSC provisional answer key, GS-I CSP Exam 2026, Series A, dated 27-05-2026 confirms option C. Tentative key marks option C. This code is treated as the valid set of statements for the Science & Technology question; verify with UPSC's final key.",
+      "PDF Page": 21,
+      "Answer Source": "UPSC provisional answer key, GS-I CSP Exam 2026, Series A, dated 27-05-2026"
     },
     {
       "No": 42,
@@ -9059,9 +9501,12 @@ window.DASHBOARD_DATA = {
       "Option C": "2 and 3 only",
       "Option D": "I, 2 and 3",
       "Tentative Subject": "Science & Technology",
-      "Tentative Answer": "B - 1 and 2 only",
-      "Tentative Explanation": "Tentative key marks option B. This code is treated as the valid set of statements for the Science & Technology question; verify with UPSC's final key.",
-      "PDF Page": 21
+      "Previous Tentative Answer": "B - 1 and 2 only",
+      "UPSC Provisional Answer": "B - I and 2 only",
+      "Answer Status": "Confirmed by UPSC provisional key",
+      "Tentative Explanation": "UPSC provisional answer key, GS-I CSP Exam 2026, Series A, dated 27-05-2026 confirms option B. Tentative key marks option B. This code is treated as the valid set of statements for the Science & Technology question; verify with UPSC's final key.",
+      "PDF Page": 21,
+      "Answer Source": "UPSC provisional answer key, GS-I CSP Exam 2026, Series A, dated 27-05-2026"
     },
     {
       "No": 43,
@@ -9071,9 +9516,12 @@ window.DASHBOARD_DATA = {
       "Option C": "1 and 2 only",
       "Option D": "1, 2 and 3",
       "Tentative Subject": "Science & Technology",
-      "Tentative Answer": "C - 1 and 2 only",
-      "Tentative Explanation": "Tentative key marks option C. This code is treated as the valid set of statements for the Science & Technology question; verify with UPSC's final key.",
-      "PDF Page": 21
+      "Previous Tentative Answer": "C - 1 and 2 only",
+      "UPSC Provisional Answer": "C - 1 and 2 only",
+      "Answer Status": "Confirmed by UPSC provisional key",
+      "Tentative Explanation": "UPSC provisional answer key, GS-I CSP Exam 2026, Series A, dated 27-05-2026 confirms option C. Tentative key marks option C. This code is treated as the valid set of statements for the Science & Technology question; verify with UPSC's final key.",
+      "PDF Page": 21,
+      "Answer Source": "UPSC provisional answer key, GS-I CSP Exam 2026, Series A, dated 27-05-2026"
     },
     {
       "No": 44,
@@ -9083,9 +9531,12 @@ window.DASHBOARD_DATA = {
       "Option C": "1 and 2 only",
       "Option D": "I, 2 and 3",
       "Tentative Subject": "Science & Technology",
-      "Tentative Answer": "B - 2 and 3 only",
-      "Tentative Explanation": "Tentative key marks option B. This code is treated as the valid set of statements for the Science & Technology question; verify with UPSC's final key.",
-      "PDF Page": 21
+      "Previous Tentative Answer": "B - 2 and 3 only",
+      "UPSC Provisional Answer": "B - 2 and 3 only",
+      "Answer Status": "Confirmed by UPSC provisional key",
+      "Tentative Explanation": "UPSC provisional answer key, GS-I CSP Exam 2026, Series A, dated 27-05-2026 confirms option B. Tentative key marks option B. This code is treated as the valid set of statements for the Science & Technology question; verify with UPSC's final key.",
+      "PDF Page": 21,
+      "Answer Source": "UPSC provisional answer key, GS-I CSP Exam 2026, Series A, dated 27-05-2026"
     },
     {
       "No": 45,
@@ -9095,9 +9546,12 @@ window.DASHBOARD_DATA = {
       "Option C": "2 only",
       "Option D": "1, 2 and 3",
       "Tentative Subject": "Environment & Ecology",
-      "Tentative Answer": "B - 2 and 3 only",
-      "Tentative Explanation": "Tentative key marks option B. This code is treated as the valid set of statements for the Environment & Ecology question; verify with UPSC's final key.",
-      "PDF Page": 23
+      "Previous Tentative Answer": "B - 2 and 3 only",
+      "UPSC Provisional Answer": "B - 2 and 3 only",
+      "Answer Status": "Confirmed by UPSC provisional key",
+      "Tentative Explanation": "UPSC provisional answer key, GS-I CSP Exam 2026, Series A, dated 27-05-2026 confirms option B. Tentative key marks option B. This code is treated as the valid set of statements for the Environment & Ecology question; verify with UPSC's final key.",
+      "PDF Page": 23,
+      "Answer Source": "UPSC provisional answer key, GS-I CSP Exam 2026, Series A, dated 27-05-2026"
     },
     {
       "No": 46,
@@ -9107,9 +9561,12 @@ window.DASHBOARD_DATA = {
       "Option C": "1 and 2 only",
       "Option D": "I, 2 and 3",
       "Tentative Subject": "Science & Technology",
-      "Tentative Answer": "C - 1 and 2 only",
-      "Tentative Explanation": "Tentative key marks option C. This code is treated as the valid set of statements for the Science & Technology question; verify with UPSC's final key.",
-      "PDF Page": 23
+      "Previous Tentative Answer": "C - 1 and 2 only",
+      "UPSC Provisional Answer": "C - 1 and 2 only",
+      "Answer Status": "Confirmed by UPSC provisional key",
+      "Tentative Explanation": "UPSC provisional answer key, GS-I CSP Exam 2026, Series A, dated 27-05-2026 confirms option C. Tentative key marks option C. This code is treated as the valid set of statements for the Science & Technology question; verify with UPSC's final key.",
+      "PDF Page": 23,
+      "Answer Source": "UPSC provisional answer key, GS-I CSP Exam 2026, Series A, dated 27-05-2026"
     },
     {
       "No": 47,
@@ -9119,9 +9576,12 @@ window.DASHBOARD_DATA = {
       "Option C": "1 and 2 only",
       "Option D": "1, 2 and 3",
       "Tentative Subject": "Science & Technology",
-      "Tentative Answer": "B - 2 and 3 only",
-      "Tentative Explanation": "Tentative key marks option B. This code is treated as the valid set of statements for the Science & Technology question; verify with UPSC's final key.",
-      "PDF Page": 23
+      "Previous Tentative Answer": "B - 2 and 3 only",
+      "UPSC Provisional Answer": "B - 2 and 3 only",
+      "Answer Status": "Confirmed by UPSC provisional key",
+      "Tentative Explanation": "UPSC provisional answer key, GS-I CSP Exam 2026, Series A, dated 27-05-2026 confirms option B. Tentative key marks option B. This code is treated as the valid set of statements for the Science & Technology question; verify with UPSC's final key.",
+      "PDF Page": 23,
+      "Answer Source": "UPSC provisional answer key, GS-I CSP Exam 2026, Series A, dated 27-05-2026"
     },
     {
       "No": 48,
@@ -9131,9 +9591,12 @@ window.DASHBOARD_DATA = {
       "Option C": "1 and 2 only",
       "Option D": "1, 2 and 3",
       "Tentative Subject": "Science & Technology",
-      "Tentative Answer": "B - 2 and 3 only",
-      "Tentative Explanation": "Tentative key marks option B. This code is treated as the valid set of statements for the Science & Technology question; verify with UPSC's final key.",
-      "PDF Page": 23
+      "Previous Tentative Answer": "B - 2 and 3 only",
+      "UPSC Provisional Answer": "B - 2 and 3 only",
+      "Answer Status": "Confirmed by UPSC provisional key",
+      "Tentative Explanation": "UPSC provisional answer key, GS-I CSP Exam 2026, Series A, dated 27-05-2026 confirms option B. Tentative key marks option B. This code is treated as the valid set of statements for the Science & Technology question; verify with UPSC's final key.",
+      "PDF Page": 23,
+      "Answer Source": "UPSC provisional answer key, GS-I CSP Exam 2026, Series A, dated 27-05-2026"
     },
     {
       "No": 49,
@@ -9143,9 +9606,12 @@ window.DASHBOARD_DATA = {
       "Option C": "Both 1 and 2",
       "Option D": "Neither 1 nor 2",
       "Tentative Subject": "Science & Technology",
-      "Tentative Answer": "C - Both 1 and 2",
-      "Tentative Explanation": "Tentative key marks option C. This code is treated as the valid set of statements for the Science & Technology question; verify with UPSC's final key.",
-      "PDF Page": 25
+      "Previous Tentative Answer": "C - Both 1 and 2",
+      "UPSC Provisional Answer": "C - Both 1 and 2",
+      "Answer Status": "Confirmed by UPSC provisional key",
+      "Tentative Explanation": "UPSC provisional answer key, GS-I CSP Exam 2026, Series A, dated 27-05-2026 confirms option C. Tentative key marks option C. This code is treated as the valid set of statements for the Science & Technology question; verify with UPSC's final key.",
+      "PDF Page": 25,
+      "Answer Source": "UPSC provisional answer key, GS-I CSP Exam 2026, Series A, dated 27-05-2026"
     },
     {
       "No": 50,
@@ -9155,9 +9621,12 @@ window.DASHBOARD_DATA = {
       "Option C": "1 and 2 only",
       "Option D": "1, 2 and 3",
       "Tentative Subject": "Science & Technology",
-      "Tentative Answer": "B - 2 and 3 only",
-      "Tentative Explanation": "Tentative key marks option B. This code is treated as the valid set of statements for the Science & Technology question; verify with UPSC's final key.",
-      "PDF Page": 25
+      "Previous Tentative Answer": "B - 2 and 3 only",
+      "UPSC Provisional Answer": "B - 2 and 3 only",
+      "Answer Status": "Confirmed by UPSC provisional key",
+      "Tentative Explanation": "UPSC provisional answer key, GS-I CSP Exam 2026, Series A, dated 27-05-2026 confirms option B. Tentative key marks option B. This code is treated as the valid set of statements for the Science & Technology question; verify with UPSC's final key.",
+      "PDF Page": 25,
+      "Answer Source": "UPSC provisional answer key, GS-I CSP Exam 2026, Series A, dated 27-05-2026"
     },
     {
       "No": 51,
@@ -9167,9 +9636,12 @@ window.DASHBOARD_DATA = {
       "Option C": "Accountability",
       "Option D": "Delegation",
       "Tentative Subject": "Indian Polity",
-      "Tentative Answer": "C - Accountability",
-      "Tentative Explanation": "Tentative key marks option C. 'Accountability' is treated as the fact/concept that best fits this Indian Polity question; verify with UPSC's final key.",
-      "PDF Page": 25
+      "Previous Tentative Answer": "C - Accountability",
+      "UPSC Provisional Answer": "C - Accountability",
+      "Answer Status": "Confirmed by UPSC provisional key",
+      "Tentative Explanation": "UPSC provisional answer key, GS-I CSP Exam 2026, Series A, dated 27-05-2026 confirms option C. Tentative key marks option C. 'Accountability' is treated as the fact/concept that best fits this Indian Polity question; verify with UPSC's final key.",
+      "PDF Page": 25,
+      "Answer Source": "UPSC provisional answer key, GS-I CSP Exam 2026, Series A, dated 27-05-2026"
     },
     {
       "No": 52,
@@ -9179,9 +9651,12 @@ window.DASHBOARD_DATA = {
       "Option C": "1 and 2 only",
       "Option D": "1, 2, 3 and 4",
       "Tentative Subject": "Indian Polity",
-      "Tentative Answer": "A - 1, 3 and 4 only",
-      "Tentative Explanation": "Tentative key marks option A. This code is treated as the valid set of statements for the Indian Polity question; verify with UPSC's final key.",
-      "PDF Page": 27
+      "Previous Tentative Answer": "A - 1, 3 and 4 only",
+      "UPSC Provisional Answer": "A - 1, 3 and 4 only",
+      "Answer Status": "Confirmed by UPSC provisional key",
+      "Tentative Explanation": "UPSC provisional answer key, GS-I CSP Exam 2026, Series A, dated 27-05-2026 confirms option A. Tentative key marks option A. This code is treated as the valid set of statements for the Indian Polity question; verify with UPSC's final key.",
+      "PDF Page": 27,
+      "Answer Source": "UPSC provisional answer key, GS-I CSP Exam 2026, Series A, dated 27-05-2026"
     },
     {
       "No": 53,
@@ -9191,9 +9666,12 @@ window.DASHBOARD_DATA = {
       "Option C": "2 and 3 only",
       "Option D": "1, 2 and 3",
       "Tentative Subject": "Social Issues & Schemes",
-      "Tentative Answer": "B - 3 only",
-      "Tentative Explanation": "Tentative key marks option B. This code is treated as the valid set of statements for the Social Issues & Schemes question; verify with UPSC's final key.",
-      "PDF Page": 27
+      "Previous Tentative Answer": "B - 3 only",
+      "UPSC Provisional Answer": "B - 3 only",
+      "Answer Status": "Confirmed by UPSC provisional key",
+      "Tentative Explanation": "UPSC provisional answer key, GS-I CSP Exam 2026, Series A, dated 27-05-2026 confirms option B. Tentative key marks option B. This code is treated as the valid set of statements for the Social Issues & Schemes question; verify with UPSC's final key.",
+      "PDF Page": 27,
+      "Answer Source": "UPSC provisional answer key, GS-I CSP Exam 2026, Series A, dated 27-05-2026"
     },
     {
       "No": 54,
@@ -9203,9 +9681,12 @@ window.DASHBOARD_DATA = {
       "Option C": "The views of both 'X' and 'Y' are correct.",
       "Option D": "The view of only 'Y' is correct.",
       "Tentative Subject": "Indian Polity",
-      "Tentative Answer": "D - The view of only 'Y' is correct.",
-      "Tentative Explanation": "Tentative key marks option D. This code is treated as the valid set of statements for the Indian Polity question; verify with UPSC's final key.",
-      "PDF Page": 29
+      "Previous Tentative Answer": "D - The view of only 'Y' is correct.",
+      "UPSC Provisional Answer": "D - The view of only 'Y' is correct.",
+      "Answer Status": "Confirmed by UPSC provisional key",
+      "Tentative Explanation": "UPSC provisional answer key, GS-I CSP Exam 2026, Series A, dated 27-05-2026 confirms option D. Tentative key marks option D. This code is treated as the valid set of statements for the Indian Polity question; verify with UPSC's final key.",
+      "PDF Page": 29,
+      "Answer Source": "UPSC provisional answer key, GS-I CSP Exam 2026, Series A, dated 27-05-2026"
     },
     {
       "No": 55,
@@ -9215,9 +9696,12 @@ window.DASHBOARD_DATA = {
       "Option C": "There are two correct statements that include statement 3.",
       "Option D": "There is only one correct statement.",
       "Tentative Subject": "Indian Polity",
-      "Tentative Answer": "B - There is no correct statement.",
-      "Tentative Explanation": "Tentative key marks option B. 'There is no correct statement.' is treated as the fact/concept that best fits this Indian Polity question; verify with UPSC's final key.",
-      "PDF Page": 29
+      "Previous Tentative Answer": "B - There is no correct statement.",
+      "UPSC Provisional Answer": "B - There is no correct statement.",
+      "Answer Status": "Confirmed by UPSC provisional key",
+      "Tentative Explanation": "UPSC provisional answer key, GS-I CSP Exam 2026, Series A, dated 27-05-2026 confirms option B. Tentative key marks option B. 'There is no correct statement.' is treated as the fact/concept that best fits this Indian Polity question; verify with UPSC's final key.",
+      "PDF Page": 29,
+      "Answer Source": "UPSC provisional answer key, GS-I CSP Exam 2026, Series A, dated 27-05-2026"
     },
     {
       "No": 56,
@@ -9227,9 +9711,12 @@ window.DASHBOARD_DATA = {
       "Option C": "1 and 3",
       "Option D": "1 only",
       "Tentative Subject": "Social Issues & Schemes",
-      "Tentative Answer": "B - 2 only",
-      "Tentative Explanation": "Tentative key marks option B. This code is treated as the valid set of statements for the Social Issues & Schemes question; verify with UPSC's final key.",
-      "PDF Page": 29
+      "Previous Tentative Answer": "B - 2 only",
+      "UPSC Provisional Answer": "B - 2 only",
+      "Answer Status": "Confirmed by UPSC provisional key",
+      "Tentative Explanation": "UPSC provisional answer key, GS-I CSP Exam 2026, Series A, dated 27-05-2026 confirms option B. Tentative key marks option B. This code is treated as the valid set of statements for the Social Issues & Schemes question; verify with UPSC's final key.",
+      "PDF Page": 29,
+      "Answer Source": "UPSC provisional answer key, GS-I CSP Exam 2026, Series A, dated 27-05-2026"
     },
     {
       "No": 57,
@@ -9239,9 +9726,12 @@ window.DASHBOARD_DATA = {
       "Option C": "There is only one correct statement.",
       "Option D": "All three statements are correct.",
       "Tentative Subject": "Indian Polity",
-      "Tentative Answer": "A - There are two correct statements, that include statement 2.",
-      "Tentative Explanation": "Tentative key marks option A. This code is treated as the valid set of statements for the Indian Polity question; verify with UPSC's final key.",
-      "PDF Page": 31
+      "Previous Tentative Answer": "A - There are two correct statements, that include statement 2.",
+      "UPSC Provisional Answer": "A - There are two correct statements, that include statement 2.",
+      "Answer Status": "Confirmed by UPSC provisional key",
+      "Tentative Explanation": "UPSC provisional answer key, GS-I CSP Exam 2026, Series A, dated 27-05-2026 confirms option A. Tentative key marks option A. This code is treated as the valid set of statements for the Indian Polity question; verify with UPSC's final key.",
+      "PDF Page": 31,
+      "Answer Source": "UPSC provisional answer key, GS-I CSP Exam 2026, Series A, dated 27-05-2026"
     },
     {
       "No": 58,
@@ -9251,9 +9741,12 @@ window.DASHBOARD_DATA = {
       "Option C": "There is only one correct statement.",
       "Option D": "There is no correct statement.",
       "Tentative Subject": "Indian Polity",
-      "Tentative Answer": "C - There is only one correct statement.",
-      "Tentative Explanation": "Tentative key marks option C. This code is treated as the valid set of statements for the Indian Polity question; verify with UPSC's final key.",
-      "PDF Page": 31
+      "Previous Tentative Answer": "C - There is only one correct statement.",
+      "UPSC Provisional Answer": "C - There is only one correct statement.",
+      "Answer Status": "Confirmed by UPSC provisional key",
+      "Tentative Explanation": "UPSC provisional answer key, GS-I CSP Exam 2026, Series A, dated 27-05-2026 confirms option C. Tentative key marks option C. This code is treated as the valid set of statements for the Indian Polity question; verify with UPSC's final key.",
+      "PDF Page": 31,
+      "Answer Source": "UPSC provisional answer key, GS-I CSP Exam 2026, Series A, dated 27-05-2026"
     },
     {
       "No": 59,
@@ -9263,9 +9756,12 @@ window.DASHBOARD_DATA = {
       "Option C": "There are two correct statements, that include statement 1.",
       "Option D": "There is no correct statement.",
       "Tentative Subject": "Indian Polity",
-      "Tentative Answer": "D - There is no correct statement.",
-      "Tentative Explanation": "Tentative key marks option D. 'There is no correct statement.' is treated as the fact/concept that best fits this Indian Polity question; verify with UPSC's final key.",
-      "PDF Page": 31
+      "Previous Tentative Answer": "D - There is no correct statement.",
+      "UPSC Provisional Answer": "D - There is no correct statement.",
+      "Answer Status": "Confirmed by UPSC provisional key",
+      "Tentative Explanation": "UPSC provisional answer key, GS-I CSP Exam 2026, Series A, dated 27-05-2026 confirms option D. Tentative key marks option D. 'There is no correct statement.' is treated as the fact/concept that best fits this Indian Polity question; verify with UPSC's final key.",
+      "PDF Page": 31,
+      "Answer Source": "UPSC provisional answer key, GS-I CSP Exam 2026, Series A, dated 27-05-2026"
     },
     {
       "No": 60,
@@ -9275,9 +9771,12 @@ window.DASHBOARD_DATA = {
       "Option C": "2 and 3 only",
       "Option D": "1 only",
       "Tentative Subject": "Science & Technology",
-      "Tentative Answer": "A - 1, 2 and 3",
-      "Tentative Explanation": "Tentative key marks option A. This code is treated as the valid set of statements for the Science & Technology question; verify with UPSC's final key.",
-      "PDF Page": 31
+      "Previous Tentative Answer": "A - 1, 2 and 3",
+      "UPSC Provisional Answer": "A - 1, 2 and 3",
+      "Answer Status": "Confirmed by UPSC provisional key",
+      "Tentative Explanation": "UPSC provisional answer key, GS-I CSP Exam 2026, Series A, dated 27-05-2026 confirms option A. Tentative key marks option A. This code is treated as the valid set of statements for the Science & Technology question; verify with UPSC's final key.",
+      "PDF Page": 31,
+      "Answer Source": "UPSC provisional answer key, GS-I CSP Exam 2026, Series A, dated 27-05-2026"
     },
     {
       "No": 61,
@@ -9287,9 +9786,12 @@ window.DASHBOARD_DATA = {
       "Option C": "1 only",
       "Option D": "3 only",
       "Tentative Subject": "International Relations",
-      "Tentative Answer": "D - 3 only",
-      "Tentative Explanation": "Tentative key marks option D. This code is treated as the valid set of statements for the International Relations question; verify with UPSC's final key.",
-      "PDF Page": 33
+      "Previous Tentative Answer": "D - 3 only",
+      "UPSC Provisional Answer": "D - 3 only",
+      "Answer Status": "Confirmed by UPSC provisional key",
+      "Tentative Explanation": "UPSC provisional answer key, GS-I CSP Exam 2026, Series A, dated 27-05-2026 confirms option D. Tentative key marks option D. This code is treated as the valid set of statements for the International Relations question; verify with UPSC's final key.",
+      "PDF Page": 33,
+      "Answer Source": "UPSC provisional answer key, GS-I CSP Exam 2026, Series A, dated 27-05-2026"
     },
     {
       "No": 62,
@@ -9299,9 +9801,12 @@ window.DASHBOARD_DATA = {
       "Option C": "1 only",
       "Option D": "2 only",
       "Tentative Subject": "Indian Polity",
-      "Tentative Answer": "C - 1 only",
-      "Tentative Explanation": "Tentative key marks option C. This code is treated as the valid set of statements for the Indian Polity question; verify with UPSC's final key.",
-      "PDF Page": 33
+      "Previous Tentative Answer": "C - 1 only",
+      "UPSC Provisional Answer": "D - 2 only",
+      "Answer Status": "Changed from tentative key",
+      "Tentative Explanation": "UPSC provisional answer key, GS-I CSP Exam 2026, Series A, dated 27-05-2026 marks option D. This differs from the earlier tentative key C; the previous explanation requires manual review against the provisional key.",
+      "PDF Page": 33,
+      "Answer Source": "UPSC provisional answer key, GS-I CSP Exam 2026, Series A, dated 27-05-2026"
     },
     {
       "No": 63,
@@ -9311,9 +9816,12 @@ window.DASHBOARD_DATA = {
       "Option C": "3",
       "Option D": "None",
       "Tentative Subject": "Indian Polity",
-      "Tentative Answer": "A - 1",
-      "Tentative Explanation": "Tentative key marks option A. '1' is treated as the fact/concept that best fits this Indian Polity question; verify with UPSC's final key.",
-      "PDF Page": 33
+      "Previous Tentative Answer": "A - 1",
+      "UPSC Provisional Answer": "A - 1",
+      "Answer Status": "Confirmed by UPSC provisional key",
+      "Tentative Explanation": "UPSC provisional answer key, GS-I CSP Exam 2026, Series A, dated 27-05-2026 confirms option A. Tentative key marks option A. '1' is treated as the fact/concept that best fits this Indian Polity question; verify with UPSC's final key.",
+      "PDF Page": 33,
+      "Answer Source": "UPSC provisional answer key, GS-I CSP Exam 2026, Series A, dated 27-05-2026"
     },
     {
       "No": 64,
@@ -9323,9 +9831,12 @@ window.DASHBOARD_DATA = {
       "Option C": "3 and 4 only",
       "Option D": "3, 4 and 5",
       "Tentative Subject": "International Relations",
-      "Tentative Answer": "D - 3, 4 and 5",
-      "Tentative Explanation": "Tentative key marks option D. This code is treated as the valid set of statements for the International Relations question; verify with UPSC's final key.",
-      "PDF Page": 35
+      "Previous Tentative Answer": "D - 3, 4 and 5",
+      "UPSC Provisional Answer": "X - Dropped by UPSC provisional key",
+      "Answer Status": "Dropped by UPSC",
+      "Tentative Explanation": "UPSC provisional answer key, GS-I CSP Exam 2026, Series A, dated 27-05-2026 marks this question as X / dropped. Exclude it from scoring. Earlier tentative key was D; previous explanation should be disregarded for scoring.",
+      "PDF Page": 35,
+      "Answer Source": "UPSC provisional answer key, GS-I CSP Exam 2026, Series A, dated 27-05-2026"
     },
     {
       "No": 65,
@@ -9335,9 +9846,12 @@ window.DASHBOARD_DATA = {
       "Option C": "2 and 3 only",
       "Option D": "3 only",
       "Tentative Subject": "Science & Technology",
-      "Tentative Answer": "D - 3 only",
-      "Tentative Explanation": "Tentative key marks option D. This code is treated as the valid set of statements for the Science & Technology question; verify with UPSC's final key.",
-      "PDF Page": 35
+      "Previous Tentative Answer": "D - 3 only",
+      "UPSC Provisional Answer": "D - 3 only",
+      "Answer Status": "Confirmed by UPSC provisional key",
+      "Tentative Explanation": "UPSC provisional answer key, GS-I CSP Exam 2026, Series A, dated 27-05-2026 confirms option D. Tentative key marks option D. This code is treated as the valid set of statements for the Science & Technology question; verify with UPSC's final key.",
+      "PDF Page": 35,
+      "Answer Source": "UPSC provisional answer key, GS-I CSP Exam 2026, Series A, dated 27-05-2026"
     },
     {
       "No": 66,
@@ -9347,9 +9861,12 @@ window.DASHBOARD_DATA = {
       "Option C": "1 and 3",
       "Option D": "2 only",
       "Tentative Subject": "International Relations",
-      "Tentative Answer": "A - 1 and 2",
-      "Tentative Explanation": "Tentative key marks option A. This code is treated as the valid set of statements for the International Relations question; verify with UPSC's final key.",
-      "PDF Page": 35
+      "Previous Tentative Answer": "A - 1 and 2",
+      "UPSC Provisional Answer": "A - 1 and 2",
+      "Answer Status": "Confirmed by UPSC provisional key",
+      "Tentative Explanation": "UPSC provisional answer key, GS-I CSP Exam 2026, Series A, dated 27-05-2026 confirms option A. Tentative key marks option A. This code is treated as the valid set of statements for the International Relations question; verify with UPSC's final key.",
+      "PDF Page": 35,
+      "Answer Source": "UPSC provisional answer key, GS-I CSP Exam 2026, Series A, dated 27-05-2026"
     },
     {
       "No": 67,
@@ -9359,9 +9876,12 @@ window.DASHBOARD_DATA = {
       "Option C": "3 4 2 1",
       "Option D": "1 2 4 3",
       "Tentative Subject": "International Relations",
-      "Tentative Answer": "B - A: 3, B: 2, C: 4, D: 1",
-      "Tentative Explanation": "Tentative key marks option B. This code is treated as the valid set of statements for the International Relations question; verify with UPSC's final key.",
-      "PDF Page": 35
+      "Previous Tentative Answer": "B - A: 3, B: 2, C: 4, D: 1",
+      "UPSC Provisional Answer": "B - 3 2 4 1",
+      "Answer Status": "Confirmed by UPSC provisional key",
+      "Tentative Explanation": "UPSC provisional answer key, GS-I CSP Exam 2026, Series A, dated 27-05-2026 confirms option B. Tentative key marks option B. This code is treated as the valid set of statements for the International Relations question; verify with UPSC's final key.",
+      "PDF Page": 35,
+      "Answer Source": "UPSC provisional answer key, GS-I CSP Exam 2026, Series A, dated 27-05-2026"
     },
     {
       "No": 68,
@@ -9371,9 +9891,12 @@ window.DASHBOARD_DATA = {
       "Option C": "1 only",
       "Option D": "2 only",
       "Tentative Subject": "Science & Technology",
-      "Tentative Answer": "A - 1 and 2",
-      "Tentative Explanation": "Tentative key marks option A. This code is treated as the valid set of statements for the Science & Technology question; verify with UPSC's final key.",
-      "PDF Page": 37
+      "Previous Tentative Answer": "A - 1 and 2",
+      "UPSC Provisional Answer": "A - 1 and 2",
+      "Answer Status": "Confirmed by UPSC provisional key",
+      "Tentative Explanation": "UPSC provisional answer key, GS-I CSP Exam 2026, Series A, dated 27-05-2026 confirms option A. Tentative key marks option A. This code is treated as the valid set of statements for the Science & Technology question; verify with UPSC's final key.",
+      "PDF Page": 37,
+      "Answer Source": "UPSC provisional answer key, GS-I CSP Exam 2026, Series A, dated 27-05-2026"
     },
     {
       "No": 69,
@@ -9383,9 +9906,12 @@ window.DASHBOARD_DATA = {
       "Option C": "2 and 3 only",
       "Option D": "2 only",
       "Tentative Subject": "International Relations",
-      "Tentative Answer": "C - 2 and 3 only",
-      "Tentative Explanation": "Tentative key marks option C. This code is treated as the valid set of statements for the International Relations question; verify with UPSC's final key.",
-      "PDF Page": 37
+      "Previous Tentative Answer": "C - 2 and 3 only",
+      "UPSC Provisional Answer": "C - 2 and 3 only",
+      "Answer Status": "Confirmed by UPSC provisional key",
+      "Tentative Explanation": "UPSC provisional answer key, GS-I CSP Exam 2026, Series A, dated 27-05-2026 confirms option C. Tentative key marks option C. This code is treated as the valid set of statements for the International Relations question; verify with UPSC's final key.",
+      "PDF Page": 37,
+      "Answer Source": "UPSC provisional answer key, GS-I CSP Exam 2026, Series A, dated 27-05-2026"
     },
     {
       "No": 70,
@@ -9395,9 +9921,12 @@ window.DASHBOARD_DATA = {
       "Option C": "3",
       "Option D": "4",
       "Tentative Subject": "International Relations",
-      "Tentative Answer": "A - 1",
-      "Tentative Explanation": "Tentative key marks option A. '1' is treated as the fact/concept that best fits this International Relations question; verify with UPSC's final key.",
-      "PDF Page": 37
+      "Previous Tentative Answer": "A - 1",
+      "UPSC Provisional Answer": "A - 1",
+      "Answer Status": "Confirmed by UPSC provisional key",
+      "Tentative Explanation": "UPSC provisional answer key, GS-I CSP Exam 2026, Series A, dated 27-05-2026 confirms option A. Tentative key marks option A. '1' is treated as the fact/concept that best fits this International Relations question; verify with UPSC's final key.",
+      "PDF Page": 37,
+      "Answer Source": "UPSC provisional answer key, GS-I CSP Exam 2026, Series A, dated 27-05-2026"
     },
     {
       "No": 71,
@@ -9407,9 +9936,12 @@ window.DASHBOARD_DATA = {
       "Option C": "2 1 4 3",
       "Option D": "2 4 1 3",
       "Tentative Subject": "International Relations",
-      "Tentative Answer": "B - A: 3, B: 1, C: 4 , D: 2",
-      "Tentative Explanation": "Tentative key marks option B. This code is treated as the valid set of statements for the International Relations question; verify with UPSC's final key.",
-      "PDF Page": 37
+      "Previous Tentative Answer": "B - A: 3, B: 1, C: 4 , D: 2",
+      "UPSC Provisional Answer": "B - 3 1 4 2",
+      "Answer Status": "Confirmed by UPSC provisional key",
+      "Tentative Explanation": "UPSC provisional answer key, GS-I CSP Exam 2026, Series A, dated 27-05-2026 confirms option B. Tentative key marks option B. This code is treated as the valid set of statements for the International Relations question; verify with UPSC's final key.",
+      "PDF Page": 37,
+      "Answer Source": "UPSC provisional answer key, GS-I CSP Exam 2026, Series A, dated 27-05-2026"
     },
     {
       "No": 72,
@@ -9419,9 +9951,12 @@ window.DASHBOARD_DATA = {
       "Option C": "4 2 1 3",
       "Option D": "4 1 2 3",
       "Tentative Subject": "International Relations",
-      "Tentative Answer": "C - A: 4, B: 2, C: 1, D: 3",
-      "Tentative Explanation": "Tentative key marks option C. This code is treated as the valid set of statements for the International Relations question; verify with UPSC's final key.",
-      "PDF Page": 39
+      "Previous Tentative Answer": "C - A: 4, B: 2, C: 1, D: 3",
+      "UPSC Provisional Answer": "C - 4 2 1 3",
+      "Answer Status": "Confirmed by UPSC provisional key",
+      "Tentative Explanation": "UPSC provisional answer key, GS-I CSP Exam 2026, Series A, dated 27-05-2026 confirms option C. Tentative key marks option C. This code is treated as the valid set of statements for the International Relations question; verify with UPSC's final key.",
+      "PDF Page": 39,
+      "Answer Source": "UPSC provisional answer key, GS-I CSP Exam 2026, Series A, dated 27-05-2026"
     },
     {
       "No": 73,
@@ -9431,9 +9966,12 @@ window.DASHBOARD_DATA = {
       "Option C": "14 Corps Leh",
       "Option D": "33 Corps Srinagar",
       "Tentative Subject": "Science & Technology",
-      "Tentative Answer": "D - 33 Corps : Srinagar",
-      "Tentative Explanation": "Tentative key marks option D. '33 Corps : Srinagar' is treated as the fact/concept that best fits this Science & Technology question; verify with UPSC's final key.",
-      "PDF Page": 39
+      "Previous Tentative Answer": "D - 33 Corps : Srinagar",
+      "UPSC Provisional Answer": "D - 33 Corps Srinagar",
+      "Answer Status": "Confirmed by UPSC provisional key",
+      "Tentative Explanation": "UPSC provisional answer key, GS-I CSP Exam 2026, Series A, dated 27-05-2026 confirms option D. Tentative key marks option D. '33 Corps : Srinagar' is treated as the fact/concept that best fits this Science & Technology question; verify with UPSC's final key.",
+      "PDF Page": 39,
+      "Answer Source": "UPSC provisional answer key, GS-I CSP Exam 2026, Series A, dated 27-05-2026"
     },
     {
       "No": 74,
@@ -9443,9 +9981,12 @@ window.DASHBOARD_DATA = {
       "Option C": "1 and 3",
       "Option D": "2 and 3",
       "Tentative Subject": "Social Issues & Schemes",
-      "Tentative Answer": "B - 2 only",
-      "Tentative Explanation": "Tentative key marks option B. This code is treated as the valid set of statements for the Social Issues & Schemes question; verify with UPSC's final key.",
-      "PDF Page": 39
+      "Previous Tentative Answer": "B - 2 only",
+      "UPSC Provisional Answer": "B - 2 only",
+      "Answer Status": "Confirmed by UPSC provisional key",
+      "Tentative Explanation": "UPSC provisional answer key, GS-I CSP Exam 2026, Series A, dated 27-05-2026 confirms option B. Tentative key marks option B. This code is treated as the valid set of statements for the Social Issues & Schemes question; verify with UPSC's final key.",
+      "PDF Page": 39,
+      "Answer Source": "UPSC provisional answer key, GS-I CSP Exam 2026, Series A, dated 27-05-2026"
     },
     {
       "No": 75,
@@ -9455,9 +9996,12 @@ window.DASHBOARD_DATA = {
       "Option C": "2 and 3",
       "Option D": "2 and 4 only",
       "Tentative Subject": "International Relations",
-      "Tentative Answer": "C - 2 and 3",
-      "Tentative Explanation": "Tentative key marks option C. This code is treated as the valid set of statements for the International Relations question; verify with UPSC's final key.",
-      "PDF Page": 39
+      "Previous Tentative Answer": "C - 2 and 3",
+      "UPSC Provisional Answer": "C - 2 and 3",
+      "Answer Status": "Confirmed by UPSC provisional key",
+      "Tentative Explanation": "UPSC provisional answer key, GS-I CSP Exam 2026, Series A, dated 27-05-2026 confirms option C. Tentative key marks option C. This code is treated as the valid set of statements for the International Relations question; verify with UPSC's final key.",
+      "PDF Page": 39,
+      "Answer Source": "UPSC provisional answer key, GS-I CSP Exam 2026, Series A, dated 27-05-2026"
     },
     {
       "No": 76,
@@ -9467,9 +10011,12 @@ window.DASHBOARD_DATA = {
       "Option C": "4 2 1 3",
       "Option D": "4 1 2 3",
       "Tentative Subject": "International Relations",
-      "Tentative Answer": "C - A: 4, B: 2, C: 1, D: 3",
-      "Tentative Explanation": "Tentative key marks option C. This code is treated as the valid set of statements for the International Relations question; verify with UPSC's final key.",
-      "PDF Page": 41
+      "Previous Tentative Answer": "C - A: 4, B: 2, C: 1, D: 3",
+      "UPSC Provisional Answer": "C - 4 2 1 3",
+      "Answer Status": "Confirmed by UPSC provisional key",
+      "Tentative Explanation": "UPSC provisional answer key, GS-I CSP Exam 2026, Series A, dated 27-05-2026 confirms option C. Tentative key marks option C. This code is treated as the valid set of statements for the International Relations question; verify with UPSC's final key.",
+      "PDF Page": 41,
+      "Answer Source": "UPSC provisional answer key, GS-I CSP Exam 2026, Series A, dated 27-05-2026"
     },
     {
       "No": 77,
@@ -9479,9 +10026,12 @@ window.DASHBOARD_DATA = {
       "Option C": "2 only",
       "Option D": "3 only",
       "Tentative Subject": "Environment & Ecology",
-      "Tentative Answer": "B - 1 and 3 only",
-      "Tentative Explanation": "Tentative key marks option B. This code is treated as the valid set of statements for the Environment & Ecology question; verify with UPSC's final key.",
-      "PDF Page": 41
+      "Previous Tentative Answer": "B - 1 and 3 only",
+      "UPSC Provisional Answer": "B - 1 and 3 only",
+      "Answer Status": "Confirmed by UPSC provisional key",
+      "Tentative Explanation": "UPSC provisional answer key, GS-I CSP Exam 2026, Series A, dated 27-05-2026 confirms option B. Tentative key marks option B. This code is treated as the valid set of statements for the Environment & Ecology question; verify with UPSC's final key.",
+      "PDF Page": 41,
+      "Answer Source": "UPSC provisional answer key, GS-I CSP Exam 2026, Series A, dated 27-05-2026"
     },
     {
       "No": 78,
@@ -9491,9 +10041,12 @@ window.DASHBOARD_DATA = {
       "Option C": "3 and 4",
       "Option D": "1 only",
       "Tentative Subject": "International Relations",
-      "Tentative Answer": "B - 1 and 4",
-      "Tentative Explanation": "Tentative key marks option B. This code is treated as the valid set of statements for the International Relations question; verify with UPSC's final key.",
-      "PDF Page": 43
+      "Previous Tentative Answer": "B - 1 and 4",
+      "UPSC Provisional Answer": "B - 1 and 4",
+      "Answer Status": "Confirmed by UPSC provisional key",
+      "Tentative Explanation": "UPSC provisional answer key, GS-I CSP Exam 2026, Series A, dated 27-05-2026 confirms option B. Tentative key marks option B. This code is treated as the valid set of statements for the International Relations question; verify with UPSC's final key.",
+      "PDF Page": 43,
+      "Answer Source": "UPSC provisional answer key, GS-I CSP Exam 2026, Series A, dated 27-05-2026"
     },
     {
       "No": 79,
@@ -9503,9 +10056,12 @@ window.DASHBOARD_DATA = {
       "Option C": "Both 1 and 2",
       "Option D": "Neither 1 nor 2",
       "Tentative Subject": "Science & Technology",
-      "Tentative Answer": "C - Both 1 and 2",
-      "Tentative Explanation": "Tentative key marks option C. This code is treated as the valid set of statements for the Science & Technology question; verify with UPSC's final key.",
-      "PDF Page": 43
+      "Previous Tentative Answer": "C - Both 1 and 2",
+      "UPSC Provisional Answer": "C - Both 1 and 2",
+      "Answer Status": "Confirmed by UPSC provisional key",
+      "Tentative Explanation": "UPSC provisional answer key, GS-I CSP Exam 2026, Series A, dated 27-05-2026 confirms option C. Tentative key marks option C. This code is treated as the valid set of statements for the Science & Technology question; verify with UPSC's final key.",
+      "PDF Page": 43,
+      "Answer Source": "UPSC provisional answer key, GS-I CSP Exam 2026, Series A, dated 27-05-2026"
     },
     {
       "No": 80,
@@ -9515,9 +10071,12 @@ window.DASHBOARD_DATA = {
       "Option C": "1 and 2 only",
       "Option D": "1 only",
       "Tentative Subject": "Science & Technology",
-      "Tentative Answer": "C - 1 and 2 only",
-      "Tentative Explanation": "Tentative key marks option C. This code is treated as the valid set of statements for the Science & Technology question; verify with UPSC's final key.",
-      "PDF Page": 43
+      "Previous Tentative Answer": "C - 1 and 2 only",
+      "UPSC Provisional Answer": "C - 1 and 2 only",
+      "Answer Status": "Confirmed by UPSC provisional key",
+      "Tentative Explanation": "UPSC provisional answer key, GS-I CSP Exam 2026, Series A, dated 27-05-2026 confirms option C. Tentative key marks option C. This code is treated as the valid set of statements for the Science & Technology question; verify with UPSC's final key.",
+      "PDF Page": 43,
+      "Answer Source": "UPSC provisional answer key, GS-I CSP Exam 2026, Series A, dated 27-05-2026"
     },
     {
       "No": 81,
@@ -9527,9 +10086,12 @@ window.DASHBOARD_DATA = {
       "Option C": "John Clarke",
       "Option D": "Joel Mokyr",
       "Tentative Subject": "Science & Technology",
-      "Tentative Answer": "C - John Clarke",
-      "Tentative Explanation": "Tentative key marks option C. 'John Clarke' is treated as the fact/concept that best fits this Science & Technology question; verify with UPSC's final key.",
-      "PDF Page": 43
+      "Previous Tentative Answer": "C - John Clarke",
+      "UPSC Provisional Answer": "C - John Clarke",
+      "Answer Status": "Confirmed by UPSC provisional key",
+      "Tentative Explanation": "UPSC provisional answer key, GS-I CSP Exam 2026, Series A, dated 27-05-2026 confirms option C. Tentative key marks option C. 'John Clarke' is treated as the fact/concept that best fits this Science & Technology question; verify with UPSC's final key.",
+      "PDF Page": 43,
+      "Answer Source": "UPSC provisional answer key, GS-I CSP Exam 2026, Series A, dated 27-05-2026"
     },
     {
       "No": 82,
@@ -9539,9 +10101,12 @@ window.DASHBOARD_DATA = {
       "Option C": "1 only",
       "Option D": "1, 2 and 3",
       "Tentative Subject": "International Relations",
-      "Tentative Answer": "C - 1 only",
-      "Tentative Explanation": "Tentative key marks option C. This code is treated as the valid set of statements for the International Relations question; verify with UPSC's final key.",
-      "PDF Page": 45
+      "Previous Tentative Answer": "C - 1 only",
+      "UPSC Provisional Answer": "A - 1 and 2 only",
+      "Answer Status": "Changed from tentative key",
+      "Tentative Explanation": "UPSC provisional answer key, GS-I CSP Exam 2026, Series A, dated 27-05-2026 marks option A. This differs from the earlier tentative key C; the previous explanation requires manual review against the provisional key.",
+      "PDF Page": 45,
+      "Answer Source": "UPSC provisional answer key, GS-I CSP Exam 2026, Series A, dated 27-05-2026"
     },
     {
       "No": 83,
@@ -9551,9 +10116,12 @@ window.DASHBOARD_DATA = {
       "Option C": "HCL-Foxconn Joint Madhya Venture India Chip Ltd. Pradesh",
       "Option D": "SicSem Pvt. Ltd. Odisha",
       "Tentative Subject": "Science & Technology",
-      "Tentative Answer": "C - HCL-Foxconn Joint Venture India Chip Ltd. : Madhya Pradesh",
-      "Tentative Explanation": "Tentative key marks option C. 'HCL-Foxconn Joint Venture India Chip Ltd. : Madhya Pradesh' is treated as the fact/concept that best fits this Science & Technology question; verify with UPSC's final key.",
-      "PDF Page": 45
+      "Previous Tentative Answer": "C - HCL-Foxconn Joint Venture India Chip Ltd. : Madhya Pradesh",
+      "UPSC Provisional Answer": "C - HCL-Foxconn Joint Madhya Venture India Chip Ltd. Pradesh",
+      "Answer Status": "Confirmed by UPSC provisional key",
+      "Tentative Explanation": "UPSC provisional answer key, GS-I CSP Exam 2026, Series A, dated 27-05-2026 confirms option C. Tentative key marks option C. 'HCL-Foxconn Joint Venture India Chip Ltd. : Madhya Pradesh' is treated as the fact/concept that best fits this Science & Technology question; verify with UPSC's final key.",
+      "PDF Page": 45,
+      "Answer Source": "UPSC provisional answer key, GS-I CSP Exam 2026, Series A, dated 27-05-2026"
     },
     {
       "No": 84,
@@ -9563,9 +10131,12 @@ window.DASHBOARD_DATA = {
       "Option C": "Both 1 and 2",
       "Option D": "Neither 1 nor 2",
       "Tentative Subject": "Science & Technology",
-      "Tentative Answer": "A - 1 only",
-      "Tentative Explanation": "Tentative key marks option A. This code is treated as the valid set of statements for the Science & Technology question; verify with UPSC's final key.",
-      "PDF Page": 45
+      "Previous Tentative Answer": "A - 1 only",
+      "UPSC Provisional Answer": "A - 1 only",
+      "Answer Status": "Confirmed by UPSC provisional key",
+      "Tentative Explanation": "UPSC provisional answer key, GS-I CSP Exam 2026, Series A, dated 27-05-2026 confirms option A. Tentative key marks option A. This code is treated as the valid set of statements for the Science & Technology question; verify with UPSC's final key.",
+      "PDF Page": 45,
+      "Answer Source": "UPSC provisional answer key, GS-I CSP Exam 2026, Series A, dated 27-05-2026"
     },
     {
       "No": 85,
@@ -9575,9 +10146,12 @@ window.DASHBOARD_DATA = {
       "Option C": "1 and 2 only",
       "Option D": "3 only",
       "Tentative Subject": "Art & Culture",
-      "Tentative Answer": "A - 1, 2 and 3",
-      "Tentative Explanation": "Tentative key marks option A. This code is treated as the valid set of statements for the Art & Culture question; verify with UPSC's final key.",
-      "PDF Page": 45
+      "Previous Tentative Answer": "A - 1, 2 and 3",
+      "UPSC Provisional Answer": "A - 1, 2 and 3",
+      "Answer Status": "Confirmed by UPSC provisional key",
+      "Tentative Explanation": "UPSC provisional answer key, GS-I CSP Exam 2026, Series A, dated 27-05-2026 confirms option A. Tentative key marks option A. This code is treated as the valid set of statements for the Art & Culture question; verify with UPSC's final key.",
+      "PDF Page": 45,
+      "Answer Source": "UPSC provisional answer key, GS-I CSP Exam 2026, Series A, dated 27-05-2026"
     },
     {
       "No": 86,
@@ -9587,9 +10161,12 @@ window.DASHBOARD_DATA = {
       "Option C": "1, 2 and 4",
       "Option D": "1 and 4 only",
       "Tentative Subject": "Science & Technology",
-      "Tentative Answer": "C - 1, 2 and 4",
-      "Tentative Explanation": "Tentative key marks option C. This code is treated as the valid set of statements for the Science & Technology question; verify with UPSC's final key.",
-      "PDF Page": 47
+      "Previous Tentative Answer": "C - 1, 2 and 4",
+      "UPSC Provisional Answer": "C - 1, 2 and 4",
+      "Answer Status": "Confirmed by UPSC provisional key",
+      "Tentative Explanation": "UPSC provisional answer key, GS-I CSP Exam 2026, Series A, dated 27-05-2026 confirms option C. Tentative key marks option C. This code is treated as the valid set of statements for the Science & Technology question; verify with UPSC's final key.",
+      "PDF Page": 47,
+      "Answer Source": "UPSC provisional answer key, GS-I CSP Exam 2026, Series A, dated 27-05-2026"
     },
     {
       "No": 87,
@@ -9599,9 +10176,12 @@ window.DASHBOARD_DATA = {
       "Option C": "Transaction Fee Revenue Model",
       "Option D": "Agency Revenue Model",
       "Tentative Subject": "Economy",
-      "Tentative Answer": "A - Dropshipping Model",
-      "Tentative Explanation": "Tentative key marks option A. 'Dropshipping Model' is treated as the fact/concept that best fits this Economy question; verify with UPSC's final key.",
-      "PDF Page": 47
+      "Previous Tentative Answer": "A - Dropshipping Model",
+      "UPSC Provisional Answer": "A - Dropshipping Model",
+      "Answer Status": "Confirmed by UPSC provisional key",
+      "Tentative Explanation": "UPSC provisional answer key, GS-I CSP Exam 2026, Series A, dated 27-05-2026 confirms option A. Tentative key marks option A. 'Dropshipping Model' is treated as the fact/concept that best fits this Economy question; verify with UPSC's final key.",
+      "PDF Page": 47,
+      "Answer Source": "UPSC provisional answer key, GS-I CSP Exam 2026, Series A, dated 27-05-2026"
     },
     {
       "No": 88,
@@ -9611,9 +10191,12 @@ window.DASHBOARD_DATA = {
       "Option C": "Access, Usage, and Quality",
       "Option D": "Access, Affordability, and Transparency",
       "Tentative Subject": "Economy",
-      "Tentative Answer": "C - Access, Usage, and Quality",
-      "Tentative Explanation": "Tentative key marks option C. This code is treated as the valid set of statements for the Economy question; verify with UPSC's final key.",
-      "PDF Page": 47
+      "Previous Tentative Answer": "C - Access, Usage, and Quality",
+      "UPSC Provisional Answer": "C - Access, Usage, and Quality",
+      "Answer Status": "Confirmed by UPSC provisional key",
+      "Tentative Explanation": "UPSC provisional answer key, GS-I CSP Exam 2026, Series A, dated 27-05-2026 confirms option C. Tentative key marks option C. This code is treated as the valid set of statements for the Economy question; verify with UPSC's final key.",
+      "PDF Page": 47,
+      "Answer Source": "UPSC provisional answer key, GS-I CSP Exam 2026, Series A, dated 27-05-2026"
     },
     {
       "No": 89,
@@ -9623,9 +10206,12 @@ window.DASHBOARD_DATA = {
       "Option C": "To break the dominance of large e-commerce platforms by enabling interoperability across networks",
       "Option D": "To mandate UPI-based payments for all online transactions",
       "Tentative Subject": "Economy",
-      "Tentative Answer": "C - To break the dominance of large e-commerce platforms by enabling interoperability across networks",
-      "Tentative Explanation": "Tentative key marks option C. 'To break the dominance of large e-commerce platforms by enabling interoperability across networks' is treated as the fact/concept that best fits this Economy question; verify with UPSC's final key.",
-      "PDF Page": 47
+      "Previous Tentative Answer": "C - To break the dominance of large e-commerce platforms by enabling interoperability across networks",
+      "UPSC Provisional Answer": "C - To break the dominance of large e-commerce platforms by enabling interoperability across networks",
+      "Answer Status": "Confirmed by UPSC provisional key",
+      "Tentative Explanation": "UPSC provisional answer key, GS-I CSP Exam 2026, Series A, dated 27-05-2026 confirms option C. Tentative key marks option C. 'To break the dominance of large e-commerce platforms by enabling interoperability across networks' is treated as the fact/concept that best fits this Economy question; verify with UPSC's final key.",
+      "PDF Page": 47,
+      "Answer Source": "UPSC provisional answer key, GS-I CSP Exam 2026, Series A, dated 27-05-2026"
     },
     {
       "No": 90,
@@ -9635,9 +10221,12 @@ window.DASHBOARD_DATA = {
       "Option C": "UPI transactions are recorded by banks and reflected in bank statements but in case of Digital Rupee, no data is captured in bank statements as transactions are from one wallet to another.",
       "Option D": "In both the cases (UPI and Digital Rupee), the liability lies with the users and their respective banks.",
       "Tentative Subject": "Economy",
-      "Tentative Answer": "D - In both the cases (UPI and Digital Rupee), the liability lies with the users and their respective banks.",
-      "Tentative Explanation": "Tentative key marks option D. This code is treated as the valid set of statements for the Economy question; verify with UPSC's final key.",
-      "PDF Page": 47
+      "Previous Tentative Answer": "D - In both the cases (UPI and Digital Rupee), the liability lies with the users and their respective banks.",
+      "UPSC Provisional Answer": "D - In both the cases (UPI and Digital Rupee), the liability lies with the users and their respective banks.",
+      "Answer Status": "Confirmed by UPSC provisional key",
+      "Tentative Explanation": "UPSC provisional answer key, GS-I CSP Exam 2026, Series A, dated 27-05-2026 confirms option D. Tentative key marks option D. This code is treated as the valid set of statements for the Economy question; verify with UPSC's final key.",
+      "PDF Page": 47,
+      "Answer Source": "UPSC provisional answer key, GS-I CSP Exam 2026, Series A, dated 27-05-2026"
     },
     {
       "No": 91,
@@ -9647,9 +10236,12 @@ window.DASHBOARD_DATA = {
       "Option C": "1 and 2 only",
       "Option D": "1 and 3 only",
       "Tentative Subject": "Economy",
-      "Tentative Answer": "A - 1, 2 and 3",
-      "Tentative Explanation": "Tentative key marks option A. This code is treated as the valid set of statements for the Economy question; verify with UPSC's final key.",
-      "PDF Page": 47
+      "Previous Tentative Answer": "A - 1, 2 and 3",
+      "UPSC Provisional Answer": "A - 1, 2 and 3",
+      "Answer Status": "Confirmed by UPSC provisional key",
+      "Tentative Explanation": "UPSC provisional answer key, GS-I CSP Exam 2026, Series A, dated 27-05-2026 confirms option A. Tentative key marks option A. This code is treated as the valid set of statements for the Economy question; verify with UPSC's final key.",
+      "PDF Page": 47,
+      "Answer Source": "UPSC provisional answer key, GS-I CSP Exam 2026, Series A, dated 27-05-2026"
     },
     {
       "No": 92,
@@ -9659,9 +10251,12 @@ window.DASHBOARD_DATA = {
       "Option C": "Sustainability Bond",
       "Option D": "Sovereign Bond",
       "Tentative Subject": "Economy",
-      "Tentative Answer": "C - Sustainability Bond",
-      "Tentative Explanation": "Tentative key marks option C. 'Sustainability Bond' is treated as the fact/concept that best fits this Economy question; verify with UPSC's final key.",
-      "PDF Page": 49
+      "Previous Tentative Answer": "C - Sustainability Bond",
+      "UPSC Provisional Answer": "C - Sustainability Bond",
+      "Answer Status": "Confirmed by UPSC provisional key",
+      "Tentative Explanation": "UPSC provisional answer key, GS-I CSP Exam 2026, Series A, dated 27-05-2026 confirms option C. Tentative key marks option C. 'Sustainability Bond' is treated as the fact/concept that best fits this Economy question; verify with UPSC's final key.",
+      "PDF Page": 49,
+      "Answer Source": "UPSC provisional answer key, GS-I CSP Exam 2026, Series A, dated 27-05-2026"
     },
     {
       "No": 93,
@@ -9671,9 +10266,12 @@ window.DASHBOARD_DATA = {
       "Option C": "2 and 3 only",
       "Option D": "1 only",
       "Tentative Subject": "Economy",
-      "Tentative Answer": "B - 2 only",
-      "Tentative Explanation": "Tentative key marks option B. This code is treated as the valid set of statements for the Economy question; verify with UPSC's final key.",
-      "PDF Page": 49
+      "Previous Tentative Answer": "B - 2 only",
+      "UPSC Provisional Answer": "B - 2 only",
+      "Answer Status": "Confirmed by UPSC provisional key",
+      "Tentative Explanation": "UPSC provisional answer key, GS-I CSP Exam 2026, Series A, dated 27-05-2026 confirms option B. Tentative key marks option B. This code is treated as the valid set of statements for the Economy question; verify with UPSC's final key.",
+      "PDF Page": 49,
+      "Answer Source": "UPSC provisional answer key, GS-I CSP Exam 2026, Series A, dated 27-05-2026"
     },
     {
       "No": 94,
@@ -9683,9 +10281,12 @@ window.DASHBOARD_DATA = {
       "Option C": "A situation where an increase in taxes leads to increased private sector investment",
       "Option D": "A situation where Government spending has no impact on aggregate demand",
       "Tentative Subject": "Economy",
-      "Tentative Answer": "B - A situation where Government borrowing leads to higher interest rates, which reduces private investment",
-      "Tentative Explanation": "Tentative key marks option B. This code is treated as the valid set of statements for the Economy question; verify with UPSC's final key.",
-      "PDF Page": 49
+      "Previous Tentative Answer": "B - A situation where Government borrowing leads to higher interest rates, which reduces private investment",
+      "UPSC Provisional Answer": "B - A situation where Government borrowing leads to higher interest rates, which reduces private investment",
+      "Answer Status": "Confirmed by UPSC provisional key",
+      "Tentative Explanation": "UPSC provisional answer key, GS-I CSP Exam 2026, Series A, dated 27-05-2026 confirms option B. Tentative key marks option B. This code is treated as the valid set of statements for the Economy question; verify with UPSC's final key.",
+      "PDF Page": 49,
+      "Answer Source": "UPSC provisional answer key, GS-I CSP Exam 2026, Series A, dated 27-05-2026"
     },
     {
       "No": 95,
@@ -9695,9 +10296,12 @@ window.DASHBOARD_DATA = {
       "Option C": "1, 3 and 4",
       "Option D": "1, 2 and 4",
       "Tentative Subject": "World Geography",
-      "Tentative Answer": "A - 1 and 3 only",
-      "Tentative Explanation": "Tentative key marks option A. This code is treated as the valid set of statements for the World Geography question; verify with UPSC's final key.",
-      "PDF Page": 49
+      "Previous Tentative Answer": "A - 1 and 3 only",
+      "UPSC Provisional Answer": "A - 1 and 3 only",
+      "Answer Status": "Confirmed by UPSC provisional key",
+      "Tentative Explanation": "UPSC provisional answer key, GS-I CSP Exam 2026, Series A, dated 27-05-2026 confirms option A. Tentative key marks option A. This code is treated as the valid set of statements for the World Geography question; verify with UPSC's final key.",
+      "PDF Page": 49,
+      "Answer Source": "UPSC provisional answer key, GS-I CSP Exam 2026, Series A, dated 27-05-2026"
     },
     {
       "No": 96,
@@ -9707,9 +10311,12 @@ window.DASHBOARD_DATA = {
       "Option C": "Both 1 and 2",
       "Option D": "Neither 1 nor 2",
       "Tentative Subject": "Economy",
-      "Tentative Answer": "C - Both 1 and 2",
-      "Tentative Explanation": "Tentative key marks option C. This code is treated as the valid set of statements for the Economy question; verify with UPSC's final key.",
-      "PDF Page": 49
+      "Previous Tentative Answer": "C - Both 1 and 2",
+      "UPSC Provisional Answer": "C - Both 1 and 2",
+      "Answer Status": "Confirmed by UPSC provisional key",
+      "Tentative Explanation": "UPSC provisional answer key, GS-I CSP Exam 2026, Series A, dated 27-05-2026 confirms option C. Tentative key marks option C. This code is treated as the valid set of statements for the Economy question; verify with UPSC's final key.",
+      "PDF Page": 49,
+      "Answer Source": "UPSC provisional answer key, GS-I CSP Exam 2026, Series A, dated 27-05-2026"
     },
     {
       "No": 97,
@@ -9719,9 +10326,12 @@ window.DASHBOARD_DATA = {
       "Option C": "Both 1 and 2",
       "Option D": "Neither 1 nor 2",
       "Tentative Subject": "Economy",
-      "Tentative Answer": "C - Both 1 and 2",
-      "Tentative Explanation": "Tentative key marks option C. This code is treated as the valid set of statements for the Economy question; verify with UPSC's final key.",
-      "PDF Page": 51
+      "Previous Tentative Answer": "C - Both 1 and 2",
+      "UPSC Provisional Answer": "C - Both 1 and 2",
+      "Answer Status": "Confirmed by UPSC provisional key",
+      "Tentative Explanation": "UPSC provisional answer key, GS-I CSP Exam 2026, Series A, dated 27-05-2026 confirms option C. Tentative key marks option C. This code is treated as the valid set of statements for the Economy question; verify with UPSC's final key.",
+      "PDF Page": 51,
+      "Answer Source": "UPSC provisional answer key, GS-I CSP Exam 2026, Series A, dated 27-05-2026"
     },
     {
       "No": 98,
@@ -9731,9 +10341,12 @@ window.DASHBOARD_DATA = {
       "Option C": "1, 3 and 4",
       "Option D": "2 and 4",
       "Tentative Subject": "Economy",
-      "Tentative Answer": "D - 2 and 4",
-      "Tentative Explanation": "Tentative key marks option D. This code is treated as the valid set of statements for the Economy question; verify with UPSC's final key.",
-      "PDF Page": 51
+      "Previous Tentative Answer": "D - 2 and 4",
+      "UPSC Provisional Answer": "D - 2 and 4",
+      "Answer Status": "Confirmed by UPSC provisional key",
+      "Tentative Explanation": "UPSC provisional answer key, GS-I CSP Exam 2026, Series A, dated 27-05-2026 confirms option D. Tentative key marks option D. This code is treated as the valid set of statements for the Economy question; verify with UPSC's final key.",
+      "PDF Page": 51,
+      "Answer Source": "UPSC provisional answer key, GS-I CSP Exam 2026, Series A, dated 27-05-2026"
     },
     {
       "No": 99,
@@ -9743,9 +10356,12 @@ window.DASHBOARD_DATA = {
       "Option C": "4 only",
       "Option D": "2, 3 and 4",
       "Tentative Subject": "Economy",
-      "Tentative Answer": "A - 1 and 4",
-      "Tentative Explanation": "Tentative key marks option A. This code is treated as the valid set of statements for the Economy question; verify with UPSC's final key.",
-      "PDF Page": 51
+      "Previous Tentative Answer": "A - 1 and 4",
+      "UPSC Provisional Answer": "A - 1 and 4",
+      "Answer Status": "Confirmed by UPSC provisional key",
+      "Tentative Explanation": "UPSC provisional answer key, GS-I CSP Exam 2026, Series A, dated 27-05-2026 confirms option A. Tentative key marks option A. This code is treated as the valid set of statements for the Economy question; verify with UPSC's final key.",
+      "PDF Page": 51,
+      "Answer Source": "UPSC provisional answer key, GS-I CSP Exam 2026, Series A, dated 27-05-2026"
     },
     {
       "No": 100,
@@ -9755,26 +10371,29 @@ window.DASHBOARD_DATA = {
       "Option C": "1 and 3 only",
       "Option D": "2 only",
       "Tentative Subject": "Economy",
-      "Tentative Answer": "A - 1 and 2 only",
-      "Tentative Explanation": "Tentative key marks option A. This code is treated as the valid set of statements for the Economy question; verify with UPSC's final key.",
-      "PDF Page": 51
+      "Previous Tentative Answer": "A - 1 and 2 only",
+      "UPSC Provisional Answer": "A - 1 and 2 only",
+      "Answer Status": "Confirmed by UPSC provisional key",
+      "Tentative Explanation": "UPSC provisional answer key, GS-I CSP Exam 2026, Series A, dated 27-05-2026 confirms option A. Tentative key marks option A. This code is treated as the valid set of statements for the Economy question; verify with UPSC's final key.",
+      "PDF Page": 51,
+      "Answer Source": "UPSC provisional answer key, GS-I CSP Exam 2026, Series A, dated 27-05-2026"
     }
   ],
   "counts": {
     "historicalSubjects": {
-      "Indian Economy": 239,
-      "Indian Polity & Constitution": 177,
-      "Environment & Ecology": 273,
-      "Modern History": 108,
-      "Science & Technology": 125,
-      "Indian Geography": 98,
-      "International Relations": 90,
-      "Ancient History": 53,
-      "Art & Culture": 64,
-      "Physical Geography": 58,
-      "Governance": 53,
-      "World Geography": 48,
-      "Social Justice & Welfare": 36,
+      "Indian Economy": 255,
+      "Indian Polity & Constitution": 185,
+      "Environment & Ecology": 283,
+      "Modern History": 113,
+      "Science & Technology": 144,
+      "Indian Geography": 102,
+      "International Relations": 102,
+      "Ancient History": 60,
+      "Art & Culture": 73,
+      "Physical Geography": 60,
+      "Governance": 54,
+      "World Geography": 51,
+      "Social Justice & Welfare": 40,
       "Medieval History": 33,
       "General Science": 29,
       "Indian Society": 8,
@@ -9796,13 +10415,15 @@ window.DASHBOARD_DATA = {
       "2022": 100,
       "2023": 100,
       "2024": 100,
-      "2025": 100
+      "2025": 100,
+      "2026": 100
     },
     "difficulty": {
       "Unlabelled": 1481,
       "medium": 8,
       "easy": 3,
-      "difficult": 8
+      "difficult": 8,
+      "Provisional Key": 100
     },
     "confidence": {
       "Low": 56,
@@ -10852,9 +11473,12 @@ window.DASHBOARD_DATA = {
       "Prior Years Asked": null,
       "Mapping Confidence": "Low",
       "Mapping Score": 0.84,
-      "Tentative Answer": "D - Dheera Shankarabharanam",
+      "UPSC Provisional Answer": "D - Dheera Shankarabharanam",
       "Question": "Which one of the following Carnatic music ragas is similar to Raga Bilawal in Hindustani music ?",
-      "Tentative Explanation": "Tentative key marks option D. 'Dheera Shankarabharanam' is treated as the fact/concept that best fits this Art & Culture question; verify with UPSC's final key."
+      "Tentative Explanation": "UPSC provisional answer key, GS-I CSP Exam 2026, Series A, dated 27-05-2026 confirms option D. 'Dheera Shankarabharanam' is treated as the fact/concept that best fits this Art & Culture question; verify with UPSC's final key.",
+      "Previous Tentative Answer": "D - Dheera Shankarabharanam",
+      "Answer Status": "Confirmed by UPSC provisional key",
+      "Answer Source": "UPSC provisional answer key, GS-I CSP Exam 2026, Series A, dated 27-05-2026"
     },
     {
       "No": 2,
@@ -10868,9 +11492,12 @@ window.DASHBOARD_DATA = {
       "Prior Years Asked": null,
       "Mapping Confidence": "Low",
       "Mapping Score": 0.7,
-      "Tentative Answer": "A - Aiding the flow of remittances from India and maintaining India's creditworthiness",
+      "UPSC Provisional Answer": "A - Aiding the flow of remittances from India and maintaining India's creditworthiness",
       "Question": "The artificially fixed rupee-sterling exchange rate prescribed by the Hilton-Young Commission (1926) was adopted by the British Government for which one of the following reasons ?",
-      "Tentative Explanation": "Tentative key marks option A. This code is treated as the valid set of statements for the Modern History question; verify with UPSC's final key."
+      "Tentative Explanation": "UPSC provisional answer key, GS-I CSP Exam 2026, Series A, dated 27-05-2026 confirms option A. This code is treated as the valid set of statements for the Modern History question; verify with UPSC's final key.",
+      "Previous Tentative Answer": "A - Aiding the flow of remittances from India and maintaining India's creditworthiness",
+      "Answer Status": "Confirmed by UPSC provisional key",
+      "Answer Source": "UPSC provisional answer key, GS-I CSP Exam 2026, Series A, dated 27-05-2026"
     },
     {
       "No": 3,
@@ -10884,9 +11511,12 @@ window.DASHBOARD_DATA = {
       "Prior Years Asked": "2024",
       "Mapping Confidence": "Medium",
       "Mapping Score": 1.07,
-      "Tentative Answer": "C - Both 1 and 2",
+      "UPSC Provisional Answer": "C - Both 1 and 2",
       "Question": "Consider the following statements : 1. Pali texts contain the first definite references to coins, e.g., kahapana, nikkha, kamsa, and kakanika. 11. The literary evidence from Pali texts is corroborated by archaeological evidence of punch-marked coins from many sites, most of them made of silver. The above statements have been associated with which of the following ? 1. Emergence of urban life 2. Transition to money economy Select the answer using the code given below :",
-      "Tentative Explanation": "Tentative key marks option C. This code is treated as the valid set of statements for the Ancient History question; verify with UPSC's final key."
+      "Tentative Explanation": "UPSC provisional answer key, GS-I CSP Exam 2026, Series A, dated 27-05-2026 confirms option C. This code is treated as the valid set of statements for the Ancient History question; verify with UPSC's final key.",
+      "Previous Tentative Answer": "C - Both 1 and 2",
+      "Answer Status": "Confirmed by UPSC provisional key",
+      "Answer Source": "UPSC provisional answer key, GS-I CSP Exam 2026, Series A, dated 27-05-2026"
     },
     {
       "No": 8,
@@ -10900,9 +11530,12 @@ window.DASHBOARD_DATA = {
       "Prior Years Asked": "2024",
       "Mapping Confidence": "Low",
       "Mapping Score": 0.72,
-      "Tentative Answer": "A - 1 and 2 only",
+      "UPSC Provisional Answer": "A - 1 and 2 only",
       "Question": "Consider the following statements about the archaeological findings in Harappan towns : 1. There is wide occurrence of spindle-whorls in the houses but absence of spinning wheels. 11. Weights and measurement scales, complete with graduations have been discovered. 111. There are houses built in large part with baked bricks, around relatively spacious courtyards, with their own wells, bathing platforms, and large rooms. Which of the following inferences can be drawn from the above statements ? 1. Statement I suggests that spinning was a laborious activity done at home. 2. Statement 11 suggests the extent of the scientific knowledge that the Harappans possessed. 3. Statement Ill suggests the emergence of a common property system. Select the answer using the Code given below :",
-      "Tentative Explanation": "Tentative key marks option A. This code is treated as the valid set of statements for the Ancient History question; verify with UPSC's final key."
+      "Tentative Explanation": "UPSC provisional answer key, GS-I CSP Exam 2026, Series A, dated 27-05-2026 confirms option A. This code is treated as the valid set of statements for the Ancient History question; verify with UPSC's final key.",
+      "Previous Tentative Answer": "A - 1 and 2 only",
+      "Answer Status": "Confirmed by UPSC provisional key",
+      "Answer Source": "UPSC provisional answer key, GS-I CSP Exam 2026, Series A, dated 27-05-2026"
     },
     {
       "No": 9,
@@ -10916,9 +11549,12 @@ window.DASHBOARD_DATA = {
       "Prior Years Asked": null,
       "Mapping Confidence": "Low",
       "Mapping Score": 0.7,
-      "Tentative Answer": "C - The Bardoli Satyagraha was a campaign against the enhancement of land revenue, while the Eka Movement was a protest against excessive extraction of rents.",
+      "UPSC Provisional Answer": "C - The Bardoli Satyagraha was a campaign against the enhancement df land revenue, while the Eka Movement was a protest against excessive extraction of rents.",
       "Question": "Which one of the following statements about the Eka Movement and Bardoli Satyagraha is correct ?",
-      "Tentative Explanation": "Tentative key marks option C. This code is treated as the valid set of statements for the Modern History question; verify with UPSC's final key."
+      "Tentative Explanation": "UPSC provisional answer key, GS-I CSP Exam 2026, Series A, dated 27-05-2026 confirms option C. This code is treated as the valid set of statements for the Modern History question; verify with UPSC's final key.",
+      "Previous Tentative Answer": "C - The Bardoli Satyagraha was a campaign against the enhancement of land revenue, while the Eka Movement was a protest against excessive extraction of rents.",
+      "Answer Status": "Confirmed by UPSC provisional key",
+      "Answer Source": "UPSC provisional answer key, GS-I CSP Exam 2026, Series A, dated 27-05-2026"
     },
     {
       "No": 18,
@@ -10932,9 +11568,12 @@ window.DASHBOARD_DATA = {
       "Prior Years Asked": null,
       "Mapping Confidence": "Low",
       "Mapping Score": 0.84,
-      "Tentative Answer": "D - 1, 2 and 3",
+      "UPSC Provisional Answer": "D - 1, 2 and 3",
       "Question": "Consider the following assertion : The genesis of political alliances based on community lay in the very nature of the Montague-Chelmsford Reforms, 1919. Which of the following statements support/supports the above assertion ? 1. Reforms retained and extended the principle of separate electorates. 2. Separate electorates were supposed to counter Indian nationalism, which was growing stronger. 3. Deprived classes rallied around the favours inherent in separate electorates. Select the answer using the code given below :",
-      "Tentative Explanation": "Tentative key marks option D. This code is treated as the valid set of statements for the Modern History question; verify with UPSC's final key."
+      "Tentative Explanation": "UPSC provisional answer key, GS-I CSP Exam 2026, Series A, dated 27-05-2026 confirms option D. This code is treated as the valid set of statements for the Modern History question; verify with UPSC's final key.",
+      "Previous Tentative Answer": "D - 1, 2 and 3",
+      "Answer Status": "Confirmed by UPSC provisional key",
+      "Answer Source": "UPSC provisional answer key, GS-I CSP Exam 2026, Series A, dated 27-05-2026"
     },
     {
       "No": 19,
@@ -10948,9 +11587,12 @@ window.DASHBOARD_DATA = {
       "Prior Years Asked": null,
       "Mapping Confidence": "Low",
       "Mapping Score": 0.84,
-      "Tentative Answer": "D - Jaipur-Atrauli Gharana",
+      "UPSC Provisional Answer": "D - Jaipur-Atrauli Gharana",
       "Question": "Pandit Mallikarjun Mansur, the famous classical singer from Karnataka, represented the :",
-      "Tentative Explanation": "Tentative key marks option D. 'Jaipur-Atrauli Gharana' is treated as the fact/concept that best fits this Art & Culture question; verify with UPSC's final key."
+      "Tentative Explanation": "UPSC provisional answer key, GS-I CSP Exam 2026, Series A, dated 27-05-2026 confirms option D. 'Jaipur-Atrauli Gharana' is treated as the fact/concept that best fits this Art & Culture question; verify with UPSC's final key.",
+      "Previous Tentative Answer": "D - Jaipur-Atrauli Gharana",
+      "Answer Status": "Confirmed by UPSC provisional key",
+      "Answer Source": "UPSC provisional answer key, GS-I CSP Exam 2026, Series A, dated 27-05-2026"
     },
     {
       "No": 22,
@@ -10964,9 +11606,12 @@ window.DASHBOARD_DATA = {
       "Prior Years Asked": "2011",
       "Mapping Confidence": "Medium",
       "Mapping Score": 1.44,
-      "Tentative Answer": "B - 1 and 2",
+      "UPSC Provisional Answer": "B - 1 and 2",
       "Question": "With respect to the Western Hoolock Gibbons, which of the following statements is/are correct ? 1. A Sanctuary in North-east India is home to this ape species listed as Endangered in the International Union for Conservation of Nature (IUCN) Red List. 2. They have specialized brachiation and can easily swing between trees. 3. They possess a strong and heavy build like gorillas, yet are remarkably agile tree climbers. Select the answer using the code given below :",
-      "Tentative Explanation": "Tentative key marks option B. This code is treated as the valid set of statements for the Environment & Ecology question; verify with UPSC's final key."
+      "Tentative Explanation": "UPSC provisional answer key, GS-I CSP Exam 2026, Series A, dated 27-05-2026 confirms option B. This code is treated as the valid set of statements for the Environment & Ecology question; verify with UPSC's final key.",
+      "Previous Tentative Answer": "B - 1 and 2",
+      "Answer Status": "Confirmed by UPSC provisional key",
+      "Answer Source": "UPSC provisional answer key, GS-I CSP Exam 2026, Series A, dated 27-05-2026"
     },
     {
       "No": 25,
@@ -10980,9 +11625,12 @@ window.DASHBOARD_DATA = {
       "Prior Years Asked": null,
       "Mapping Confidence": "Medium",
       "Mapping Score": 1.46,
-      "Tentative Answer": "C - Sutlej",
+      "UPSC Provisional Answer": "C - Sutlej",
       "Question": "Identify the river of the Indian sub-continent on the basis of the following information : 1. It has an antecedent drainage system. 2. It flows through three countries. 3. It originates in the Tibetan Plateau and is an important river for irrigation. 4. It does not form distributaries. Select the answer from the following :",
-      "Tentative Explanation": "Tentative key marks option C. 'Sutlej' is treated as the fact/concept that best fits this Indian Geography question; verify with UPSC's final key."
+      "Tentative Explanation": "UPSC provisional answer key, GS-I CSP Exam 2026, Series A, dated 27-05-2026 confirms option C. 'Sutlej' is treated as the fact/concept that best fits this Indian Geography question; verify with UPSC's final key.",
+      "Previous Tentative Answer": "C - Sutlej",
+      "Answer Status": "Confirmed by UPSC provisional key",
+      "Answer Source": "UPSC provisional answer key, GS-I CSP Exam 2026, Series A, dated 27-05-2026"
     },
     {
       "No": 26,
@@ -10996,9 +11644,12 @@ window.DASHBOARD_DATA = {
       "Prior Years Asked": "2011",
       "Mapping Confidence": "Low",
       "Mapping Score": 0.67,
-      "Tentative Answer": "C - 2 and 3",
+      "UPSC Provisional Answer": "C - 2 and 3",
       "Question": "Which of the following with reference to Indian States is/are not correct ? 1. Uttar Pradesh shares its boundary with the highest number of other Indian States. 2. Rajasthan shares the longest international border among all Indian States. 3. Sikkim is the only State that shares its boundary with just one other Indian State. Select the answer using the code given below :",
-      "Tentative Explanation": "Tentative key marks option C. This code is treated as the valid set of statements for the Indian Geography question; verify with UPSC's final key."
+      "Tentative Explanation": "UPSC provisional answer key, GS-I CSP Exam 2026, Series A, dated 27-05-2026 confirms option C. This code is treated as the valid set of statements for the Indian Geography question; verify with UPSC's final key.",
+      "Previous Tentative Answer": "C - 2 and 3",
+      "Answer Status": "Confirmed by UPSC provisional key",
+      "Answer Source": "UPSC provisional answer key, GS-I CSP Exam 2026, Series A, dated 27-05-2026"
     },
     {
       "No": 27,
@@ -11012,9 +11663,12 @@ window.DASHBOARD_DATA = {
       "Prior Years Asked": null,
       "Mapping Confidence": "Medium",
       "Mapping Score": 1.69,
-      "Tentative Answer": "A - 1 only",
+      "UPSC Provisional Answer": "A - 1 only",
       "Question": "of the following statements with regard to the arrival of Amur Falcons at Doyang Lake in Nagaland each year from Mongolia is/are correct ? 1. It showcases how sustained local conservation efforts can contribute to the arrival and protection of international migratory birds. 2. It reflects the global success of advanced tracking technologies that guide migratory birds back to their stopover sites. 3. It confirms that Amur Falcons have adapted to permanent residency in India due to favourable habitat changes. Select the answer using the code given below :",
-      "Tentative Explanation": "Tentative key marks option A. This code is treated as the valid set of statements for the Environment & Ecology question; verify with UPSC's final key."
+      "Tentative Explanation": "UPSC provisional answer key, GS-I CSP Exam 2026, Series A, dated 27-05-2026 confirms option A. This code is treated as the valid set of statements for the Environment & Ecology question; verify with UPSC's final key.",
+      "Previous Tentative Answer": "A - 1 only",
+      "Answer Status": "Confirmed by UPSC provisional key",
+      "Answer Source": "UPSC provisional answer key, GS-I CSP Exam 2026, Series A, dated 27-05-2026"
     },
     {
       "No": 29,
@@ -11028,9 +11682,12 @@ window.DASHBOARD_DATA = {
       "Prior Years Asked": null,
       "Mapping Confidence": "Low",
       "Mapping Score": 0.87,
-      "Tentative Answer": "C - Both 1 and 2",
+      "UPSC Provisional Answer": "C - Both 1 and 2",
       "Question": "of the following is/are the most significant implication(s) of obtaining Oeko-Tex certification for Eri Silk in the global textile industry ? 1. It allows Indian exporters to compete in high-end markets that prioritise chemical-free products. 2. It confirms that Eri Silk meets international safety, environmental, and quality standards, enabling its entry into premium eco-conscious markets. Select the answer using the code given below :",
-      "Tentative Explanation": "Tentative key marks option C. This code is treated as the valid set of statements for the Economy question; verify with UPSC's final key."
+      "Tentative Explanation": "UPSC provisional answer key, GS-I CSP Exam 2026, Series A, dated 27-05-2026 confirms option C. This code is treated as the valid set of statements for the Economy question; verify with UPSC's final key.",
+      "Previous Tentative Answer": "C - Both 1 and 2",
+      "Answer Status": "Confirmed by UPSC provisional key",
+      "Answer Source": "UPSC provisional answer key, GS-I CSP Exam 2026, Series A, dated 27-05-2026"
     },
     {
       "No": 30,
@@ -11044,9 +11701,12 @@ window.DASHBOARD_DATA = {
       "Prior Years Asked": null,
       "Mapping Confidence": "Low",
       "Mapping Score": 0.66,
-      "Tentative Answer": "B - 1 and 3",
+      "UPSC Provisional Answer": "B - I and 3",
       "Question": "Ships from which of the following countries have to cross the Strait of Hormuz to reach out to the Indian Ocean ? 1. Bahrain 2. Syria 3. Qatar 4. Egypt Select the answer using the code given below :",
-      "Tentative Explanation": "Tentative key marks option B. This code is treated as the valid set of statements for the World Geography question; verify with UPSC's final key."
+      "Tentative Explanation": "UPSC provisional answer key, GS-I CSP Exam 2026, Series A, dated 27-05-2026 confirms option B. This code is treated as the valid set of statements for the World Geography question; verify with UPSC's final key.",
+      "Previous Tentative Answer": "B - 1 and 3",
+      "Answer Status": "Confirmed by UPSC provisional key",
+      "Answer Source": "UPSC provisional answer key, GS-I CSP Exam 2026, Series A, dated 27-05-2026"
     },
     {
       "No": 31,
@@ -11060,9 +11720,12 @@ window.DASHBOARD_DATA = {
       "Prior Years Asked": null,
       "Mapping Confidence": "Low",
       "Mapping Score": 0.84,
-      "Tentative Answer": "A - Ecuador",
+      "UPSC Provisional Answer": "A - Ecuador",
       "Question": "Tungurahua �Volcano, which was declared a Global Geopark by UNESCO in 2025, is situated in which one among the following countries ?",
-      "Tentative Explanation": "Tentative key marks option A. 'Ecuador' is treated as the fact/concept that best fits this Physical Geography question; verify with UPSC's final key."
+      "Tentative Explanation": "UPSC provisional answer key, GS-I CSP Exam 2026, Series A, dated 27-05-2026 confirms option A. 'Ecuador' is treated as the fact/concept that best fits this Physical Geography question; verify with UPSC's final key.",
+      "Previous Tentative Answer": "A - Ecuador",
+      "Answer Status": "Confirmed by UPSC provisional key",
+      "Answer Source": "UPSC provisional answer key, GS-I CSP Exam 2026, Series A, dated 27-05-2026"
     },
     {
       "No": 34,
@@ -11076,9 +11739,12 @@ window.DASHBOARD_DATA = {
       "Prior Years Asked": null,
       "Mapping Confidence": "Medium",
       "Mapping Score": 1.46,
-      "Tentative Answer": "B - 1 and 2",
+      "UPSC Provisional Answer": "B - 1 and 2",
       "Question": "Which of the following geographical features or phenomena is/are associated with the Peninsular Block of India ? 1. Submergence of parts of the western coast due to tectonic activity 2. Presence of residual mountain ranges such as the Veliconda hills and Mahendragiri hills 3. Deep, V-shaped river valleys formed by fast-flowing rivers Select the answer using the code given below :",
-      "Tentative Explanation": "Tentative key marks option B. This code is treated as the valid set of statements for the Indian Geography question; verify with UPSC's final key."
+      "Tentative Explanation": "UPSC provisional answer key, GS-I CSP Exam 2026, Series A, dated 27-05-2026 confirms option B. This code is treated as the valid set of statements for the Indian Geography question; verify with UPSC's final key.",
+      "Previous Tentative Answer": "B - 1 and 2",
+      "Answer Status": "Confirmed by UPSC provisional key",
+      "Answer Source": "UPSC provisional answer key, GS-I CSP Exam 2026, Series A, dated 27-05-2026"
     },
     {
       "No": 35,
@@ -11092,9 +11758,12 @@ window.DASHBOARD_DATA = {
       "Prior Years Asked": "2018",
       "Mapping Confidence": "Medium",
       "Mapping Score": 0.93,
-      "Tentative Answer": "B - 1 and 2",
+      "UPSC Provisional Answer": "B - 1 and 2",
       "Question": "Consider the following statements with reference to the Sagarmala Programme of the Government of India : I. The Sagarmala Programme seeks to achieve port-led economic growth through cost-effective and sustainable coastal infrastructure. 11. The success of the Sagarmala Programme is reflected in significant growth in coastal and inland waterway shipping, along with improved global port rankings. 111. Sagarmala 2.0 aims to position India as a global maritime innovation hub aligned with Atmanirbhar Bharat and Viksit Bharat 2047 visions. Which of the following relationships among the above statements is/are correct ? 1. Statement 11 validates the effectiveness of the strategies envisioned in statement I. 2. Statement Ill extends the objectives of statement I by embedding them into a future-oriented innovation framework. 3. Statement I contradicts statement Ill by focusing only on traditional infrastructure instead of modern innovation. Select the answer using the code given below :",
-      "Tentative Explanation": "Tentative key marks option B. This code is treated as the valid set of statements for the Economy question; verify with UPSC's final key."
+      "Tentative Explanation": "UPSC provisional answer key, GS-I CSP Exam 2026, Series A, dated 27-05-2026 confirms option B. This code is treated as the valid set of statements for the Economy question; verify with UPSC's final key.",
+      "Previous Tentative Answer": "B - 1 and 2",
+      "Answer Status": "Confirmed by UPSC provisional key",
+      "Answer Source": "UPSC provisional answer key, GS-I CSP Exam 2026, Series A, dated 27-05-2026"
     },
     {
       "No": 39,
@@ -11108,9 +11777,12 @@ window.DASHBOARD_DATA = {
       "Prior Years Asked": "2022",
       "Mapping Confidence": "Medium",
       "Mapping Score": 1.09,
-      "Tentative Answer": "B - 1 and 3 only",
+      "UPSC Provisional Answer": "B - 1 and 3 only",
       "Question": "VVhich of the following statements with reference to Lake Turkana is/are correct ? 1. It is the largest desert lake in the world. 2. The lake is situated in South Sudan along the eastern fringe of the Sahara desert. 3. The lake is listed as a UNESCO World Heritage Site and is also referred to as the 'Jade Sea'. Select the answer using the code given below :",
-      "Tentative Explanation": "Tentative key marks option B. This code is treated as the valid set of statements for the World Geography question; verify with UPSC's final key."
+      "Tentative Explanation": "UPSC provisional answer key, GS-I CSP Exam 2026, Series A, dated 27-05-2026 confirms option B. This code is treated as the valid set of statements for the World Geography question; verify with UPSC's final key.",
+      "Previous Tentative Answer": "B - 1 and 3 only",
+      "Answer Status": "Confirmed by UPSC provisional key",
+      "Answer Source": "UPSC provisional answer key, GS-I CSP Exam 2026, Series A, dated 27-05-2026"
     },
     {
       "No": 40,
@@ -11124,9 +11796,12 @@ window.DASHBOARD_DATA = {
       "Prior Years Asked": null,
       "Mapping Confidence": "Low",
       "Mapping Score": 0.84,
-      "Tentative Answer": "C - Khasi Hills Community REDD+ project",
+      "UPSC Provisional Answer": "C - Khasi Hills Community REDD+ project",
       "Question": "one of the following is the first Plan Vivo certified Reducing Emissions from Deforestation and Forest Degradation (REDD+) project in India ?",
-      "Tentative Explanation": "Tentative key marks option C. 'Khasi Hills Community REDD+ project' is treated as the fact/concept that best fits this Environment & Ecology question; verify with UPSC's final key."
+      "Tentative Explanation": "UPSC provisional answer key, GS-I CSP Exam 2026, Series A, dated 27-05-2026 confirms option C. 'Khasi Hills Community REDD+ project' is treated as the fact/concept that best fits this Environment & Ecology question; verify with UPSC's final key.",
+      "Previous Tentative Answer": "C - Khasi Hills Community REDD+ project",
+      "Answer Status": "Confirmed by UPSC provisional key",
+      "Answer Source": "UPSC provisional answer key, GS-I CSP Exam 2026, Series A, dated 27-05-2026"
     },
     {
       "No": 42,
@@ -11140,9 +11815,12 @@ window.DASHBOARD_DATA = {
       "Prior Years Asked": null,
       "Mapping Confidence": "Low",
       "Mapping Score": 0.73,
-      "Tentative Answer": "B - 1 and 2 only",
+      "UPSC Provisional Answer": "B - I and 2 only",
       "Question": "Which of the following statements with regard to Large Language Models (LLMs) used in machine learning is/are correct ? 1. LLMs assign probabilities to the next possible words and then pick the one with the highest probability. 2. LLMs process data through mathematical optimization to minimise prediction errors. 3. LLMs produce unbiased outputs. Select the answer using the code given below :",
-      "Tentative Explanation": "Tentative key marks option B. This code is treated as the valid set of statements for the Science & Technology question; verify with UPSC's final key."
+      "Tentative Explanation": "UPSC provisional answer key, GS-I CSP Exam 2026, Series A, dated 27-05-2026 confirms option B. This code is treated as the valid set of statements for the Science & Technology question; verify with UPSC's final key.",
+      "Previous Tentative Answer": "B - 1 and 2 only",
+      "Answer Status": "Confirmed by UPSC provisional key",
+      "Answer Source": "UPSC provisional answer key, GS-I CSP Exam 2026, Series A, dated 27-05-2026"
     },
     {
       "No": 43,
@@ -11156,9 +11834,12 @@ window.DASHBOARD_DATA = {
       "Prior Years Asked": null,
       "Mapping Confidence": "Medium",
       "Mapping Score": 1.22,
-      "Tentative Answer": "C - 1 and 2 only",
+      "UPSC Provisional Answer": "C - 1 and 2 only",
       "Question": "of the following statements with regard to stealth technology is/are correct ? 1. Stealth objects have a very small radar cross-section and are coated with Radar Absorbing Material. 2. Stealth objects can be detected using specific frequencies. 3. Stealth objects are coated with metamaterials to increase the scattering of electromagnetic radiation. Select the answer using the code given below :",
-      "Tentative Explanation": "Tentative key marks option C. This code is treated as the valid set of statements for the Science & Technology question; verify with UPSC's final key."
+      "Tentative Explanation": "UPSC provisional answer key, GS-I CSP Exam 2026, Series A, dated 27-05-2026 confirms option C. This code is treated as the valid set of statements for the Science & Technology question; verify with UPSC's final key.",
+      "Previous Tentative Answer": "C - 1 and 2 only",
+      "Answer Status": "Confirmed by UPSC provisional key",
+      "Answer Source": "UPSC provisional answer key, GS-I CSP Exam 2026, Series A, dated 27-05-2026"
     },
     {
       "No": 44,
@@ -11172,9 +11853,12 @@ window.DASHBOARD_DATA = {
       "Prior Years Asked": null,
       "Mapping Confidence": "Low",
       "Mapping Score": 0.73,
-      "Tentative Answer": "B - 2 and 3 only",
+      "UPSC Provisional Answer": "B - 2 and 3 only",
       "Question": "Which of the following statements with regard to Black Boxes used in modern aircrafts is/are correct ? 1. They carry a beacon emitting red light pulses to facilitate underwater detection. 2. They record both the cockpit voice and flight data. 3. Their memory units are made using either stainless steel or titanium. Select the answer using the code given below :",
-      "Tentative Explanation": "Tentative key marks option B. This code is treated as the valid set of statements for the Science & Technology question; verify with UPSC's final key."
+      "Tentative Explanation": "UPSC provisional answer key, GS-I CSP Exam 2026, Series A, dated 27-05-2026 confirms option B. This code is treated as the valid set of statements for the Science & Technology question; verify with UPSC's final key.",
+      "Previous Tentative Answer": "B - 2 and 3 only",
+      "Answer Status": "Confirmed by UPSC provisional key",
+      "Answer Source": "UPSC provisional answer key, GS-I CSP Exam 2026, Series A, dated 27-05-2026"
     },
     {
       "No": 46,
@@ -11188,9 +11872,12 @@ window.DASHBOARD_DATA = {
       "Prior Years Asked": null,
       "Mapping Confidence": "Low",
       "Mapping Score": 0.87,
-      "Tentative Answer": "C - 1 and 2 only",
+      "UPSC Provisional Answer": "C - 1 and 2 only",
       "Question": "Consider the following statements with regard to involvement of private entities in India's space programme : 1. The Indian National Space Promotion and Authorisation Centre (IN-SPACe) is an autonomous agency formed to facilitate participation of private entities. 2. Agnikul Cosmos launched the world's first flight using 3D-printed rocket engine. 3. Skyroot Aerospace has developed liquid fuel for GSLV. Which of the statements given above is/are correct ?",
-      "Tentative Explanation": "Tentative key marks option C. This code is treated as the valid set of statements for the Science & Technology question; verify with UPSC's final key."
+      "Tentative Explanation": "UPSC provisional answer key, GS-I CSP Exam 2026, Series A, dated 27-05-2026 confirms option C. This code is treated as the valid set of statements for the Science & Technology question; verify with UPSC's final key.",
+      "Previous Tentative Answer": "C - 1 and 2 only",
+      "Answer Status": "Confirmed by UPSC provisional key",
+      "Answer Source": "UPSC provisional answer key, GS-I CSP Exam 2026, Series A, dated 27-05-2026"
     },
     {
       "No": 50,
@@ -11204,9 +11891,12 @@ window.DASHBOARD_DATA = {
       "Prior Years Asked": null,
       "Mapping Confidence": "Low",
       "Mapping Score": 0.87,
-      "Tentative Answer": "B - 2 and 3 only",
+      "UPSC Provisional Answer": "B - 2 and 3 only",
       "Question": "MThich of the following statements with regard to India's Deep Ocean Mission is/are correct ? 1. It was launched by the Ministry of Ports, Shipping and Waterways, Government of India. 2. Matsya-6000 has been designed to carry 3 people for deep sea exploration. 3. Samudrayaan is a project under this mission. Select the answer using the code given below :",
-      "Tentative Explanation": "Tentative key marks option B. This code is treated as the valid set of statements for the Science & Technology question; verify with UPSC's final key."
+      "Tentative Explanation": "UPSC provisional answer key, GS-I CSP Exam 2026, Series A, dated 27-05-2026 confirms option B. This code is treated as the valid set of statements for the Science & Technology question; verify with UPSC's final key.",
+      "Previous Tentative Answer": "B - 2 and 3 only",
+      "Answer Status": "Confirmed by UPSC provisional key",
+      "Answer Source": "UPSC provisional answer key, GS-I CSP Exam 2026, Series A, dated 27-05-2026"
     },
     {
       "No": 51,
@@ -11220,9 +11910,12 @@ window.DASHBOARD_DATA = {
       "Prior Years Asked": null,
       "Mapping Confidence": "Low",
       "Mapping Score": 0.89,
-      "Tentative Answer": "C - Accountability",
+      "UPSC Provisional Answer": "C - Accountability",
       "Question": "Mr. X, a senior officer, was overseeing a critical vaccination programme during a pandemic. He found that a private service provider responsible for vaccine distribution was compromising on quality to make profits. Despite immense pressure to manage the issue due to vested interests, he raised his voice based on the principles of public administration which he learnt during various training programmes attended across his career. He reported the issue to the appropriate vigilance authority and halted the contract to ensure citizen welfare. MThich one among the following principles of public administration was most strongly demonstrated by Mr. X's actions ?",
-      "Tentative Explanation": "Tentative key marks option C. 'Accountability' is treated as the fact/concept that best fits this Indian Polity question; verify with UPSC's final key."
+      "Tentative Explanation": "UPSC provisional answer key, GS-I CSP Exam 2026, Series A, dated 27-05-2026 confirms option C. 'Accountability' is treated as the fact/concept that best fits this Indian Polity question; verify with UPSC's final key.",
+      "Previous Tentative Answer": "C - Accountability",
+      "Answer Status": "Confirmed by UPSC provisional key",
+      "Answer Source": "UPSC provisional answer key, GS-I CSP Exam 2026, Series A, dated 27-05-2026"
     },
     {
       "No": 53,
@@ -11236,9 +11929,12 @@ window.DASHBOARD_DATA = {
       "Prior Years Asked": null,
       "Mapping Confidence": "Low",
       "Mapping Score": 0.82,
-      "Tentative Answer": "B - 3 only",
+      "UPSC Provisional Answer": "B - 3 only",
       "Question": "Ms. X is a mid-level civil service offcial working in the urban development department of a mQior city. Recently, she was involved in approving a contract for a public infrastructure project � a new community park. During the approval process, she received a piece of confidential information indicating that one of the shortlisted contractors had a history of poor workmanship and allegations of corruption in other cities, though nothing had been legally proven. The Head of the Department, Mr. Y, advised her not to disclose this information to the project committee or the public because it could delay the project and damage the city's reputation. However, Ms. X believed that withholding such information compromised transparency and public trust. What amongst the following should Ms. X do now ? 1. Immediately disclose the information to the project committee and the public 2. Recommend removing the contractor from the shortlist to protect the project's integrity 3. Propose a 'limited disclosure' to an oversight committee, while keeping the information confidential from the public for the time being Select the answer using the code given below :",
-      "Tentative Explanation": "Tentative key marks option B. This code is treated as the valid set of statements for the Social Issues & Schemes question; verify with UPSC's final key."
+      "Tentative Explanation": "UPSC provisional answer key, GS-I CSP Exam 2026, Series A, dated 27-05-2026 confirms option B. This code is treated as the valid set of statements for the Social Issues & Schemes question; verify with UPSC's final key.",
+      "Previous Tentative Answer": "B - 3 only",
+      "Answer Status": "Confirmed by UPSC provisional key",
+      "Answer Source": "UPSC provisional answer key, GS-I CSP Exam 2026, Series A, dated 27-05-2026"
     },
     {
       "No": 54,
@@ -11252,9 +11948,12 @@ window.DASHBOARD_DATA = {
       "Prior Years Asked": "2019",
       "Mapping Confidence": "Low",
       "Mapping Score": 0.83,
-      "Tentative Answer": "D - The view of only 'Y' is correct.",
+      "UPSC Provisional Answer": "D - The view of only 'Y' is correct.",
       "Question": "'X' was addressing a seminar on the meaning of the term 'law' as provided under Article 13, Part Ill of the Constitution of India. 'X' explained that the meaning of the term 'law' in the Constitution of India was very comprehensive. It included ordinances, orders and even rules and regulations. 'Y' pointed out that the term 'law' in Article 13 also included custom or usage having in the territory of India the force of law, to which 'X' was not convinced. Based on the above, select the correct conclusion from the options given below :",
-      "Tentative Explanation": "Tentative key marks option D. This code is treated as the valid set of statements for the Indian Polity question; verify with UPSC's final key."
+      "Tentative Explanation": "UPSC provisional answer key, GS-I CSP Exam 2026, Series A, dated 27-05-2026 confirms option D. This code is treated as the valid set of statements for the Indian Polity question; verify with UPSC's final key.",
+      "Previous Tentative Answer": "D - The view of only 'Y' is correct.",
+      "Answer Status": "Confirmed by UPSC provisional key",
+      "Answer Source": "UPSC provisional answer key, GS-I CSP Exam 2026, Series A, dated 27-05-2026"
     },
     {
       "No": 55,
@@ -11268,9 +11967,12 @@ window.DASHBOARD_DATA = {
       "Prior Years Asked": null,
       "Mapping Confidence": "Medium",
       "Mapping Score": 1.22,
-      "Tentative Answer": "B - There is no correct statement.",
+      "UPSC Provisional Answer": "B - There is no correct statement.",
       "Question": "Consider the following statements with reference to the Constitution of India : 1. There is no Article in the Constitution of India that specifies that the Constitution of India will be officially called the 'Constitution of India'. 2. There is no Article in the Constitution of India that specifies that the Indian Independence Act, 1947 and the Government of India Act, 1935 stand repealed. 3. There is no Article in the Constitution of India that mentions 26th January, 1950 as the date of the commencement of the Constitution of India. Which one of the following conclusions based on the above statements is correct ?",
-      "Tentative Explanation": "Tentative key marks option B. 'There is no correct statement.' is treated as the fact/concept that best fits this Indian Polity question; verify with UPSC's final key."
+      "Tentative Explanation": "UPSC provisional answer key, GS-I CSP Exam 2026, Series A, dated 27-05-2026 confirms option B. 'There is no correct statement.' is treated as the fact/concept that best fits this Indian Polity question; verify with UPSC's final key.",
+      "Previous Tentative Answer": "B - There is no correct statement.",
+      "Answer Status": "Confirmed by UPSC provisional key",
+      "Answer Source": "UPSC provisional answer key, GS-I CSP Exam 2026, Series A, dated 27-05-2026"
     },
     {
       "No": 56,
@@ -11284,9 +11986,12 @@ window.DASHBOARD_DATA = {
       "Prior Years Asked": "2018",
       "Mapping Confidence": "High",
       "Mapping Score": 2.05,
-      "Tentative Answer": "B - 2 only",
+      "UPSC Provisional Answer": "B - 2 only",
       "Question": "Which of the following statements with regard to the persons with disabilities in India is/are correct ? 1. The Rights of Persons with Disabilities Act, an Act passed by the Parliament of India in 2018, mandates reservation in education and employment, places a legal duty on Governments to ensure accessibility and non-discrimination. 2. The Sugamya Bharat Abhiyan focuses on achieving universal accessibility for Persons with Disabilities across three key domains � built infrastructure, transport systems and information and communication technology. 3. The National Divyangjan Finance and Development Corporation (NDFDC) is a public sector organisation set up by the Ministry of Corporate Affairs as a not-for-profit company to promote entrepreneurship among Persons with Disabilities (PwDs). Select the answer using the code given below :",
-      "Tentative Explanation": "Tentative key marks option B. This code is treated as the valid set of statements for the Social Issues & Schemes question; verify with UPSC's final key."
+      "Tentative Explanation": "UPSC provisional answer key, GS-I CSP Exam 2026, Series A, dated 27-05-2026 confirms option B. This code is treated as the valid set of statements for the Social Issues & Schemes question; verify with UPSC's final key.",
+      "Previous Tentative Answer": "B - 2 only",
+      "Answer Status": "Confirmed by UPSC provisional key",
+      "Answer Source": "UPSC provisional answer key, GS-I CSP Exam 2026, Series A, dated 27-05-2026"
     },
     {
       "No": 57,
@@ -11300,9 +12005,12 @@ window.DASHBOARD_DATA = {
       "Prior Years Asked": null,
       "Mapping Confidence": "Medium",
       "Mapping Score": 1.76,
-      "Tentative Answer": "A - There are two correct statements, that include statement 2.",
+      "UPSC Provisional Answer": "A - There are two correct statements, that include statement 2.",
       "Question": "Consider the following statements about the provisions pertaining to the Scheduled Castes and the Scheduled Tribes in India : 1. Provisions regarding the administration of the Tribal Areas in the States of Assam, Meghalaya, Tripura and Mizoram are given in the Fifth Schedule of the Constitution of India. 2. Some tribes of India are entitled to exemption from paying Income Tax on certain incomes. 3. The Constitution of India provides for reservation of seats in Panchayats for women belonging to the Scheduled Castes and the Scheduled Tribes. Which one of the following conclusions based on the above statements is correct ?",
-      "Tentative Explanation": "Tentative key marks option A. This code is treated as the valid set of statements for the Indian Polity question; verify with UPSC's final key."
+      "Tentative Explanation": "UPSC provisional answer key, GS-I CSP Exam 2026, Series A, dated 27-05-2026 confirms option A. This code is treated as the valid set of statements for the Indian Polity question; verify with UPSC's final key.",
+      "Previous Tentative Answer": "A - There are two correct statements, that include statement 2.",
+      "Answer Status": "Confirmed by UPSC provisional key",
+      "Answer Source": "UPSC provisional answer key, GS-I CSP Exam 2026, Series A, dated 27-05-2026"
     },
     {
       "No": 58,
@@ -11316,9 +12024,12 @@ window.DASHBOARD_DATA = {
       "Prior Years Asked": null,
       "Mapping Confidence": "Medium",
       "Mapping Score": 1.52,
-      "Tentative Answer": "C - There is only one correct statement.",
+      "UPSC Provisional Answer": "C - There is only one correct statement.",
       "Question": "Consider the following statements in respect of questions asked by the Members in the Parliament of India : 1. Unstarred questions are those to which a Member desires an oral answer in the House. 2. Starred questions are those to which a Member desires a written answer. 3. No supplementary question can be asked on an unstarred question. Which one of the following conclusions based on the above statements is correct ?",
-      "Tentative Explanation": "Tentative key marks option C. This code is treated as the valid set of statements for the Indian Polity question; verify with UPSC's final key."
+      "Tentative Explanation": "UPSC provisional answer key, GS-I CSP Exam 2026, Series A, dated 27-05-2026 confirms option C. This code is treated as the valid set of statements for the Indian Polity question; verify with UPSC's final key.",
+      "Previous Tentative Answer": "C - There is only one correct statement.",
+      "Answer Status": "Confirmed by UPSC provisional key",
+      "Answer Source": "UPSC provisional answer key, GS-I CSP Exam 2026, Series A, dated 27-05-2026"
     },
     {
       "No": 59,
@@ -11332,9 +12043,12 @@ window.DASHBOARD_DATA = {
       "Prior Years Asked": null,
       "Mapping Confidence": "High",
       "Mapping Score": 2.22,
-      "Tentative Answer": "D - There is no correct statement.",
+      "UPSC Provisional Answer": "D - There is no correct statement.",
       "Question": "Consider the following statements about the Committee on the Welfare of Scheduled Castes and Scheduled Tribes of the Parliament of India : I. Although members of this Committee are elected from both Houses of Parliament, the Chairperson of this Committee is appointed by the Chairman of the Rajya Sabha. 2. Twenty members are elected by the Rajya Sabha and ten members by the Lok Sabha. 3. No Minister, except for the Union Minister of Social Justice and Empowerment, is eligible to be a member of this Committee. 4. Members are elected for a fixed term of two years from the date they enter their office. Which one of the following conclusions based on the above statements is correct ?",
-      "Tentative Explanation": "Tentative key marks option D. 'There is no correct statement.' is treated as the fact/concept that best fits this Indian Polity question; verify with UPSC's final key."
+      "Tentative Explanation": "UPSC provisional answer key, GS-I CSP Exam 2026, Series A, dated 27-05-2026 confirms option D. 'There is no correct statement.' is treated as the fact/concept that best fits this Indian Polity question; verify with UPSC's final key.",
+      "Previous Tentative Answer": "D - There is no correct statement.",
+      "Answer Status": "Confirmed by UPSC provisional key",
+      "Answer Source": "UPSC provisional answer key, GS-I CSP Exam 2026, Series A, dated 27-05-2026"
     },
     {
       "No": 61,
@@ -11348,9 +12062,12 @@ window.DASHBOARD_DATA = {
       "Prior Years Asked": null,
       "Mapping Confidence": "Low",
       "Mapping Score": 0.55,
-      "Tentative Answer": "D - 3 only",
+      "UPSC Provisional Answer": "D - 3 only",
       "Question": "Consider the following statements about river bridges connecting India with neighbouring countries : I. 'Maitri Setu', built over Feni river, connects Ramgarh in India with Sabroom in Bangladesh. 2. Jhulaghat suspension bridge connects India with Myanmar. 3. Mechi bridge and its approaches connect Panitanki Bypass in India with Kakarvitta in Nepal. Which of the statements given above is/are correct ?",
-      "Tentative Explanation": "Tentative key marks option D. This code is treated as the valid set of statements for the International Relations question; verify with UPSC's final key."
+      "Tentative Explanation": "UPSC provisional answer key, GS-I CSP Exam 2026, Series A, dated 27-05-2026 confirms option D. This code is treated as the valid set of statements for the International Relations question; verify with UPSC's final key.",
+      "Previous Tentative Answer": "D - 3 only",
+      "Answer Status": "Confirmed by UPSC provisional key",
+      "Answer Source": "UPSC provisional answer key, GS-I CSP Exam 2026, Series A, dated 27-05-2026"
     },
     {
       "No": 62,
@@ -11364,9 +12081,12 @@ window.DASHBOARD_DATA = {
       "Prior Years Asked": "2012",
       "Mapping Confidence": "Low",
       "Mapping Score": 0.88,
-      "Tentative Answer": "C - 1 only",
+      "UPSC Provisional Answer": "D - 2 only",
       "Question": "Which of the following statements about a Zero First Information Report (Zero FIR) under the Bharatiya Nagarik Suraksha Sanhita (BNSS), 2023 is/are correct ? 1. A Zero FIR can be lodged at a police station, even though the place of commission of a cognizable/non-cognizable offence is outside the territorial jurisdiction of that police station. 2. The Officer-in-Charge of the police station where a Zero FIR has been lodged may, with the permission of the competent authority, initiate a preliminary enquiry. 3. Under Zero FIR, it is obligatory for the informant to furnish information electronically. Select the answer using the code given below :",
-      "Tentative Explanation": "Tentative key marks option C. This code is treated as the valid set of statements for the Indian Polity question; verify with UPSC's final key."
+      "Tentative Explanation": "UPSC provisional answer key, GS-I CSP Exam 2026, Series A, dated 27-05-2026 marks option D. This differs from the earlier tentative key C; the previous explanation requires manual review against the provisional key.",
+      "Previous Tentative Answer": "C - 1 only",
+      "Answer Status": "Changed from tentative key",
+      "Answer Source": "UPSC provisional answer key, GS-I CSP Exam 2026, Series A, dated 27-05-2026"
     },
     {
       "No": 64,
@@ -11380,9 +12100,12 @@ window.DASHBOARD_DATA = {
       "Prior Years Asked": null,
       "Mapping Confidence": "Medium",
       "Mapping Score": 1.06,
-      "Tentative Answer": "D - 3, 4 and 5",
+      "UPSC Provisional Answer": "X - Dropped by UPSC provisional key",
       "Question": "Which of the following international conventions have not been ratified by India ? 1. Employment Policy Convention 2. Abolition of Forced Labour Convention 3. International � Convention on the Protection of the Rights of All Migrant Workers and Members of Their Families 4. Geneva Convention Relative to the Protection of Civilian Persons in Time of War 5. Convention on Reduction of Statelessness Select the answer using the code given below :",
-      "Tentative Explanation": "Tentative key marks option D. This code is treated as the valid set of statements for the International Relations question; verify with UPSC's final key."
+      "Tentative Explanation": "UPSC provisional answer key, GS-I CSP Exam 2026, Series A, dated 27-05-2026 marks this question as X / dropped. Exclude it from scoring. Earlier tentative key was D; previous explanation should be disregarded for scoring.",
+      "Previous Tentative Answer": "D - 3, 4 and 5",
+      "Answer Status": "Dropped by UPSC",
+      "Answer Source": "UPSC provisional answer key, GS-I CSP Exam 2026, Series A, dated 27-05-2026"
     },
     {
       "No": 65,
@@ -11396,9 +12119,12 @@ window.DASHBOARD_DATA = {
       "Prior Years Asked": "2025",
       "Mapping Confidence": "Medium",
       "Mapping Score": 1.46,
-      "Tentative Answer": "D - 3 only",
+      "UPSC Provisional Answer": "D - 3 only",
       "Question": "Consider the following statements with respect to the Al Impact Summit, 2026 held in New Delhi : 1. The Summit's intellectual framework was based on three foundational Sutras : People, Planning, and Progress. 2. The Preamble of the Summit stresses Democratising AI Resources, which acknowledges the Charter for Democratic Diffusion of AI as a binding framework to support locally relevant innovation and strengthen resilient AI ecosystems while respecting national laws. 3. The New Delhi Declaration on A1 Impact was structured around seven Chakras (Pillars), which included Access for Social Empowerment, AI for Science, and Secure and Trusted AI. Which of the statements given above is/are correct ?",
-      "Tentative Explanation": "Tentative key marks option D. This code is treated as the valid set of statements for the Science & Technology question; verify with UPSC's final key."
+      "Tentative Explanation": "UPSC provisional answer key, GS-I CSP Exam 2026, Series A, dated 27-05-2026 confirms option D. This code is treated as the valid set of statements for the Science & Technology question; verify with UPSC's final key.",
+      "Previous Tentative Answer": "D - 3 only",
+      "Answer Status": "Confirmed by UPSC provisional key",
+      "Answer Source": "UPSC provisional answer key, GS-I CSP Exam 2026, Series A, dated 27-05-2026"
     },
     {
       "No": 68,
@@ -11412,9 +12138,12 @@ window.DASHBOARD_DATA = {
       "Prior Years Asked": null,
       "Mapping Confidence": "Low",
       "Mapping Score": 0.87,
-      "Tentative Answer": "A - 1 and 2",
+      "UPSC Provisional Answer": "A - 1 and 2",
       "Question": "Which of the following items of defence hardware is/are manufactured in India ? 1. su-30 MKI Fighter Jets 2. T-90 MK-111 Tanks 3. Akula Class Submarine Select the answer using the code given below :",
-      "Tentative Explanation": "Tentative key marks option A. This code is treated as the valid set of statements for the Science & Technology question; verify with UPSC's final key."
+      "Tentative Explanation": "UPSC provisional answer key, GS-I CSP Exam 2026, Series A, dated 27-05-2026 confirms option A. This code is treated as the valid set of statements for the Science & Technology question; verify with UPSC's final key.",
+      "Previous Tentative Answer": "A - 1 and 2",
+      "Answer Status": "Confirmed by UPSC provisional key",
+      "Answer Source": "UPSC provisional answer key, GS-I CSP Exam 2026, Series A, dated 27-05-2026"
     },
     {
       "No": 69,
@@ -11428,9 +12157,12 @@ window.DASHBOARD_DATA = {
       "Prior Years Asked": null,
       "Mapping Confidence": "Medium",
       "Mapping Score": 1.41,
-      "Tentative Answer": "C - 2 and 3 only",
+      "UPSC Provisional Answer": "C - 2 and 3 only",
       "Question": "Consider the following statements about platforms for multilateral co-operation : 1. The 'Colombo Process' is a regional consultative process in which member states take binding decisions by consensus. 2. The 'Abu Dhabi Dialogue' is a voluntary non-binding consultative process among Asian countries of labour origin and destination to facilitate regional cooperation on contractual labour mobility. 3. The 'Global Forum for Migration and Development', created upon the proposal of a former UN Secretary General, is a voluntary forum whose decisions are non-binding in nature. Which of the statements given above is/are correct ?",
-      "Tentative Explanation": "Tentative key marks option C. This code is treated as the valid set of statements for the International Relations question; verify with UPSC's final key."
+      "Tentative Explanation": "UPSC provisional answer key, GS-I CSP Exam 2026, Series A, dated 27-05-2026 confirms option C. This code is treated as the valid set of statements for the International Relations question; verify with UPSC's final key.",
+      "Previous Tentative Answer": "C - 2 and 3 only",
+      "Answer Status": "Confirmed by UPSC provisional key",
+      "Answer Source": "UPSC provisional answer key, GS-I CSP Exam 2026, Series A, dated 27-05-2026"
     },
     {
       "No": 72,
@@ -11444,9 +12176,12 @@ window.DASHBOARD_DATA = {
       "Prior Years Asked": "2017",
       "Mapping Confidence": "Low",
       "Mapping Score": 0.32,
-      "Tentative Answer": "C - A: 4, B: 2, C: 1, D: 3",
+      "UPSC Provisional Answer": "C - 4 2 1 3",
       "Question": "Match List I with List 11 and select the answer using the code given below the Lists : List I List 11 (BIMSTEC (Location) Centre / Establishment) A. BIMSTEC Cultural 1. NOIDA Industries Observatory B. BIMSTEC Energy 2. Bengaluru Centre c. BIMSTEC Centre 3. Colombo for Weather and Climate D. BIMSTEC Technology 4. Thimphu Transfer Facility Code : A B c",
-      "Tentative Explanation": "Tentative key marks option C. This code is treated as the valid set of statements for the International Relations question; verify with UPSC's final key."
+      "Tentative Explanation": "UPSC provisional answer key, GS-I CSP Exam 2026, Series A, dated 27-05-2026 confirms option C. This code is treated as the valid set of statements for the International Relations question; verify with UPSC's final key.",
+      "Previous Tentative Answer": "C - A: 4, B: 2, C: 1, D: 3",
+      "Answer Status": "Confirmed by UPSC provisional key",
+      "Answer Source": "UPSC provisional answer key, GS-I CSP Exam 2026, Series A, dated 27-05-2026"
     },
     {
       "No": 75,
@@ -11460,9 +12195,12 @@ window.DASHBOARD_DATA = {
       "Prior Years Asked": "2024",
       "Mapping Confidence": "Low",
       "Mapping Score": 0.5,
-      "Tentative Answer": "C - 2 and 3",
+      "UPSC Provisional Answer": "C - 2 and 3",
       "Question": "Which of the following countries are members of the European Union ? 1. Belarus 2. Poland 3. Germany 4. Switzerland Select the answer using the code given below :",
-      "Tentative Explanation": "Tentative key marks option C. This code is treated as the valid set of statements for the International Relations question; verify with UPSC's final key."
+      "Tentative Explanation": "UPSC provisional answer key, GS-I CSP Exam 2026, Series A, dated 27-05-2026 confirms option C. This code is treated as the valid set of statements for the International Relations question; verify with UPSC's final key.",
+      "Previous Tentative Answer": "C - 2 and 3",
+      "Answer Status": "Confirmed by UPSC provisional key",
+      "Answer Source": "UPSC provisional answer key, GS-I CSP Exam 2026, Series A, dated 27-05-2026"
     },
     {
       "No": 76,
@@ -11476,9 +12214,12 @@ window.DASHBOARD_DATA = {
       "Prior Years Asked": "2017",
       "Mapping Confidence": "Medium",
       "Mapping Score": 0.98,
-      "Tentative Answer": "C - A: 4, B: 2, C: 1, D: 3",
+      "UPSC Provisional Answer": "C - 4 2 1 3",
       "Question": "Match List I with List 11 and select the answer using the code given below the Lists : List 1 List 11 (INTERPOL (Description) Notice) A. Silver Notice 1. To seek information on unidentified bodies B. Blue Notice 2. To collect additional information about a person's identity, location, or activities in relation to a criminal investigation C. Black Notice 3. To provide warning about a person's criminal activities, where the person is considered to be a possible threat to public safety D. Green Notice 4. To identify and trace criminal assets Code : A B c",
-      "Tentative Explanation": "Tentative key marks option C. This code is treated as the valid set of statements for the International Relations question; verify with UPSC's final key."
+      "Tentative Explanation": "UPSC provisional answer key, GS-I CSP Exam 2026, Series A, dated 27-05-2026 confirms option C. This code is treated as the valid set of statements for the International Relations question; verify with UPSC's final key.",
+      "Previous Tentative Answer": "C - A: 4, B: 2, C: 1, D: 3",
+      "Answer Status": "Confirmed by UPSC provisional key",
+      "Answer Source": "UPSC provisional answer key, GS-I CSP Exam 2026, Series A, dated 27-05-2026"
     },
     {
       "No": 77,
@@ -11492,9 +12233,12 @@ window.DASHBOARD_DATA = {
       "Prior Years Asked": null,
       "Mapping Confidence": "High",
       "Mapping Score": 2.07,
-      "Tentative Answer": "B - 1 and 3 only",
+      "UPSC Provisional Answer": "B - 1 and 3 only",
       "Question": "Which of the following statements in relation to NIRANTAR (National Institute for Research and Application of Natural Resources to Transform, Adapt and Build Resilience), a platform of institutions under the Ministry of Environment, Forest and Climate Change, is/are correct ? 1. Ecosystem Survey and Analysis is a vertical under this platform, the lead institute of which is Botanical Survey of India, Kolkata. 2. Research and Management of Ecosystem Service is a vertical under this platform, the lead institute of which is Central Zoo Authority, New Delhi. 3. Capacity Development Support is a vertical under this platform, the lead institute of which is Indian Institute of Forest Management, Bhopal. Select the answer using the code given below :",
-      "Tentative Explanation": "Tentative key marks option B. This code is treated as the valid set of statements for the Environment & Ecology question; verify with UPSC's final key."
+      "Tentative Explanation": "UPSC provisional answer key, GS-I CSP Exam 2026, Series A, dated 27-05-2026 confirms option B. This code is treated as the valid set of statements for the Environment & Ecology question; verify with UPSC's final key.",
+      "Previous Tentative Answer": "B - 1 and 3 only",
+      "Answer Status": "Confirmed by UPSC provisional key",
+      "Answer Source": "UPSC provisional answer key, GS-I CSP Exam 2026, Series A, dated 27-05-2026"
     },
     {
       "No": 86,
@@ -11508,9 +12252,12 @@ window.DASHBOARD_DATA = {
       "Prior Years Asked": null,
       "Mapping Confidence": "Medium",
       "Mapping Score": 1.46,
-      "Tentative Answer": "C - 1, 2 and 4",
+      "UPSC Provisional Answer": "C - 1, 2 and 4",
       "Question": "Which of the following statements regarding the features of blockchain technology are correct ? 1. Records stored in the database may be made visible to relevant stakeholders without risk of alteration. 2. Copies of the entire database are stored on multiple computers on a network, syncing within seconds. 3. Consortium blockchain is a blend of public and private blockchains allowing selective data access. 4. Mathematical algorithms make it impossible to change or delete any data once recorded and accepted. Select the answer using the code given below :",
-      "Tentative Explanation": "Tentative key marks option C. This code is treated as the valid set of statements for the Science & Technology question; verify with UPSC's final key."
+      "Tentative Explanation": "UPSC provisional answer key, GS-I CSP Exam 2026, Series A, dated 27-05-2026 confirms option C. This code is treated as the valid set of statements for the Science & Technology question; verify with UPSC's final key.",
+      "Previous Tentative Answer": "C - 1, 2 and 4",
+      "Answer Status": "Confirmed by UPSC provisional key",
+      "Answer Source": "UPSC provisional answer key, GS-I CSP Exam 2026, Series A, dated 27-05-2026"
     },
     {
       "No": 89,
@@ -11524,9 +12271,12 @@ window.DASHBOARD_DATA = {
       "Prior Years Asked": "2015",
       "Mapping Confidence": "Low",
       "Mapping Score": 0.83,
-      "Tentative Answer": "C - To break the dominance of large e-commerce platforms by enabling interoperability across networks",
+      "UPSC Provisional Answer": "C - To break the dominance of large e-commerce platforms by enabling interoperability across networks",
       "Question": "Which one of the following best describes the key objective of India's 'Open Network for Digital Commerce' (ONDC) initiative ?",
-      "Tentative Explanation": "Tentative key marks option C. 'To break the dominance of large e-commerce platforms by enabling interoperability across networks' is treated as the fact/concept that best fits this Economy question; verify with UPSC's final key."
+      "Tentative Explanation": "UPSC provisional answer key, GS-I CSP Exam 2026, Series A, dated 27-05-2026 confirms option C. 'To break the dominance of large e-commerce platforms by enabling interoperability across networks' is treated as the fact/concept that best fits this Economy question; verify with UPSC's final key.",
+      "Previous Tentative Answer": "C - To break the dominance of large e-commerce platforms by enabling interoperability across networks",
+      "Answer Status": "Confirmed by UPSC provisional key",
+      "Answer Source": "UPSC provisional answer key, GS-I CSP Exam 2026, Series A, dated 27-05-2026"
     },
     {
       "No": 92,
@@ -11540,9 +12290,12 @@ window.DASHBOARD_DATA = {
       "Prior Years Asked": null,
       "Mapping Confidence": "Low",
       "Mapping Score": 0.87,
-      "Tentative Answer": "C - Sustainability Bond",
+      "UPSC Provisional Answer": "C - Sustainability Bond",
       "Question": "A bond whose proceeds are used only to finance or refinance a combination of both environmental and social projects is called :",
-      "Tentative Explanation": "Tentative key marks option C. 'Sustainability Bond' is treated as the fact/concept that best fits this Economy question; verify with UPSC's final key."
+      "Tentative Explanation": "UPSC provisional answer key, GS-I CSP Exam 2026, Series A, dated 27-05-2026 confirms option C. 'Sustainability Bond' is treated as the fact/concept that best fits this Economy question; verify with UPSC's final key.",
+      "Previous Tentative Answer": "C - Sustainability Bond",
+      "Answer Status": "Confirmed by UPSC provisional key",
+      "Answer Source": "UPSC provisional answer key, GS-I CSP Exam 2026, Series A, dated 27-05-2026"
     },
     {
       "No": 98,
@@ -11556,9 +12309,12 @@ window.DASHBOARD_DATA = {
       "Prior Years Asked": null,
       "Mapping Confidence": "Medium",
       "Mapping Score": 1.46,
-      "Tentative Answer": "D - 2 and 4",
+      "UPSC Provisional Answer": "D - 2 and 4",
       "Question": "With reference to different Committees in India, consider the following details : Sl. Committee Objective Organizatio No. under which it was formed 1. R.N. Comprehensiv Insurance Malhotra reforms of Regulatory Committee Insurance and sector in India Developmen Authority of India 2. L.C. Gupta Preparing a Securities Committee roadmap for and the Exchange introduction of Board of derivatives India trading in India 3. Urjit R. Preparing a Reserve Patel roadmap for Bank of Committee reforming ban India lending to the Housing sector 4. Y.H. Preparing a Reserve Malegam roadmap for Bank of Committee reforms in India Microfinance sector in India In which of the above rows are all the details correctly matched ?",
-      "Tentative Explanation": "Tentative key marks option D. This code is treated as the valid set of statements for the Economy question; verify with UPSC's final key."
+      "Tentative Explanation": "UPSC provisional answer key, GS-I CSP Exam 2026, Series A, dated 27-05-2026 confirms option D. This code is treated as the valid set of statements for the Economy question; verify with UPSC's final key.",
+      "Previous Tentative Answer": "D - 2 and 4",
+      "Answer Status": "Confirmed by UPSC provisional key",
+      "Answer Source": "UPSC provisional answer key, GS-I CSP Exam 2026, Series A, dated 27-05-2026"
     },
     {
       "No": 100,
@@ -11572,9 +12328,12 @@ window.DASHBOARD_DATA = {
       "Prior Years Asked": null,
       "Mapping Confidence": "Medium",
       "Mapping Score": 1.52,
-      "Tentative Answer": "A - 1 and 2 only",
+      "UPSC Provisional Answer": "A - 1 and 2 only",
       "Question": "Consider the following statements about Multidimensional Poverty Index (MPI) : 1. MPI is calculated using Alkire-Foster methodology. 2. MPI calculated by NITI Aayog has a total of twelve indicators. 3. Maternal Health and Bank Account are common indicators in the MPI of NITI Aayog and MPI of United Nations Development Programme (UNDP). Which of the statements given above is/are correct ?",
-      "Tentative Explanation": "Tentative key marks option A. This code is treated as the valid set of statements for the Economy question; verify with UPSC's final key."
+      "Tentative Explanation": "UPSC provisional answer key, GS-I CSP Exam 2026, Series A, dated 27-05-2026 confirms option A. This code is treated as the valid set of statements for the Economy question; verify with UPSC's final key.",
+      "Previous Tentative Answer": "A - 1 and 2 only",
+      "Answer Status": "Confirmed by UPSC provisional key",
+      "Answer Source": "UPSC provisional answer key, GS-I CSP Exam 2026, Series A, dated 27-05-2026"
     }
   ],
   "codexFindings": [
