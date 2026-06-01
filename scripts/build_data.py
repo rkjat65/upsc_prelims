@@ -84,6 +84,7 @@ for row in pyq:
         "Option C": clean(row.get("Option C")),
         "Option D": clean(row.get("Option D")),
         "Answer": clean(row.get("Correct Answer")),
+        "Explanation": clean(row.get("Explanation")),
         "Difficulty": clean(row.get("Difficulty")) or "Unlabelled",
     })
 

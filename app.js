@@ -78,42 +78,44 @@ function initControls() {
   });
   document.getElementById("downloadReport").addEventListener("click", () => window.print());
 
-  populateSelect("traceSubjectFilter", unique(DATA.pyqTraceRows.map((d) => d.Subject)));
-  populateTraceUnits();
-  populateTraceTopics();
-  document.getElementById("traceSubjectFilter").addEventListener("change", (event) => {
-    traceState.subject = event.target.value;
-    traceState.unit = "All";
-    traceState.topic = "All";
+  if (document.getElementById("traceSubjectFilter")) {
+    populateSelect("traceSubjectFilter", unique(DATA.pyqTraceRows.map((d) => d.Subject)));
     populateTraceUnits();
     populateTraceTopics();
-    updateTraceView();
-  });
-  document.getElementById("traceUnitFilter").addEventListener("change", (event) => {
-    traceState.unit = event.target.value;
-    traceState.topic = "All";
-    populateTraceTopics();
-    updateTraceView();
-  });
-  document.getElementById("traceTopicFilter").addEventListener("change", (event) => {
-    traceState.topic = event.target.value;
-    updateTraceView();
-  });
-  document.getElementById("traceSearchBox").addEventListener("input", (event) => {
-    traceState.search = event.target.value.trim().toLowerCase();
-    updateTraceView();
-  });
-  document.getElementById("resetTrace").addEventListener("click", () => {
-    traceState.subject = "All";
-    traceState.unit = "All";
-    traceState.topic = "All";
-    traceState.search = "";
-    document.getElementById("traceSubjectFilter").value = "All";
-    document.getElementById("traceSearchBox").value = "";
-    populateTraceUnits();
-    populateTraceTopics();
-    updateTraceView();
-  });
+    document.getElementById("traceSubjectFilter").addEventListener("change", (event) => {
+      traceState.subject = event.target.value;
+      traceState.unit = "All";
+      traceState.topic = "All";
+      populateTraceUnits();
+      populateTraceTopics();
+      updateTraceView();
+    });
+    document.getElementById("traceUnitFilter").addEventListener("change", (event) => {
+      traceState.unit = event.target.value;
+      traceState.topic = "All";
+      populateTraceTopics();
+      updateTraceView();
+    });
+    document.getElementById("traceTopicFilter").addEventListener("change", (event) => {
+      traceState.topic = event.target.value;
+      updateTraceView();
+    });
+    document.getElementById("traceSearchBox").addEventListener("input", (event) => {
+      traceState.search = event.target.value.trim().toLowerCase();
+      updateTraceView();
+    });
+    document.getElementById("resetTrace").addEventListener("click", () => {
+      traceState.subject = "All";
+      traceState.unit = "All";
+      traceState.topic = "All";
+      traceState.search = "";
+      document.getElementById("traceSubjectFilter").value = "All";
+      document.getElementById("traceSearchBox").value = "";
+      populateTraceUnits();
+      populateTraceTopics();
+      updateTraceView();
+    });
+  }
 }
 
 function filteredMap() {
@@ -337,6 +339,7 @@ function traceSummaryRows() {
 }
 
 function renderFullTraceTreemap() {
+  if (!document.getElementById("fullTopicTreemap")) return;
   const rows = traceSummaryRows();
   const subjectTotals = new Map();
   const unitTotals = new Map();
@@ -627,6 +630,7 @@ function updateTables() {
 }
 
 function updateTraceView(renderChart = true) {
+  if (!document.getElementById("traceCount")) return;
   const rows = filteredTraceRows();
   const summaryRows = traceSummaryRows();
   const questionCount = rows.length;
@@ -683,6 +687,7 @@ function updateTraceView(renderChart = true) {
 
 function renderTraceExamCards(rows) {
   const container = document.getElementById("traceExamCards");
+  if (!container) return;
   const isTopicLevel = traceState.topic !== "All" && new Set(rows.map((row) => row["Topic ID"])).size <= 1;
   if (!isTopicLevel) {
     container.innerHTML = `
@@ -708,6 +713,7 @@ function renderTraceExamCards(rows) {
         `).join("")}
       </div>
       <div class="exam-answer">Answer: ${row.Answer || "Not available"}</div>
+      <div class="exam-explanation">${row.Explanation || "Explanation not available."}</div>
     </article>
   `).join("");
 }

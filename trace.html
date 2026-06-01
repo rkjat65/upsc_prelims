@@ -1,0 +1,127 @@
+<!doctype html>
+<html lang="en">
+  <head>
+    <meta charset="utf-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1" />
+    <title>GyanGram Full Topic Trace</title>
+    <link rel="preconnect" href="https://fonts.googleapis.com" />
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin />
+    <link href="https://fonts.googleapis.com/css2?family=Inter:wght@400;600;700;800;900&display=swap" rel="stylesheet" />
+    <link rel="stylesheet" href="./styles.css" />
+  </head>
+  <body>
+    <div class="app-shell">
+      <aside class="sidebar" aria-label="Trace navigation">
+        <div class="brand">
+          <span class="brand-mark">
+            <img src="./assets/AppIcon.png" alt="GyanGram logo" />
+          </span>
+          <div>
+            <strong>GyanGram</strong>
+            <span>Full Topic Trace</span>
+          </div>
+        </div>
+        <nav>
+          <a href="./index.html">Dashboard</a>
+          <a href="#trace-map">Treemap</a>
+          <a href="#trace-pyqs">PYQ Cards</a>
+          <a href="#trace-ledger">Topic Ledger</a>
+        </nav>
+        <div class="source-note">
+          <span>Trace Mode</span>
+          <p>Every visible card is linked back to the 1,600-row GyanGram PYQ master file.</p>
+        </div>
+      </aside>
+
+      <main>
+        <section class="hero-section trace-page-hero">
+          <div class="hero-copy">
+            <p class="eyebrow">Subject / Unit / Topic / PYQ</p>
+            <h1>Trace the full UPSC PYQ graph down to real exam questions.</h1>
+            <p>
+              Use the treemap or filters to move through the syllabus hierarchy, then inspect the exact PYQs with options,
+              provisional answer status, and explanation.
+            </p>
+          </div>
+          <div class="hero-actions">
+            <a class="primary-action button-link" href="./index.html">Dashboard</a>
+          </div>
+        </section>
+
+        <section class="panel trace-hero">
+          <div class="panel-head">
+            <div>
+              <p class="eyebrow">Trace controls</p>
+              <h2>Filter the complete 1,600-question PYQ graph</h2>
+            </div>
+            <span id="traceCount" class="chip">1,600 PYQs</span>
+          </div>
+          <div class="trace-controls">
+            <label>
+              Subject
+              <select id="traceSubjectFilter"></select>
+            </label>
+            <label>
+              Unit
+              <select id="traceUnitFilter"></select>
+            </label>
+            <label>
+              Topic
+              <select id="traceTopicFilter"></select>
+            </label>
+            <label>
+              Search all PYQs
+              <input id="traceSearchBox" type="search" placeholder="Search topic, question, year, topic ID..." />
+            </label>
+            <button id="resetTrace" type="button">Reset</button>
+          </div>
+          <div class="trace-meta">
+            <span id="traceCrumb">All subjects</span>
+            <div id="traceSummary" class="trace-summary"></div>
+          </div>
+        </section>
+
+        <section id="trace-map" class="panel">
+          <div class="panel-head">
+            <div>
+              <p class="eyebrow">Full syllabus treemap</p>
+              <h2>Accumulated PYQ weight across all GyanGram topics</h2>
+            </div>
+            <span class="chip">Click final topic blocks for PYQ cards</span>
+          </div>
+          <div id="fullTopicTreemap" class="chart xlarge"></div>
+        </section>
+
+        <section id="trace-pyqs" class="panel">
+          <div class="panel-head">
+            <div>
+              <p class="eyebrow">Exam format</p>
+              <h2>PYQs for the selected final topic</h2>
+            </div>
+            <span id="traceQuestionLimit" class="chip">Showing matching PYQs</span>
+          </div>
+          <div id="traceExamCards" class="exam-card-grid"></div>
+          <div class="table-wrap trace-questions">
+            <table id="traceQuestionTable"></table>
+          </div>
+        </section>
+
+        <section id="trace-ledger" class="panel">
+          <div class="panel-head">
+            <div>
+              <p class="eyebrow">Topic ledger</p>
+              <h2>Highest-weight matching syllabus nodes</h2>
+            </div>
+          </div>
+          <div class="table-wrap trace-topics">
+            <table id="traceTopicTable"></table>
+          </div>
+        </section>
+      </main>
+    </div>
+
+    <script src="./vendor/plotly-2.35.2.min.js"></script>
+    <script src="./data.js"></script>
+    <script src="./trace.js"></script>
+  </body>
+</html>

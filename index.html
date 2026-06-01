@@ -23,7 +23,7 @@
           <a href="#subject">Subject Intelligence</a>
           <a href="#report-insights">Report Insights</a>
           <a href="#syllabus">Syllabus Heatmap</a>
-          <a href="#topic-trace">Full Topic Trace</a>
+          <a href="./trace.html">Full Topic Trace</a>
           <a href="#codex">Codex Analysis</a>
           <a href="#explorer">Question Explorer</a>
           <a href="#report">Report</a>
@@ -250,78 +250,6 @@
             </div>
           </div>
           <div id="findingGrid" class="finding-grid"></div>
-        </section>
-
-        <section id="topic-trace" class="grid two">
-          <article class="panel span-2 trace-hero">
-            <div class="panel-head">
-              <div>
-                <p class="eyebrow">Dedicated syllabus drilldown</p>
-                <h2>Trace every PYQ to subject, unit, and topic</h2>
-              </div>
-              <span id="traceCount" class="chip">1,600 PYQs</span>
-            </div>
-            <div class="trace-controls">
-              <label>
-                Subject
-                <select id="traceSubjectFilter"></select>
-              </label>
-              <label>
-                Unit
-                <select id="traceUnitFilter"></select>
-              </label>
-              <label>
-                Topic
-                <select id="traceTopicFilter"></select>
-              </label>
-              <label>
-                Search all PYQs
-                <input id="traceSearchBox" type="search" placeholder="Search topic, question, year, topic ID..." />
-              </label>
-              <button id="resetTrace" type="button">Reset</button>
-            </div>
-            <div class="trace-meta">
-              <span id="traceCrumb">All subjects</span>
-              <div id="traceSummary" class="trace-summary"></div>
-            </div>
-          </article>
-
-          <article class="panel span-2">
-            <div class="panel-head">
-              <div>
-                <p class="eyebrow">Full syllabus treemap</p>
-                <h2>Accumulated PYQ weight across all GyanGram topics</h2>
-              </div>
-              <span class="chip">Click any block to drill down</span>
-            </div>
-            <div id="fullTopicTreemap" class="chart xlarge"></div>
-          </article>
-
-          <article class="panel span-2">
-            <div class="panel-head">
-              <div>
-                <p class="eyebrow">Topic ledger</p>
-                <h2>Highest-weight matching syllabus nodes</h2>
-              </div>
-            </div>
-            <div class="table-wrap trace-topics">
-              <table id="traceTopicTable"></table>
-            </div>
-          </article>
-
-          <article class="panel span-2">
-            <div class="panel-head">
-              <div>
-                <p class="eyebrow">PYQ trace</p>
-                <h2>Question-level evidence under the selected node</h2>
-              </div>
-              <span id="traceQuestionLimit" class="chip">Showing matching PYQs</span>
-            </div>
-            <div id="traceExamCards" class="exam-card-grid"></div>
-            <div class="table-wrap trace-questions">
-              <table id="traceQuestionTable"></table>
-            </div>
-          </article>
         </section>
 
         <section id="explorer" class="panel">
