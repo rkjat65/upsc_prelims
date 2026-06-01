@@ -663,6 +663,7 @@ function updateTraceView(renderChart = true) {
   const questionRows = rows
     .slice()
     .sort((a, b) => number(b.Year) - number(a.Year) || number(a["Q#"]) - number(b["Q#"]));
+  renderTraceExamCards(questionRows);
   renderTable("traceQuestionTable", ["Year", "Q#", "Subject", "Unit / Topic", "Answer", "Question"], questionRows, (r) => `
     <tr>
       <td>${r.Year}</td>
@@ -678,6 +679,37 @@ function updateTraceView(renderChart = true) {
   if (renderChart) {
     renderFullTraceTreemap();
   }
+}
+
+function renderTraceExamCards(rows) {
+  const container = document.getElementById("traceExamCards");
+  const isTopicLevel = traceState.topic !== "All" && new Set(rows.map((row) => row["Topic ID"])).size <= 1;
+  if (!isTopicLevel) {
+    container.innerHTML = `
+      <div class="exam-empty">
+        Select a final topic in the treemap or Topic filter to see PYQs in real-exam format with all options.
+      </div>
+    `;
+    return;
+  }
+  container.innerHTML = rows.map((row) => `
+    <article class="exam-card">
+      <div class="exam-card-head">
+        <span>${row.Year} · Q${row["Set Question"] || row["Q#"]}</span>
+        <span>${row["Topic ID"]}</span>
+      </div>
+      <p class="exam-question">${row.Question}</p>
+      <div class="exam-options">
+        ${["A", "B", "C", "D"].map((key) => `
+          <div class="exam-option">
+            <strong>${key}</strong>
+            <span>${row[`Option ${key}`] || ""}</span>
+          </div>
+        `).join("")}
+      </div>
+      <div class="exam-answer">Answer: ${row.Answer || "Not available"}</div>
+    </article>
+  `).join("");
 }
 
 function renderReports() {

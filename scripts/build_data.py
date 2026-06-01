@@ -79,6 +79,10 @@ for row in pyq:
         "Topic": clean(row.get("Topic")) or "Unmapped",
         "Topic ID": clean(row.get("Topic ID")) or "UNMAPPED",
         "Question": clean(row.get("Full Question")),
+        "Option A": clean(row.get("Option A")),
+        "Option B": clean(row.get("Option B")),
+        "Option C": clean(row.get("Option C")),
+        "Option D": clean(row.get("Option D")),
         "Answer": clean(row.get("Correct Answer")),
         "Difficulty": clean(row.get("Difficulty")) or "Unlabelled",
     })
