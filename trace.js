@@ -11,7 +11,9 @@ const layoutBase = {
   paper_bgcolor: "rgba(0,0,0,0)",
   plot_bgcolor: "rgba(0,0,0,0)",
   margin: { t: 24, r: 20, b: 70, l: 60 },
-  font: { family: "Inter, Segoe UI, sans-serif", color: "#172033" },
+  font: { family: "Inter, Segoe UI, sans-serif", color: "#F3F5F9" },
+  xaxis: { gridcolor: "#2D3544", zerolinecolor: "#3D4859" },
+  yaxis: { gridcolor: "#2D3544", zerolinecolor: "#3D4859" },
 };
 
 const config = { displayModeBar: false, responsive: true };
